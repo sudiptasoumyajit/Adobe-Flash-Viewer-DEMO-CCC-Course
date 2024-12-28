@@ -1,0 +1,355 @@
+<html>
+<head>
+<Script Language="JavaScript">
+<!-- Script courtesy of http://www.web-source.net - Your Guide to Professional Web Site Design and Development
+function load() {
+ if (document.f1.lang.value == '1')
+	 var load = window.open('english/launch.html','','scrollbars=no,menubar=no,resizable=yes,toolbar=no,location=no,status=no');
+
+if (document.f1.lang.value == '2')
+	 var load = window.open('hindi/launch.html','','scrollbars=no,menubar=no,resizable=yes,toolbar=no,location=no,status=no');
+
+if (document.f1.lang.value == '3')
+	 var load = window.open('punjabi/launch.html','','scrollbars=no,menubar=no,resizable=yes,toolbar=no,location=no,status=no');
+
+}
+function loadEng(v) {
+	var cid ;
+		cid='english/launch.html?cid=' + v;
+	
+	
+    var load = window.open(cid,'','scrollbars=no,menubar=no,resizable=yes,toolbar=no,location=no,status=no');
+}
+function loadPun(v) {
+
+	var cid ;
+			cid='MoodlePunjabiCCC' +  v +'/ch' + v  + '/main.html';
+
+	var load = window.open( cid,'','scrollbars=no,menubar=no,resizable=yes,toolbar=no,location=no,status=no');
+}
+/*function loadPun( ) {
+
+	var cid ;
+		if (document.f1.chapteridp.value =='') {
+			cid='punjabi/launch.html?cid=1';
+		}else{
+			cid='MoodlePunjabiCCC' + document.f1.chapteridp.value +'/ch' + document.f1.chapteridp.value  + '/main.html';
+	}
+	var load = window.open( cid,'','scrollbars=no,menubar=no,resizable=yes,toolbar=no,location=no,status=no');
+}*/
+function loadHin() {
+	var cid ;
+			if (document.f1.chapteridh.value =='') {
+				cid='hindi/launch.html?cid=1';
+			}else{
+				cid='hindi/launch.html?cid=' + document.f1.chapteridh.value ;
+	}
+
+    var load = window.open(cid,'','scrollbars=no,menubar=no,resizable=yes,toolbar=no,location=no,status=no');
+}
+
+ function english(){
+		document.getElementById('englishdiv').style.display='block';
+		//document.getElementById('hindidiv').style.display='none';
+		document.getElementById('punjabidiv').style.display='none';
+		document.getElementById('downloaddiv').style.display='none';
+
+		document.getElementById('eng').style.background ='#3695e4';
+		//document.getElementById('hin').style.background ='#FFFFFF';
+ 		document.getElementById('pun').style.background ='#FFFFFF';
+		document.getElementById('download').style.background ='#FFFFFF';
+
+ }
+ function hindi(){
+ 		document.getElementById('englishdiv').style.display	='none';
+ 		//document.getElementById('hindidiv').style.display	='block';
+ 		document.getElementById('punjabidiv').style.display	='none';
+		document.getElementById('downloaddiv').style.display  ='none';
+
+ 		document.getElementById('eng').style.background ='#FFFFFF';
+ 		//document.getElementById('hin').style.background ='#3695e4';
+ 		document.getElementById('pun').style.background ='#FFFFFF';
+		document.getElementById('download').style.background ='#FFFFFF';
+
+ }
+ function punjabi(){
+  		document.getElementById('englishdiv').style.display='none';
+  		//document.getElementById('hindidiv').style.display='none';
+  		document.getElementById('punjabidiv').style.display='block';
+		document.getElementById('downloaddiv').style.display='none';
+
+		document.getElementById('eng').style.background ='#FFFFFF';
+	 	//document.getElementById('hin').style.background ='#FFFFFF';
+ 		document.getElementById('pun').style.background ='#3695e4';
+		document.getElementById('download').style.background ='#FFFFFF';
+ }
+ function download(){
+  		document.getElementById('englishdiv').style.display='none';
+  		//document.getElementById('hindidiv').style.display='none';
+  		document.getElementById('punjabidiv').style.display='none';
+		document.getElementById('downloaddiv').style.display='block';
+
+  	 	document.getElementById('eng').style.background ='#FFFFFF';
+	 	//document.getElementById('hin').style.background ='#FFFFFF';
+ 		document.getElementById('pun').style.background ='#FFFFFF';
+		document.getElementById('download').style.background ='#3695e4';
+ }
+// -->
+</Script>
+<style type="text/css">
+	/* hide from ie on mac \*/
+	html {
+		height: 100%;
+		overflow: hidden;
+	}
+
+	#flashcontent {
+		text-align: center;
+		margin-top: 100px;
+	}
+	/* end hide */
+
+	body {
+		height: 100%;
+		padding: 0;
+		margin-left: 0px;
+		margin-top: 0px;
+		margin-right: 0px;
+		margin-bottom: 0px;
+	}
+
+    select{
+		font-size:14px;
+    }
+    .selpunjabi {
+	font-face:joy;
+	font-size:14px;
+   }
+</style>
+</head>
+
+<body>
+<form name=f1>
+
+<!-- added for the sound to be played on load -->
+
+<embed src="music.wma" autostart="true" loop="false"
+width="2" height="0">
+</embed>
+<noembed>
+<bgsound src="music.wma" loop="1">
+</noembed>
+
+<!-- finish added for the sound to be played on load -->
+
+<table border=0  cellpadding=0 cellspacing=0 align=center>
+    <tr>
+              <!--    <td><img src=images\doeacc_blue.jpg height=100 width=100>
+        <td align=right><img src=images\doeacc_red.jpg height=150 width=150 >  -->
+    <td colspan=2 align=center> <img src=images\doebanner_r1_c1.jpg><img src=images\doebanner_r1_c2.jpg><img src=images\doebanner_r1_c3.jpg><img src=images\doebanner_r1_c4.jpg>
+ </td>
+
+    </tr>
+    <tr >
+	    <td colspan=2 >
+
+	    	<!--<table border=0 cellpadding=0 cellspacing=0>
+				<tr ><td width=100  align=center>
+				   <div id="eng" style="background-color:#3695e4" >
+						<a href="#" onclick="return english();">English</a></div>
+				 </td>
+				<td width=100 align=center>
+					<div id="hin">	<a href="#" onclick="return hindi();"> &#2361;&#2367;&#2344;&#2381;&#2342;&#2368;</a></div>
+				</td>
+				<td width=100 align=center>
+						<div id="pun"><a href="#" onclick="return punjabi();">
+								&#2602;&#2672;&#2588;&#2622;&#2604;&#2624;</a></div></td>
+				<td width=200 align=center>
+							<div id="download"><a href="#" onclick="return download();">Download / Settings</a></div></td>
+
+				</tr>
+		</table> -->
+    </tr>
+    <tr bgcolor ="#d3d3d3">
+    <td colspan=2 >
+
+     <div id="punjabidiv" style="display:none;">
+		<table  border=0 align=center  width=600 height=375 cellpadding=0 cellspacing=0 >
+		<TR><TD align=center colspan=2>
+		 	 <font size="5" face="Arial"> <br>  &#2581;&#2635;&#2608;&#2637;&#2616; &#2566;&#2600; &#2581;&#2562;&#2602;&#2637;&#2607;&#2626;&#2591;&#2608; &#2581;&#2622;&#2600;&#2637;&#2616;&#2631;&#2602;&#2637;&#2591;&#2637;&#2616; (CCC)
+		 	 	<!--<BR>  &#2581;&#2624; &#2566;&#2600;&#2610;&#2622;&#2567;&#2600; &#2616;&#2622;&#2606;&#2583;&#2608;&#2624;-->
+			  </font><br>
+		</TR>
+	     	<tr><td colspan=2 align=left>&nbsp;&nbsp;&nbsp;
+
+
+	     	<center><font color="#000000" size=4> 	&#2565;&#2599;&#2623;&#2566;&#2575; &#2586;&#2625;&#2595;&#2631;</font> <br><br> </center>
+		<font size=3>
+	     	 <a href="javascript:loadPun(1);" style="text-decoration:none;"> <font color="#0000ff" ><b>
+	     	 		&nbsp; 1. &nbsp; &#2581;&#2562;&#2602;&#2637;&#2607;&#2626;&#2591;&#2608; &#2602;&#2608;&#2623;&#2586;&#2607;  </a>  </font><br>
+			<a href="javascript:loadPun(2);" style="text-decoration:none;"> <font color="#0000ff" ><b>
+	     	 	 &nbsp; 2. &nbsp; &#2583;&#2637;&#2608;&#2632;&#2603;&#2623;&#2581;&#2610; &#2607;&#2626;&#2588;&#2620;&#2608; &#2567;&#2562;&#2591;&#2608;&#2603;&#2631;&#2616; &#2596;&#2631; &#2566;&#2599;&#2622;&#2608;&#2623;&#2596; &#2566;&#2602;&#2608;&#2631;&#2591;&#2623;&#2562;&#2583; &#2616;&#2623;&#2616;&#2637;&#2591;&#2606; &#2598;&#2622; &#2602;&#2608;&#2623;&#2586;&#2607;</a>  </font><br>
+
+	     	 <a href="javascript:loadPun(3);" style="text-decoration:none;"> <font color="#0000ff" ><b>
+	     	 	 &nbsp; 3. &nbsp; &#2613;&#2608;&#2637;&#2593; &#2602;&#2637;&#2608;&#2635;&#2616;&#2631;&#2616;&#2623;&#2562;&#2583; &#2598;&#2631; &#2584;&#2591;&#2581;</a>  </font><br>
+
+	     	 <a href="javascript:loadPun(4);" style="text-decoration:none;"> <font color="#0000ff" ><b>
+	     	  	 &nbsp; 4. &nbsp; &#2616;&#2637;&#2602;&#2637;&#2608;&#2631;&#2593;&#2614;&#2624;&#2591;</a>  </font><br>
+
+	     	 <a href="javascript:loadPun(5);" style="text-decoration:none;"> <font color="#0000ff" ><b>
+	     	 	&nbsp; 5. &nbsp; &#2581;&#2562;&#2602;&#2637;&#2607;&#2626;&#2591;&#2608; &#2581;&#2606;&#2637;&#2607;&#2626;&#2600;&#2623;&#2581;&#2631;&#2614;&#2600; &#2565;&#2596;&#2631; &#2567;&#2562;&#2591;&#2608;&#2600;&#2631;&#2591;</a>  </font><br>
+
+	     	 <a href="javascript:loadPun(6);" style="text-decoration:none;"> <font color="#0000ff" ><b>
+	     	 	&nbsp; 6. &nbsp; WWW  &#2565;&#2596;&#2631;  &#2613;&#2631;&#2604; &#2604;&#2637;&#2608;&#2622;&#2569;&#2588;&#2620;&#2608;</a>  </font><br>
+
+	     	 <a href="javascript:loadPun(7);" style="text-decoration:none;"> <font color="#0000ff" ><b>
+	     	 	&nbsp; 7. &nbsp; &#2581;&#2606;&#2637;&#2607;&#2626;&#2600;&#2623;&#2581;&#2631;&#2614;&#2600; &#2565;&#2596;&#2631; &#2581;&#2635;&#2610;&#2632;&#2604;&#2635;&#2608;&#2631;&#2614;&#2600;</a>  </font><br>
+
+	     	<a href="javascript:loadPun(8);" style="text-decoration:none;"> <font color="#0000ff" ><b>
+	     	 	&nbsp; 8. &nbsp; &#2587;&#2635;&#2591;&#2624; &#2602;&#2637;&#2608;&#2631;&#2588;&#2620;&#2631;&#2562;&#2591;&#2631;&#2614;&#2600; &#2604;&#2600;&#2595;&#2622;</a>  </font><br>
+		</font>
+		<!--
+			<select  name="chapteridp" size=8 style="font-size:14px;">
+			  <option value=1  > &nbsp; 1. &nbsp; &#2581;&#2562;&#2602;&#2637;&#2607;&#2626;&#2591;&#2608; &#2602;&#2608;&#2623;&#2586;&#2607;
+			  <option value=2>  &nbsp; 2. &nbsp; &#2583;&#2637;&#2608;&#2632;&#2603;&#2623;&#2581;&#2610; &#2607;&#2626;&#2588;&#2620;&#2608; &#2567;&#2562;&#2591;&#2608;&#2603;&#2631;&#2616; &#2596;&#2631; &#2566;&#2599;&#2622;&#2608;&#2623;&#2596; &#2566;&#2602;&#2608;&#2631;&#2591;&#2623;&#2562;&#2583; &#2616;&#2623;&#2616;&#2637;&#2591;&#2606; &#2598;&#2622; &#2602;&#2608;&#2623;&#2586;&#2607;
+			  <option value=3>  &nbsp; 3. &nbsp; &#2613;&#2608;&#2637;&#2593; &#2602;&#2637;&#2608;&#2635;&#2616;&#2631;&#2616;&#2623;&#2562;&#2583; &#2598;&#2631; &#2584;&#2591;&#2581;
+			  <option value=4>  &nbsp; 4. &nbsp; &#2616;&#2637;&#2602;&#2637;&#2608;&#2631;&#2593;&#2614;&#2624;&#2591;
+			  <option value=5>  &nbsp; 5. &nbsp; &#2581;&#2562;&#2602;&#2637;&#2607;&#2626;&#2591;&#2608; &#2581;&#2606;&#2637;&#2607;&#2626;&#2600;&#2623;&#2581;&#2631;&#2614;&#2600; &#2565;&#2596;&#2631; &#2567;&#2562;&#2591;&#2608;&#2600;&#2631;&#2591;
+			  <option value=6>  &nbsp; 6. &nbsp; WWW  &#2565;&#2596;&#2631;  &#2613;&#2631;&#2604; &#2604;&#2637;&#2608;&#2622;&#2569;&#2588;&#2620;&#2608;
+			  <option value=7>  &nbsp; 7. &nbsp; &#2581;&#2606;&#2637;&#2607;&#2626;&#2600;&#2623;&#2581;&#2631;&#2614;&#2600; &#2565;&#2596;&#2631; &#2581;&#2635;&#2610;&#2632;&#2604;&#2635;&#2608;&#2631;&#2614;&#2600;
+			  <option value=8>  &nbsp; 8. &nbsp; &#2587;&#2635;&#2591;&#2624; &#2602;&#2637;&#2608;&#2631;&#2588;&#2620;&#2631;&#2562;&#2591;&#2631;&#2614;&#2600; &#2604;&#2600;&#2595;&#2622;
+			</select>
+			-->
+			</tr>
+
+		<tr><td colspan=2 align=center> <br>
+			<!--<A HREF="javascript:loadPun()" >
+				<img src="images/start_button.png" alt="click here" width="128" height="43" style="border-style: none"/>
+			</A>-->
+		</tr>
+		</table>
+	</div>
+    <div id="englishdiv" style="display:Block;">
+
+		<table  border=0 align=center  width=600 height=375 cellpadding=0 cellspacing=0 >
+		<TR><TD align=center colspan=2>
+		 	 <font size="5" face="Arial">  <BR>Online content for <BR>
+				Course on Computer Concepts (CCC) </font><br>
+		</TR>
+		<tr><td colspan=2>
+
+		<font size=3>
+			     	 <a href="javascript:loadEng(1);" style="text-decoration:none;"> <font color="#0000ff" >
+			     	 		&nbsp; 1. &nbsp;Introduction to computer</a>  </font><br>
+					<a href="javascript:loadEng(2);" style="text-decoration:none;"> <font color="#0000ff" >
+			     	 	 &nbsp; 2. &nbsp;Introduction to GUI Based Operating System </a>  </font><br>
+
+			     	 <a href="javascript:loadEng(3);" style="text-decoration:none;"> <font color="#0000ff" >
+			     	 	 &nbsp; 3. &nbsp;Elements of Word Processing</a>  </font><br>
+
+			     	 <a href="javascript:loadEng(4);" style="text-decoration:none;"> <font color="#0000ff" >
+			     	  	 &nbsp; 4. &nbsp;Spreadsheet </a>  </font><br>
+
+			     	 <a href="javascript:loadEng(5);" style="text-decoration:none;"> <font color="#0000ff" >
+			     	 	&nbsp; 5. &nbsp;Computer communications and Internet</a>  </font><br>
+
+			     	 <a href="javascript:loadEng(6);" style="text-decoration:none;"> <font color="#0000ff" >
+			     	 	&nbsp; 6. &nbsp;WWW and web browser</a>  </font><br>
+
+			     	 <a href="javascript:loadEng(7);" style="text-decoration:none;"> <font color="#0000ff" >
+			     	 	&nbsp; 7. &nbsp;Communication and Collaboration</a>  </font><br>
+
+			     	<a href="javascript:loadEng(8);" style="text-decoration:none;"> <font color="#0000ff" >
+			     	 	&nbsp; 8. &nbsp;Making small presentations</a>  </font><br>
+		</font>
+
+	<!--	&nbsp;&nbsp;&nbsp; <font color="#FFFFFF" ><br> <b>Select Chapter </b></font> <br>
+			<select name="chapteride" size=8>
+			 	  <option value=1>  &nbsp; 1. &nbsp; Introduction to computer
+				  <option value=2>  &nbsp; 2. &nbsp; Introduction to GUI Based Operating System
+				  <option value=3>  &nbsp; 3. &nbsp; Elements of Word Processing
+				  <option value=4>  &nbsp; 4. &nbsp; Spreadsheet
+				  <option value=5>  &nbsp; 5. &nbsp; Computer communications and Internet
+				  <option value=6>  &nbsp; 6. &nbsp; WWW and web browser
+				  <option value=7>  &nbsp; 7. &nbsp; Communication and Collaboration
+				  <option value=8>  &nbsp; 8. &nbsp; Making small presentations			</select>
+			</tr> -->
+
+	<!--	<tr><td colspan=2 align=center> <br>
+			<A HREF="javascript:loadEng()" >
+				<img src="images/start_button.png" alt="click here" width="128" height="43" style="border-style: none"/>
+			</A>
+		</tr>-->
+		</table>
+	</div>
+	<div id="hindidiv" style="display:none;">
+		<table  border=0 align=center  width=600 height=350 cellpadding=0 cellspacing=0 >
+		<TR><TD align=center colspan=2>
+		 	 <font size="5" face="Arial">  <br> &#2325;&#2379;&#2352;&#2381;&#2360; &#2321;&#2344; &#2325;&#2306;&#2346;&#2381;&#2351;&#2370;&#2335;&#2352; &#2325;&#2377;&#2344;&#2381;&#2360;&#2375;&#2346;&#2381;&#2335;&#2381;&#2360; (CCC)
+		 	 		<BR>&#2325;&#2368; &#2321;&#2344;&#2354;&#2366;&#2311;&#2344; &#2360;&#2366;&#2350;&#2327;&#2381;&#2352;&#2368;
+				  </font><br>
+		</TR>
+		<tr><td colspan=2 align=center>&nbsp;&nbsp;&nbsp; <font color="#FFFFFF" ><br> <b>&#2309;&#2343;&#2381;&#2351;&#2366;&#2351; &#2330;&#2369;&#2344;&#2375;</b></font> <br>
+			<select name="chapteridh" size=8>
+			 <option value=1>   &nbsp; 1. &nbsp;  &#2325;&#2306;&#2346;&#2381;&#2351;&#2370;&#2335;&#2352; &#2346;&#2352;&#2367;&#2330;&#2351;
+			  <option value=2>  &nbsp; 2. &nbsp;  &#2327;&#2381;&#2352;&#2373;&#2347;&#2367;&#2325;&#2354; &#2351;&#2370;&#2332;&#2364;&#2352; &#2311;&#2306;&#2335;&#2352;&#2347;&#2375;&#2360; &#2346;&#2352; &#2310;&#2343;&#2366;&#2352;&#2367;&#2340; &#2321;&#2346;&#2352;&#2375;&#2335;&#2367;&#2306;&#2327; &#2360;&#2367;&#2360;&#2381;&#2335;&#2350; &#2325;&#2366; &#2346;&#2352;&#2367;&#2330;&#2351;
+			  <option value=3>  &nbsp; 3. &nbsp;  &#2357;&#2352;&#2381;&#2337; &#2346;&#2381;&#2352;&#2379;&#2360;&#2375;&#2360;&#2367;&#2306;&#2327; &#2325;&#2375; &#2328;&#2335;&#2325;
+			  <option value=4>  &nbsp; 4. &nbsp;  &#2360;&#2381;&#2346;&#2381;&#2352;&#2375;&#2337;&#2358;&#2368;&#2335;
+			  <option value=5>  &nbsp; 5. &nbsp;  &#2325;&#2306;&#2346;&#2381;&#2351;&#2370;&#2335;&#2352; &#2325;&#2350;&#2381;&#2351;&#2370;&#2344;&#2367;&#2325;&#2375;&#2358;&#2344;  &#2324;&#2352; &#2311;&#2306;&#2335;&#2352;&#2344;&#2375;&#2335;
+			  <option value=6>  &nbsp; 6. &nbsp;  WWW &#2324;&#2352; &#2357;&#2375;&#2348; &#2348;&#2381;&#2352;&#2366;&#2313;&#2332;&#2364;&#2352;
+			  <option value=7>  &nbsp; 7. &nbsp;  &#2325;&#2350;&#2381;&#2351;&#2370;&#2344;&#2367;&#2325;&#2375;&#2358;&#2344; &#2324;&#2352; &#2325;&#2379;&#2354;&#2373;&#2348;&#2379;&#2352;&#2375;&#2358;&#2344;
+		 	  <option value=8>  &nbsp; 8. &nbsp;  &#2331;&#2379;&#2335;&#2368; &#2346;&#2381;&#2352;&#2375;&#2332;&#2364;&#2375;&#2306;&#2335;&#2375;&#2358;&#2344; &#2348;&#2344;&#2366;&#2344;&#2366;
+		 	 </select>
+			</tr>
+
+		<tr><td colspan=2 align=center> <br>
+			<A HREF="javascript:loadHin()" >
+				<img src="images/start_button.png" alt="click here" width="128" height="43" style="border-style: none"/>
+			</A>
+		</tr>
+		</table>
+
+	</div>
+
+	<div id="downloaddiv" style="display:none;">
+
+		<table  border=0 align=center  width=730 height=375 cellpadding=0 cellspacing=0 >
+		<tr><td> &nbsp; </tr>
+		<TR>	<TD>Step 1 <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Step 2 </tr>
+
+		<TR>
+		<TD valign="top" align="center"><br><br>	 <font size="2" face="Arial" color="#ffffff">
+			 Install Punjabi Joy Font  <br>
+				 <a href="download/font.zip"> <img src="images\zip.jpg" height=50 width=50></a> </font>
+
+		 <TD align=center  colspan=2 >
+		     <font size="2" face="Arial" color="#ffffff">
+ 			Start&nbsp; >&nbsp; Control Panel&nbsp;>&nbsp;Regional & Language Options&nbsp;>&nbsp; Languages Tab<br>
+			select the checkbox as shown below :
+		     </font>
+			   <img src="images\regsetting.jpg"  ></a> </font>
+		</TR>
+
+		</table>
+	</div>
+
+</tr>
+<tr>
+<td colspan=2 align=center>
+<br>
+
+<font  color ="#3695e4" face="arial" size="2">This Website was last updated on 11th November 2009 <br>
+This site is best viewed in IE version 5.0 , Netscape version 6.0 and above with resolution 1024 x 768 pixels<br>
+DOEACC Society, Chandigarh Centre© 2009 All rights reserved.  </b>
+</font>
+</tr>
+</table>
+
+</form>
+<!--
+<input type=button name=btnshow value=start>
+<form>
+<input type="button" value="Open Window"
+onclick="window.open('http://www.domain.com')">
+</form>
+-->
