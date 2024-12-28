@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<!DOCTYPE quiz [
+	<!ELEMENT quiz (title, items)>
+	<!ELEMENT title (#PCDATA)>
+	<!ELEMENT items (item)+>	
+	<!ELEMENT item (question, answer, answer+)>
+	<!ELEMENT question (#PCDATA)>
+	<!ELEMENT answer (#PCDATA)>
+	<!ATTLIST answer correct (y) #IMPLIED>
+]>
+<quiz>
+	<items>
+		<item>
+			<question>1. A physical connection to the network is made by putting a ________ inside the computer and connecting it to the network cable. </question>
+			<answer correct="y">NIC</answer>
+			<answer>PLC</answer>
+			<answer>CNC</answer>
+			<answer>None of the above</answer>
+		</item>
+		<item>
+			<question>2. Geometric arrangement of devices on the network is called _________</question>
+			<answer>Connection</answer>
+			<answer correct="y">Topology</answer>
+			<answer>Packaging</answer>
+			<answer>Protocol</answer>
+		</item>		
+		<item>
+			<question>3. Which single piece of equipment forms a component of local loop in the Internet Architecture </question>
+			<answer>Robot</answer>
+			<answer>Anderoid</answer>			
+			<answer correct="y">Router</answer>
+			<answer>Usenet</answer>
+		</item>		
+		<item>
+			<question>4. An __________ site provides information about a company but it makes the information available only to that company's employees mainly.  					</question>
+			<answer>Extranet</answer>
+			<answer>Internet</answer>
+			<answer>Extrinet</answer>
+			<answer correct="y">Intranet</answer>
+		</item>		
+ 		<item>
+			<question>5.A ___________ is a program that can search a large database for specific information.</question>
+			<answer>Internet Explorer</answer>
+			<answer>Website</answer>
+			<answer correct="y">Search Engine</answer>
+			<answer>Google Toolbar</answer>
+			</item>
+		
+	
+</items>
+</quiz>

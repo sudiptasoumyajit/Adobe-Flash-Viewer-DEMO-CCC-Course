@@ -1,0 +1,106 @@
+<chapter  name="6. WWW and Web Browsers "> 
+<section name="6.0 Introduction">
+<topic name=""  imgName="images\chapter06\6.0.swf">The World Wide Web is a way to share resources with many people at the same time, even if some of these resources are located at opposite ends of the world.
+The Web is the most popular Internet service next to e-mail, but it accesses a larger quantity and greater variety of data than any other service on the Internet. World Wide Web is a huge collection of hypertext pages on the Internet. A wide range of Web browsers is available for every type of systems you can imagine, including graphical-user-interface, and text-only for dial-up UNIX connections.
+A web browser is a software application for retrieving, presenting, and traversing information resources on the World Wide Web. An information resource is identified by a Uniform Resource Identifier (URI) and may be a web page, image, video, or any other piece of content. Hyperlinks present in resources enable users to easily navigate their browsers to related resources.
+
+</topic>
+</section>
+<section name="6.1 Objectives">
+<topic name="6.1 Objectives " display="fullScreen" imgName="images\chapter06\6.1.swf"> 
+</topic>
+</section>
+<section name=" 6.2 Web Browsing Software">
+<topic name="6.2.1 Internet Explorer " imgName="images\chapter06\6.2.1.swf">Internet Explorer (IE) is the name of Microsoft's browser that enables you to view Web pages on the Internet using a graphical interface. Internet Explorer was first introduced in 1995 and it is the most popular browser used today. The latest official release, Internet Explorer 7 (IE7) is made available for Windows XP, Windows Server 2003, and Windows Vista.
+The parts of Internet Explorer are explained below:
+&lt;b&gt;Title Bar: &lt;/b&gt; On the extreme left, the title bar displays the name of the web page currently open and on the right side the maximize/minimize, restore and close buttons.
+&lt;b&gt;Menu Bar: &lt;/b&gt; This is located just below the Title bar and has the pull-down menu.
+&lt;b&gt;Toolbar: &lt;/b&gt; It is located below the Menu bar and has buttons that allow quick access to commands and WebPages that you might be using often. The Links toolbar provides one click access to your most frequently used pages.
+&lt;b&gt;Explorer animation: &lt;/b&gt; It indicates when Internet Explorer is waiting to receive information from a computer on the Internet. The flag icon shimmers in case Internet Explorer is waiting.
+&lt;b&gt;Document area:&lt;/b&gt; It displays the Web page you are currently viewing.
+&lt;b&gt;Address Bar:&lt;/b&gt; The address bar displays the URL/address of the page you are currently viewing.
+&lt;b&gt;The Explorer Bar:&lt;/b&gt;An Explorer bar is a separate window pane. Internet explorer has four different explorer bars viz. Search, Favourites, History and channels.
+&lt;b&gt;The Status Bar:&lt;/b&gt;  The status bar provides information about the current state of the browser.
+</topic>
+
+<topic name="6.2.2 Netscape Communicator" imgName="images\chapter06\6.2.2.swf">Netscape Communicator is an Internet suite that was produced by Netscape Communications Corporation. Initially released in June 1997, Netscape Communicator 4.0 was the successor to Netscape Navigator 3.x and included more groupware features intended to appeal to enterprises.
+Netscape has built entire suite of software around its Netscape Browser called Netscape Communicator. It includes modules for :
+- Reading newsgroups.
+- Reading, sending and managing Internet mail.
+- For audio conference.
+- For collaborative work on whiteboard application in which people can view and mark up the same document simultaneously.
+Communicator also includes an HTML editor that allows you to edit, create and post HTML document on the Web.
+</topic>
+
+</section>
+<section name="6.3 Configuring Web Browser">
+<topic name=" Configuring Web Browser " imgName="images\chapter06\6.3.swf">You can change the look and layout of web browser. To configure web browser follow the below listed steps :-
+&lt;b&gt;1.&lt;/b&gt; Click the Tools menu and click Internet Options.The Internet Options Dialog Box appears.
+&lt;b&gt;2.&lt;/b&gt; Homepage is the first webpage that will be dispalyed when you open your browser.To set a Home Page type the address of the page which you want to make homepage in the HomePage Address TextBox.
+&lt;b&gt;3.&lt;/b&gt; History folder contains links to recently viewed web pages. you can specify the number of days to keep pages in history. You can also delete history by clicking on "Clear History" button.
+&lt;b&gt;4.&lt;/b&gt; To change Text and background color , click on the "Colors" button. The "Colors Dialog Box" appears where you can select the desired color for text.
+&lt;b&gt;5.&lt;/b&gt; To change the font of text on the webpages, click on the "Fonts" Button. The "Font Dialog Box" appears where you can select the desired font for the text.
+</topic>
+</section>
+<section name=" 6.4 Search Engines">
+<topic name="6.4.1 Popular Search Engines/Search for content" imgName="images\chapter06\6.4.1.swf">A Search Engine is a program that searches documents for specified keywords and returns a list of the documents where the keywords are found. 
+Although search engine is really a general class of programs, the term is often used to specifically describe systems like Google,Alta Vista and Excite that enable users to search for documents on the World Wide Web and USENET newsgroups.
+&lt;b&gt;Techniques for using a Search Engine&lt;/b&gt;
+The best way to learn how to use a search engine is to read the help information and practise. If you want to search for words that must be together you can put them within quotation marks. Thus if your first search doesn't find what you want,  it is a good idea to try different combinations.
+There are two easy ways to narrow the search.
+a. Use a plus (+) sign to indicate you want only Web pages that contain a specific word.
+b. Use a minus (-) sign to indicate you want only Web pages that do not contain a specific word.
+</topic>
+<topic name="6.4.2 Accessing Web Browser" imgName="images\chapter06\6.4.2.swf">To open Web Browser double click on icon of your browser.eg. click blue coloured and encircled `e` on your desktop for opening Internet Explorer
+For opening any page in Web Browser write URL of that page in address bar of browser.
+The term &lt;b&gt;URL &lt;/b&gt; stands for &lt;i&gt;Uniform Resource Locator&lt;/i&gt;, the global address of documents and other resources on the World Wide Web. The most popular resources on the NET are many millions of the web pages stored on web servers all over the world. Any one with an Internet connection and a browser can access these pages. Of course in order to fetch a web page for you, your browser needs to know where to find the page. To describe the location of the web pages we use special type of address called a URL. 
+A URL is made up of several parts. 
+The first part is the protocol, which tells the web browser what sort of server it will be talking to in order to fetch the URL. The protocol is http, as shown. 
+The second part of the example URL given in the figure is the fully qualified domain name of the website to connect to. In this case, the fully qualified domain name is www.doeacc.edu.in. This name identifies the web site containing the page.
+The third part of the example URL is the path at which this particular web page is located on the web server. In this case, the path is /jsp/ccc.htm. 
+</topic>
+<topic name="6.4.3 Using Favorites Folder" imgName="images\chapter06\6.4.3.swf">&lt;b&gt;Favorites Menu&lt;/b&gt;, allows you to create a list of favourite pages and organize them into folders. Once you have done that, then,to go to a favourite page,you just need to select the page you want from the Favourites menu.
+To add the web page to your favorite listm, follow the given steps :-
+1. Click the Favorites menu and select Add to Favorites, or, click Add to Favorites on the Favorites Explorer Bar.The Add Favourite Dialog Box appears.
+2. In the Name textbox,change the name of page, if you desire.
+3. In the create In box select the location of the favorite page, if you wish to organize favorite pages in folders.
+4. Click the OK button.
+Your favourite page will be added to Favorite menu or under a submenu as you created.
+</topic>
+<topic name="6.4.4 Downloading" imgName="images\chapter06\6.4.4.swf">Downloading is the process of taking a file from a computer on the Internet and saving that file on your own computer. You can download any material which can be movie clips, songs, text files/selected text, software, freeware etc. The selected material can be in virtually any format, including application files (*.exe); zip files (*.zip); word processing documents (*.docs), multimedia files (*.wav) etc. 
+To download a file, you need to click on an appropriate link given for this purpose, which automatically starts the download process. 
+Sometimes, it is necessary to hold down the shift key while clicking on a link to begin the download. 
+After starting the download, a dialog box will prompt the user to choose a destination place to download the file. This download location can be on your computer's hard-drive,pen-drive or a floppy disk. 
+After choosing the desired destination and clicking Save, the file will begin to download. 
+</topic>
+<topic name="6.4.5 Printing Web pages" imgName="images\chapter06\6.4.5.swf">While browsing/surfing the Internet, you will come across many web pages that you really like. Maybe it's a recipe you want to make, a picture you like or a tutorial from this Web site. The currently open web page can be saved and/or be printed for later use. 
+For example, if you have accessed a long and useful text file on the net, you may want to save it to read it off-line later on(especially if you're paying per minute for connection time!). You can also print it out later as well. 
+&lt;b&gt;To save a Web Page:&lt;/b&gt; 
+First, check to make sure that the whole file is loaded. Watch the indicator at the bottom of your browser, or hit Ctrl+End to take you to the bottom of the document to see if it is all there. 
+From the Main Menu at the top of your browser, click File. Then, from the drop-down menu click Save As.  
+&lt;b&gt;Printing the Web Page&lt;/b&gt;
+ To print your desired web page,follow the given instructions :-
+1.	Open Your Web Page  that you want to print, in your browser. 
+2.	On the top of your browser is a menu. Click on the first option "File" in the menu. Another menu will drop down. 
+3.	After this menu drops down click on the option "Print".
+4.	A box will pop up when you click on "Print". Click on the button that says "OK" and your printer will start printing the page.
+</topic>
+
+</section>
+<section name="6.5 Summary" >
+<topic name="" imgName="images\chapter06\chap6_sum.swf">1.	The World Wide Web is the most popular Internet service next to e-mail.
+2.	Internet Explorer and Netscape Communicator are most popular Web Browsing Softwares.
+3.	Look and layout of Web Browser can be changed by clicking Tools>Internet Options...
+4.	You can make use of plus(+) and minus(-) sign to better your search.
+5.	To access any web page you need to give URL of that page.
+6.	Links to web pages can be kept and organized in Favorites folder for quick access. 
+7.	Web pages can be downloaded and printed for later use.
+</topic>
+</section>
+
+<section name="6.6 Quiz">
+<topic name="Model Questions and Answers" display="fullScreen" imgName="quiz.swf"> 
+</topic>
+</section>
+ 
+</chapter>

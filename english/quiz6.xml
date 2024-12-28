@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<!DOCTYPE quiz [
+	<!ELEMENT quiz (title, items)>
+	<!ELEMENT title (#PCDATA)>
+	<!ELEMENT items (item)+>	
+	<!ELEMENT item (question, answer, answer+)>
+	<!ELEMENT question (#PCDATA)>
+	<!ELEMENT answer (#PCDATA)>
+	<!ATTLIST answer correct (y) #IMPLIED>
+]>
+<quiz>
+	<items>
+		<item>
+			<question>1. A web ________ is a software application for retrieving, presenting, and traversing information resources on the World Wide Web. </question>
+			<answer correct="y">Browser</answer>
+			<answer>Communicator</answer>
+			<answer>Decoder</answer>
+			<answer>Encoder</answer>
+		</item>
+		<item>
+			<question>2.  _________folder contains the recently viewed Web pages.</question>
+			<answer>Explorer</answer>
+			<answer correct="y">History</answer>
+			<answer>Temporary Internet Files</answer>
+			<answer>Windows</answer>
+		</item>		
+		<item>
+			<question>3. The first part of the URL  is __________.</question>
+			<answer>FQDN</answer>
+			<answer correct="y">Protocol</answer>
+			<answer>path</answer>
+			<answer>folder</answer>
+		</item>		
+		<item>
+			<question>4._______Menu, allows you to create a list of favourite pages and  organize them into folders.</question>
+			<answer>File</answer>
+			<answer>Edit</answer>
+			<answer>Tools</answer>
+			<answer correct="y">Favourites</answer>
+		</item>		
+  
+		<item>
+			<question>5_______is the most poular Web browser on the Internet. </question>
+			<answer>Netscape Communicator</answer>
+			<answer>Google Chrome</answer>
+			<answer correct="y">Internet Explorer</answer>
+			<answer>Mozilla Firefox</answer>
+			
+		</item>		
+ 
+	</items>
+ 
+</quiz>

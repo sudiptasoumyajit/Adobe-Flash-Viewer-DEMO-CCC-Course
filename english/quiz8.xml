@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<!DOCTYPE quiz [
+	<!ELEMENT quiz (title, items)>
+	<!ELEMENT title (#PCDATA)>
+	<!ELEMENT items (item)+>	
+	<!ELEMENT item (question, answer, answer+)>
+	<!ELEMENT question (#PCDATA)>
+	<!ELEMENT answer (#PCDATA)>
+	<!ATTLIST answer correct (y) #IMPLIED>
+]>
+<quiz>
+	<items>
+		<item>
+			<question>1. The extension of presentation file is ___________ </question>
+			<answer>.DOC</answer>
+			<answer>.XLS</answer>
+			<answer>.PTP</answer>
+			<answer correct="y">none of the above</answer>
+		</item>
+		<item>
+			<question>2. Presentation is opened in  __________View.</question>
+			<answer>Slide </answer>
+			<answer correct="y">Normal </answer>
+			<answer>Outline</answer>
+			<answer>Master</answer>
+		</item>		
+		
+		<item>
+			<question>3. The first slide is the _________ Slide</question>
+			<answer>Initial </answer>
+			<answer>Final</answer>
+			<answer correct="y">Title</answer>	
+			<answer>Master</answer>
+			
+		</item>		
+		<item>
+			<question>4. You can add animation effects and change play settings by clicking________________ button on the Slide Show menu </question>
+			<answer correct="y">Custom Animation</answer>
+			<answer>Rehearse Timing</answer>
+			<answer>Form Animation</answer>
+			<answer>Develop Animation</answer>
+			
+		</item>		
+		<item>
+			<question>5. You can see how your text looks on each slide in the ______pane.  </question>
+			<answer>Icon</answer>
+			<answer>Master</answer>
+			<answer correct="y">Slide</answer>			
+			<answer>View</answer>
+			
+		</item>		
+ 		<!--<item>
+			<question>6.____________are basically thumbnails of slides printed together on a sheet of paper. </question>
+			<answer correct="y">Handouts</answer>			
+			<answer>Notes</answer>
+			<answer>Printouts</answer>			
+			<answer>None of the above</answer>
+			
+		</item>-->		
+	</items>
+</quiz>

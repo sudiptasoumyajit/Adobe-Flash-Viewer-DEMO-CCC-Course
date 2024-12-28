@@ -1,0 +1,294 @@
+<chapter  name="4.Spread Sheet"> 
+<section name="4.0 Introduction">
+<topic name=""  imgName="images\chapter04\4.0.swf">Electronic spreadsheet is the most commonly used data analysis tool. Spreadsheet tools are used to structure and rearrange data for their study and manipulation to achieve desired results. These are traditionally used to develop plans, budgets and other analysis. It accepts data values and relationships in the columns and rows of its worksheet and then allows users to perform calculations and other operations on this data to answer analysis questions.
+The first personal computer spreadsheet package was VisiCalc, a program developed by Dan Bracklin in 1979. Today, dozens of spreadsheet packages are available to help users prepare budgets, forecast future cash needs, determine break-even sales point and analyze countless other business and non-business problems. For Example :- 
+&lt;b&gt;Accountants&lt;/b&gt; need to keep track of all the money coming into the business and all the payments going out. They need to be able to calculate profits and forecast how well they think the business will do during the next year. They also need to calculate the wages of all the staff each month. 
+&lt;b&gt;Teachers &lt;/b&gt;can use spreadsheets to keep track of marks given for homework and recording exam results and also for registers. 
+&lt;b&gt;Sales people&lt;/b&gt; use spreadsheets to keep track of the items they sell, the value of the items, the profit made on each item and more importantly, the commission they have earned.
+&lt;b&gt;Market researchers&lt;/b&gt; collect data from shoppers about their spending habits and their awareness of different brands. All of this data has to be collated and analysed in order to provide the company with a detailed report of what customers think about their products. 
+</topic>
+</section>
+<section name="4.1 Objectives">
+<topic name="4.1 Objectives" display="fullScreen" imgName="images\chapter04\4.1.swf"> 
+</topic>
+</section>
+<section name="4.2 Elements of Electronics Spread Sheet">
+<topic name="4.2.1 Opening of  Spread Sheet" pageNo="1" totalPage="2" imgName="images\chapter04\4.2.1pg1.swf">Microsoft excel can be opened by clicking Microsoft Excel shortcut on desktop or Microsoft Excel option from popup menu under Programs menu. 
+Start Button &gt; All Programs &gt; Microsoft Excel 2003
+&lt;b&gt;Creating a New Workbook&lt;/b&gt; 
+When we start Microsoft Excel, a new workbook opens. 
+A workbook is a collection of spreadsheet pages. Each spreadsheet page is a grid made up of columns and rows. Each workbook is saved as a separate file, with extension .xls. The default file name for the first workbook is book1.xls. Each worksheet is divided into columns and rows, Columns are vertical divisions and Rows are horizontal divisions. The intersection of row and column is called Cell. The cell located at the intersection of column A and row 3 shall be referred to as A3. A worksheet has 256 columns and 65536 rows.
+The default workbook opens with 3 worksheets, named Sheet1, Sheet2 and Sheet3. The sheet names appear on tabs at the bottom of the workbook window. By clicking on the tabs you can move from sheet to sheet within a workbook. The tab of the active sheet is always bold.
+</topic>
+<topic name="" pageNo="2" totalPage="2" imgName="images\chapter04\4.2.1pg2.swf">The Ms-Excel has by default menu bar and other toolbars present (as shown). 
+At the top there is a Title Bar on which the file name is displayed as "Book1"
+The Standard Toolbar is required for basic operations such as open a new file, save, cut, copy, paste, sort and other basic tasks.
+The Formatting Toolbar provides us the facility to format the worksheet by using fonts,alignments,background color,text color etc.
+Additional toolbars can be activated or deactivated by right click in the blank area next to toolbars.
+Another way to activate or deactivate toolbars is to click View > Toolbars > click the appropriate toolbar to be activated or deactivated.
+&lt;b&gt;The Menu Bar&lt;/b&gt;  
+Menu commands are grouped into menus across the menu bar. Equivalent commands are also avaliable in shortcut menus, toolbar buttons and shortcut keys. Some commands display submenu. Submenus are indicated by "&gt;" following the command name. Submenus contain additional related commands.
+&lt;u&gt;The File menu&lt;/u&gt; ---- shows New, Open, Close, Save, Save As, Print and other basic file functions.
+&lt;u&gt;The Edit menu&lt;/u&gt; ---- shows Cut, Copy, Paste, Paste Special, Find, Replace  etc. to edit text
+&lt;u&gt;The Insert menu&lt;/u&gt; -- is used to add new Row, Column, Worksheet, Function, Picture and much more.
+&lt;u&gt;The View menu&lt;/u&gt; ---- is used to activate/deactivate Toolbars, to add/remove Header/Footer, to view  Comments etc.
+&lt;u&gt;The Format menu&lt;/u&gt; -- shows formatting options for Cells, Row, Column and Worksheet.
+&lt;u&gt;The Tools menu&lt;/u&gt; --- shows options for checking spreadsheet for spelling mistakes, enable/disable Protection of workbook, Auditing, AutoCorrect etc.
+&lt;u&gt;The Data menu&lt;/u&gt; ---- shows Sort, Filter, Table , Subtotal etc. for analyzing data
+&lt;u&gt;The Window menu&lt;/u&gt; -- facilitates better view of data with options for splitting and freezing Window panes 
+&lt;u&gt;The Help menu&lt;/u&gt; ---- shows various options for help on Microsoft Excel
+
+</topic>
+
+<topic name="4.2.2 Addressing of Cells" pageNo="1" totalPage="3" imgName="images\chapter04\4.2.2pg1.swf">The intersection of a column and a row is called a cell. The cell located at the intersection of column A and row 1 shall be referred to or addressed as A1
+There are three types of references: relative references, absolute references, and mixed references.
+&lt;b&gt;1.	Relative Addressing &lt;/b&gt;
+When a formula is copied to another cell, it shows the positional relationship among the cells and therefore this type of addressing is called RELATIVE ADDRESSING.
+Example:
+Suppose the cell E4 contains the formula =B4+C4+D4. 
+EXCEL offers a command with which contents of a cell or a group of cells can be copied to another cell or group of cells.
+When using that 'Copy command' the formula in E4 is copied to cell E5, 
+EXCEL copies it as =B5+C5+D5. 
+This means that EXCEL does not record the formula in E4 (or E5) as sum of the values in cells B4, C4, D4 or (B5, C5, D5). 
+Both the formulas mean "The sum of the values in the three columns to the left in the same row".
+Similarly a copy of the formula in cell E6 will be =B6+C6+D6.
+</topic>
+
+<topic name="4.2.2 Addressing of Cells" pageNo="2" totalPage="3" imgName="images\chapter04\4.2.2pg2.swf">&lt;B&gt;2.	Absolute Addressing&lt;/B&gt;
+Referring to the value in a cell rather than the position of the cell is called ABSOLUTE ADDRESSING.
+Example :
+To compute percentage marks obtained by all the students, the formula should be (Marks Obtained/Total Marks) * 100. To do so, we want that formula  ( =E4/D10 * 100) contained in F4 when copied to F5, F6, F7, F8 should always refer to value in cell D10, the formula in F4 should be written as :  =E4/$D$10 *100 . 
+When copied to cells F5, F6, F7, F8 the formula will appear as :
+F5	: 	=E5/$D$10 *100
+F6	: 	=E6/$D$10 *100
+F7	: 	=E7/$D$10 *100
+F8	:	=E8/$D$10 *100
+EXCEL uses a '$' (dollar) sign to distinguish the absolute address from relative address. 
+The value of $D$10 cell, being absolute address, remains fixed in all the formulas . 
+</topic>
+<topic name="4.2.2 Addressing of Cells" pageNo="3" totalPage="3" imgName="images\chapter04\4.2.2_3.swf">&lt;b&gt;3.	Mixed Addressing&lt;/b&gt;
+"$C$4" makes both the column and row absolute. 
+On the other hand "$C4" or "C$4" are treated as half-relative, half-absolute and such addressing is called MIXED ADDRESSING.
+Example :
+Now if a formula is typed using different cell addressing in D7 and the formula is copied to cells D8, D9, D10, E7, E8, the result according to cell addressing technique used, is shown in the figure.
+A formula can contain both absolute and relative addresses. 
+</topic>
+<topic name="4.2.3 Printing of Spreadsheet" imgName="images\chapter04\4.2.3.swf">&lt;b&gt;Printing Sheets&lt;/b&gt;
+There are several ways to print your work.
+- Click the Print button on the Standard Toolbar.
+- Choose the Print button in the Print Preview window.
+- Choose the Print button in the Print dialog box.
+A typical Excel Workbook can contain many sheets, each sheet can further have huge amount of data. So, the first thing before using any of the above three methods, you must select an area of the Spreadsheet which you want to print. To do so, follow the given steps :-
+1. Select the range of cells using keyboard/mouse
+2. Click the File Menu
+3. Click option Print Area
+4. Click sub-option Set Print Area
+5. Now select Print option from the File Menu to open up the Print Dialog Box or select Print tool from the Standard Toolbar.
+6. Before sending the spreadsheet for final printing, you should always see it's &lt;i&gt;Print Preview&lt;/i&gt; by clicking the Preview option in the Print Dialog Box.
+&lt;b&gt;Print Preview&lt;/b&gt;
+By previewing your sheet, you can see each page exactly as it will print, with the correct margins and page breaks and the headers and footers in place by clicking the Print Preview toolbar button. Drag the handles to adjust the page margins, header and footer margins and column widths. Click to magnify a portion of the page. Click again to display the whole page. When you preview, the following options appear in the Preview menu :
+&lt;b&gt;Next/Previous&lt;/b&gt; : View the next or previous page.
+&lt;b&gt;Zoom &lt;/b&gt;: Magnify or reduce the view of the page.
+&lt;b&gt;Print &lt;/b&gt;: Print the pages now.
+&lt;b&gt;Setup&lt;/b&gt;: Display the Page Setup dialog box.
+&lt;b&gt;Margins &lt;/b&gt;: Display or hide the margin and column width handles.
+7. Finally, click the Print Button in the Print Preview window.
+</topic>
+<topic name="4.2.4 Saving Workbook"  imgName="images\chapter04\4.2.4.swf">There are two methods to save a workbook. 
+&lt;b&gt;Method 1 &lt;/b&gt;: Click the Save Button on the Standard ToolBar.
+&lt;b&gt;Method 2 &lt;/b&gt;: Choose the Save command from the File Menu.
+If you haven't saved the workbook previously, the Save As dialog box appears so that you can type a name for the workbook. You can select the drive, directory, where you want to save the workbook.
+While working, you can quickly save the changes by pressing Ctrl+S.
+If you try closing a Workbook without saving it first, MS-Excel automatically prompts you to save the workbook. On receiving confirmation from you, the Workbook will be saved.
+If you try to exit from Excel without saving the Workbook, again it prompts you to save the workbook.
+</topic>
+</section>
+<section name="4.3 Manipulation of cells">
+<topic name="4.3.1 Entering Text, Numbers and Dates" pageNo="1" totalPage="2" imgName="images\chapter04\4.3.1pg1.swf">Cells can have two types of data in a worksheet.
+&lt;b&gt;Constant value&lt;/b&gt;: A constant value is data that you type directly into a cell. It can be a number, a date, time, currency, percentage, fraction or text. Constant values do not change unless we edit them.
+&lt;b&gt;Formula&lt;/b&gt; : A formula is a sequence of values, cell references, names, functions or operators that produce a new value from existing values. Formulas always start with the equal sign (=). A value that is produced as the result of the formula changes automatically when other values involved in the formula in the worksheet change.
+</topic>
+<topic name="4.3.1 Entering Text, Numbers and Dates" pageNo="2" totalPage="2" imgName="images\chapter04\4.3.1pg2.swf">&lt;b&gt;Numbers&lt;/b&gt;
+Numbers can include 0 through 9 and special character like + - () , / $ % . We can include commas in numbers as example 4,000. + sign entered before a number is ignored. Negative numbers must be enclosed in parentheses or preceded by a - sign.
+&lt;b&gt;Dates or Times&lt;/b&gt;
+We can directly enter a date, in the format which Excel recognises. To display time using 12-hour clock, type am or pm. If am or pm is not given, 24-hour clock is assumed. To enter dates, use either a / or -. Date and time can be entered in the same cell separated with a space. Some examples of valid formats are:
+15/10/96
+4-Nov-96
+8:15 PM
+8:50:10 am
+15/5/96 20:50
+&lt;b&gt;Text&lt;/b&gt;
+A text value can be 32000 characters long in one cell. Text spills over into empty cells to the right but it is truncated when the cell to the right contains data.
+&lt;b&gt;Logical and Error Values&lt;/b&gt;
+Logical values usually result from formulas that contain a logical function or any equation. Logical values are TRUE and FALSE.
+</topic>
+<topic name="4.3.2 Creating Text,Number,Date Series" pageNo="1" totalPage="2" imgName="images\chapter04\4.3.2pg1.swf">Typing labels and values can be one of the more tedious tasks in creating a Microsoft Excel worksheet. For example, in making a budget, you often label cells with the names of the months. The Fill Series feature in Excel makes it easy to enter values into many cells with just a few clicks. You determine whether the cells should contain steadily increasing or decreasing values (based on linear or geometric changes), or values based on trends or numbers already found in cells.
+Filling a series is one of the most time-saving features in Excel.
+&lt;b&gt;Filling a Linear Series&lt;/b&gt;
+In a linear series, each cell differs from the previous cell by a fixed amount. Suppose, we want to generate a list of serial numbers starting from 1 to 10 in the range of cells A1:A10. To generate, such a series, follow the given setps :-
+1. In Excel, enter the starting value 1 in cell A1 and 2 in cell A2. Next, you either select the cells that will hold the range, either across one row or down one column. In our case, it is the range of cells A1:A10.
+3. From, Edit Menu,select the option &lt;i&gt;Fill&lt;/i&gt; and the sub-option &lt;i&gt;Series.&lt;/i&gt;
+4. In the Series Dialog Box, specify the &lt;i&gt;Step Value&lt;/i&gt; and the &lt;i&gt;Stop Value&lt;/i&gt;.
+The Series dialog box contains four sections as given below :-
+a) The Option buttons in the &lt;i&gt;Series section&lt;/i&gt; determine whether the fill will occur across a row or down a column. 
+b) The &lt;i&gt;Type section&lt;/i&gt; lets you choose how you want the cells to be filled. 
+c) The &lt;i&gt;Date unit section&lt;/i&gt; applies only when you choose Date as the series type. 
+d) Finally, the bottom portion of the dialog box gives you the option of letting Excel base the series on values in the cells or the start and stop numbers you enter.
+</topic>
+<topic name="4.3.2 Creating Text,Number,Date Series" pageNo="2" totalPage="2" imgName="images\chapter04\4.3.2pg2.swf">&lt;b&gt;Text Series&lt;/b&gt;
+Many series can be filled without even using the Series dialog box. Dragging the right handle of a cell with data causes Excel to apply AutoFill, which is an intelligent guess as to what values or labels should fill the series. For example, suppose we enter the month "January" in cell B1. Then the bottom right handle of the cell is dragged to B10. When the mouse button is released, the months from "January" to "October" appear automatically. Similarly, you can create a list of weekdays also.
+Excel knows how to Autofill months (January or Jan) and days of the week (Monday or Mon). You can teach Excel to Autofill other text series by going to Tools Menu and creating a Custom List under Options Tab.
+&lt;b&gt;Date Series&lt;/b&gt;
+To fill up a range of cells with a series containing dates only, we can use the following steps  :-
+1. In Excel, in the cell C1, enter the first value 9-Nov-2009.
+2. Next, you either select the range of cells that will hold the range. In our case, it is the range of cells C1:C10.
+3. From Edit Menu, select the option &lt;i&gt;Fill&lt;/i&gt; and the sub-option &lt;i&gt;Series.&lt;/i&gt;
+4. In the Series Dialog Box, from the &lt;i&gt;Type Section&lt;/i&gt; select &lt;i&gt;Date&lt;/i&gt;.
+5. Let Step Value be 1(default).
+6. The actual date series to be generated depends upon &lt;b&gt;Date Unit&lt;/b&gt;. Choose an appropriate date unit such as Month.
+7. Click OK.
+</topic>
+<topic name="4.3.3 Editing Worksheet Data" pageNo="1" totalPage="2" imgName="images\chapter04\4.3.3pg1.swf">There are two ways to edit a spreadsheet : 
+1) Edit the data itself, such as the labels, numbers and formulas that make up a spreadsheet.
+2) Edit the physical layout of the spreadsheet, such as adding or deleting rows and columns, widening or shrinking the width or heights of rows and columns.
+&lt;b&gt;Editing data in a cell&lt;/b&gt;
+To edit data in a single cell, follow these steps: 
+1. Double-click the cell that contains the data you want to edit. Excel displays a cursor in your selected cell.
+2. Edit your data by using the Backspace or Delete key or by typing new data.
+If you click a cell, Excel displays the contents of that cell in the Formula bar. You can click and edit data directly in the Formula bar, which can be more convenient for editing large amounts of data.
+</topic>
+<topic name="4.3.3 Editing Worksheet Data" pageNo="2" totalPage="2" imgName="images\chapter04\4.3.3pg2.swf">You can copy and move cells in two ways:
+&gt; By using cut, copy and paste.
+&gt; By dragging with the mouse.
+When you copy a cell, you duplicate the cell contents and paste them to a new location. When you move cells, you remove the cell contents and paste them to a new location. When you paste cells over existing cells, you overwrite the existing cell contents.
+When you copy cells, they are duplicated in another location. Select the cells you want to copy and choose the copy command from the Edit Menu or Shortcut Menu or Toolbar Buttons. The Copy area is marked with an animated border. Choose the paste command from the Edit Menu or Shortcut Menu, the cells are copied to the destination cell/cells. 
+When you move cells they are cut and transferred to another location. Select the cells you want to move and choose the cut command from the Edit Menu or Shortcut Menu. The cut area is marked with an animated border. Choose the paste command from the Edit Menu or Shortcut Menu. 
+&lt;B&gt;Copying and Moving Cells by Dragging&lt;/B&gt;
+Using the mouse you can quickly copy and move cells. For copying, position the mouse pointer over the border of a selection. Hold down CTRL key and drag the border to the new location. Release the mouse button and then the CTRL key.
+For moving, position the mouse pointer over the border of a selection and drag the border to the new location. Release the mouse button. Do not hold down CTRL key for moving the selected cells. 
+</topic>
+<topic name="4.3.4 Inserting and Deleting Rows,Columns" imgName="images\chapter04\4.3.4.swf">After you type in labels, numbers and formulas, you may suddenly realize that you need to add or delete extra rows or columns. 
+&lt;b&gt;To add a row or column&lt;/b&gt;, follow these steps: 
+1. Click the Home tab.
+2. Click the row or column heading where you want to add another row or column. 
+3. Click the Insert Menu.
+4. Select the Columns/Rows option.
+Inserting a row adds a new row above the selected row. Inserting a column adds a new column to the left of the selected column. 
+&lt;b&gt;To delete a row or column&lt;/b&gt;, follow these steps: 
+1. Click the Home tab.
+2. Click the row or column heading that you want to delete.
+3. Click the Delete option in the Edit Menu. Deleting a row or column deletes any data stored in that row or column. 
+</topic>
+<topic name="4.3.5 Cell Height and Width " imgName="images\chapter04\4.3.5.swf">Cell height and width can be changed according to the choice of the user. 
+Format menu has Row and Column options to alter the setting of selected row or column.
+Once user clicks on the Row > Height menu option, a window displaying the current height (e.g. 12.75) of the selected row (now it is A1), opens. User can enter the appropriate value and click OK button 
+Another way is to drag the row boundary. Once we click at row boundary the cursor changes to double headed arrow. The height is shown in the tool tip.
+User can drag the cursor to get the appropriate height of the row. 
+Similarly the column width can also be changed. Both the ways discussed above for row are applicable to column also.
+</topic>
+</section>
+<section name="4.4 Functions and Charts">
+<topic name="4.4.1 Using Basic Formulas" imgName="images\chapter04\4.4.1.swf">In Microsoft Excel, cell can have normal data or a formula entry. Formulas help us to analyze data on a worksheet. With a formula we can perform operations, such as addition, multiplication and comparison on worksheet values. We can use a formula when we want to enter calculated values on a worksheet.
+A Microsoft Excel formula always begins with an equal sign (=). A formula is an equation whose result is shown in the cell. A formula can contain one or more Cell Addresses, Functions, Constants and Operators. There are seven basic mathematical operators which can be used for calculations.
+&lt;b&gt;Operator&lt;/b&gt;	&lt;b&gt;Operation&lt;/b&gt;
+	*	Multiplication
+	+	Addition
+	-	Subtraction
+	/	Division
+	\	Integer Division
+	^	Exponentiation
+	Mod	Modulus
+</topic>
+<topic name="4.4.2 Functions" imgName="images\chapter04\4.4.2pg1.swf" pageNo="1" totalPage="4">Functions are small programs that return a value based on some calculation, comparison or evaluation. All function names are followed by a pair of parentheses, which are used to enclose the argument or arguments required by the function. A comma is used to separate each argument. Excel contains about 250 readymade functions, some of which are being introduced in the coming up section.
+&lt;b&gt;Sum Function&lt;/b&gt;
+It adds all the numbers in a range of cells. It can be used in two ways.  
+&lt;b&gt;AutoSum Button&lt;/b&gt;
+When you use the AutoSum button, Microsoft Excel types the function for you and even suggests the range of cells you may want to add. To enter a sum formula, select a cell adjacent to row or column of numbers you want to add and click the AutoSum button.
+&lt;b&gt;Using the Function Wizard&lt;/b&gt;
+Whenever you want to use a built-in Microsoft Excel function you can use the Function Wizard to help you select a function, assemble the arguements correctly and insert the function into the formula. To add a function to a formula, activate the function wizard by clicking the Function Wizard button. When you click the Finish button, the selected function is inserted into your formula with the arguements'  names inserted as placeholders.
+</topic>
+<topic name="4.4.2 Functions" imgName="images\chapter04\4.2.2pg2.swf" pageNo="2" totalPage="4">&lt;b&gt;Average Function&lt;/b&gt; It returns the average(arithmetic mean) of its arguments which can be numbers or references that contains numbers. Average can be calculated in two ways 
+&gt; By applying average formula through function wizard
+Through function wizard it will prompt you to enter the values or range and give  output in the appropriate cell. 
+&gt; By adding the individual cells and dividing it by the count of cells
+Firstly either mention the specific cell address or numbers in the parentheses, then divide it by the count of cells or numbers.
+for example:
+=(b3+c6+d9)/3
+=(23+34+45)/3
+
+</topic>
+<topic name="4.4.2 Functions" imgName="images\chapter04\4.4.2pg3.swf" pageNo="3" totalPage="4">&lt;b&gt;Other Functions&lt;/b&gt;
+&lt;U&gt; Mathematical Functions&lt;/U&gt; 
+INT : Rounds a supplied number down to a whole integer
+	Example :  =int(45.6)    	 output : 45
+FLOOR : Rounds a supplied number down to a supplied significance
+	Example :  =floor(35,2)  	 output :34
+CEILING : Rounds a supplied number up to a supplied significance
+	Example :  =ceiling(35,2)  	 output :36
+ROUND : Rounds a supplied number up or down, to a specified number of digits
+	Example :  =round(123.73,1)	 output :123.7
+	           =round(345.78,0)	 output :346
+ABS : Absolute function converts negative value into positive value
+	Example :  =abs(-67)		 output :67
+&lt;U&gt;Date & Time Functions  &lt;/U&gt;
+NOW : Returns the current date and time e.g =now()
+TODAY : Returns today's date  e.g =today()
+
+</topic>
+<topic name="4.4.2 Other Basic Functions" pageNo="4" totalPage="4" imgName="images\chapter04\4.4.2pg4.swf">&lt;U&gt; Statistical Functions &lt;/U&gt;
+ COUNT : Returns the number of numerical values in a supplied set of cells or values
+	Example :  =count(e3:e10)	 output :7	    
+ MAX : Returns the greatest value from a list of supplied numbers
+	Example :  =Max(c3:c7)          output :10000
+ MIN : Returns the smallest value from a list of supplied numbers
+	Example :  =Min(c3:c7)          output : 6000
+&lt;U&gt;Logical Functions  &lt;/U&gt;
+ IF : Tests a user-defined condition and returns one result if the condition is true and another result if the condition is false 
+	In the result, we can display the text value as well as we can do calculations.
+	Example : a) If basic pay in cell C3 is greater than 10000 then commission is 10% otherwise 5%.
+			 =if(c3>10000 ,c3*10/100,c3*5/100)
+	          b) If basic pay in Cell C3 is greater than 10000 then Desig is SSA otherwise SA.
+			 =if(c3>10000,"SSA","SA")
+
+</topic>
+
+<topic name="4.4.3 Charts" pageNo="1" totalPage="2" imgName="images\chapter04\4.4.3pg1.swf">&lt;b&gt;What is a Chart?&lt;/b&gt;
+A chart is a graphic representation of data and values. Charts are linked to the worksheet data they are created from and are updated when you change the worksheet data. Charts are constructed with data points and data series - group of selected data points within columns or rows. 
+&lt;b&gt;Embedded Charts and Chart Sheets&lt;/b&gt;
+You can create an embedded chart as an object on a worksheet when you want to display a chart along with its associated data or you can create a chart sheet as a separate sheet in a workbook.
+To create a chart, follow the given steps:
+&lt;b&gt;1.&lt;/b&gt; Select the cells that contain the data that you want to appear in the chart. 
+&lt;b&gt;2.&lt;/b&gt; If you want the column and row labels to appear in the chart, include the cells that contain them in the selection.
+&lt;b&gt;3.&lt;/b&gt; Click Chart Wizard. 
+&lt;b&gt;4.&lt;/b&gt; Select chart type and subtype. Click Next Button to goto the next step of Wizard.
+&lt;b&gt;5.&lt;/b&gt; Verify that you selected correct range from Data Series and Data Range Tabs of the Wizard. Click Next.
+&lt;b&gt;6.&lt;/b&gt; Enter chart title and other options.
+&lt;b&gt;7.&lt;/b&gt; Specify Location for inserting chart.
+</topic>
+<topic name="4.4.3 Charts" pageNo="2" totalPage="2" imgName="images\chapter04\4.4.3pg2.swf">&lt;b&gt;To change default chart type:&lt;/b&gt;
+The default chart type for Microsoft Excel is a column chart, unless you change it. If you create a different type of chart in a routine such as a line chart, you can change the default chart type. If you already have a chart that has the chart type, items and formatting you want, you can use that chart as the default chart type.
+To change the default chart type, follow the given steps :-
+1. Click a chart.
+2. On the Chart menu, click Chart Type.
+3. On the Standard Types or Custom Types tab, click the chart type you want.
+4. To close the dialog box and change the chart type of the current chart, click OK.
+&lt;b&gt;Note :-&lt;/b&gt; Other options pertaining to the Chart can also be changed by using the Chart Menu options. For example, you can change the Chart Title, the Source Data, the Location etc. These options are also available on the Shortcut Menu which appears with a Right Click on the chart.
+</topic>
+</section>
+
+<section name="4.5 Summary">
+<topic name=""  imgName="images\chapter04\chap4_sum.swf">In this chapter, you have learnt about Electronic Spreadsheets based data analysis using MS-Excel. 
+1. MS-Excel can be used to create, edit and print Workbooks.
+2. You can store Textual, Numeric as well Date type data in a Workbook.
+3. You can use formulas to make calculations. 
+4. You can make use of many inbuilt formulas called Functions available in Excel too.
+5. For better understanding and representation of your data, you can make use of Charts in Excel.
+</topic>
+</section>
+
+<section name="4.6 Quiz">
+<topic name="Model Questions and Answers" display="fullScreen" imgName="quiz.swf"> 
+</topic>
+</section>
+
+</chapter>

@@ -1,0 +1,234 @@
+<chapter name ="7. Communication And Collaboration">
+<section name="7.0 Introduction">
+<topic name="" imgName="images\chapter07\7.0.swf">&lt;B&gt;Communication&lt;/B&gt;
+To communicate is the essence of being human. Communication is the process by which a message or information is exchanged from a sender to a receiver. Communication can be internal i.e. when communication occurs between employees of a business. Communication can be external also because a business will need to communicate with people or organizations outside the business.
+Communication links together all the different activities involved in a business and ensures all employees are working towards the same goal and know exactly what they should be doing and by when. Effective communication is therefore fundamental to the success of a business.
+Effective communication is always a two-way process and without effective communication, true collaboration is impossible, the two go hand in hand. With an internet connection you can communicate and collaborate with your friends, team members and business partners across the globe.
+&lt;B&gt;Collaboration&lt;/B&gt;
+The Internet is often hyped as an excellent tool for facilitating collaboration between geographically distant people. Such collaboration occurs in a wide variety of areas including scientific research, software development, conference planning, political activism, and creative writing. The Internet offers one of the most exciting and effective ways to teach students how to both communicate and collaborate by connecting teams of students with other classrooms around the world. 
+The creation of "telecommunities" can unite students and teach them to work cooperatively. Collaborative learning becomes even more significant when the students who are working together are from different nations with varied cultures, histories and socio-political beliefs. 
+</topic>
+</section>
+<section name="7.1 Objectives">
+<topic name="7.1 Objectives" display="fullScreen" imgName="images\chapter07\7.1.swf">
+</topic>
+</section>
+<section name="7.2 Basics of Electronic Mail">
+
+<topic name="7.2.1 What is an electronic Mail" imgName="images\chapter07\7.2.1.swf">&lt;B&gt;Electronic mail&lt;/B&gt;, often abbreviated as email, e.mail or e-mail, is a method of exchanging digital messages, designed primarily for human use. E-mail systems are based on a store-and-forward model in which e-mail computer server systems accept, forward, deliver and store messages on behalf of users, who only need to connect to the e-mail infrastructure, typically an e-mail server, with a network-enabled device (e.g. a personal computer) for the duration of message submission or retrieval. 
+Here are five advantages of using Email:
+1. &lt;B&gt;Managing Email is Easy&lt;/B&gt; - You can manage all your correspondence on screen and so can your customers. Your proposal can be answered, revised, stored and sent to others, all without reams of paper involved. 
+2.&lt;B&gt; Email is Fast&lt;/B&gt; - Mail is delivered instantly from your office to anywhere in the world. No other method of delivery can provide this service. Timely buying and selling decisions can be made in a heartbeat. 
+3. &lt;B&gt;Email is Inexpensive &lt;/B&gt; - Compared to telephone calls, faxes or over night courier service, Email is less expensive.
+4. &lt;B&gt;Email is Easy to Filter &lt;/B&gt; - The subject line on an Email makes it easy to prioritize messages. The reader can identify critical correspondence quickly and deal with it immediately. Unlike regular mail which needs to be opened and reviewed or voice mail which requires you to either listen to or scan all your messages for those that require immediate attention.
+5.&lt;B&gt; Transmission is Secure and Reliable &lt;/B&gt; -  The level of security in transmitting Email messages is very high and the industry continues to strive to develop even tighter security levels. Email is private. Often telephone and fax messages are not. If the address information is correct, rarely does an Email go astray. Fax machines can be out of order or out of paper and this prevents an important message from being delivered in a timely manner.
+</topic>
+
+<topic name="7.2.2 Email Addressing" imgName="images\chapter07\7.2.2.swf">To send someone mail you need to know his&lt;B&gt; MAIL ADDRESS&lt;/B&gt; and you yourself should also have one MAIL ADDRESS too. There are various websites like GOOGLE, YAHOO and Rediffmail that are providing free email facility. Mail Addresses are obtained when we click at &lt;b&gt;Sign up&lt;/b&gt; option in the home page of these websites. Similarly if someone knows your mail address he can send you mail. An e-mail address identifies a location to which e-mail messages can be delivered. An e-mail address on the modern Internet looks like, for example, jsmith@example.com and is usually read as "jsmith at example dot com". Mail Addresses are not case sensitive. The main rule everyone has to follow is that no two people can have the exact same address.
+&lt;B&gt;Some invalid e-mail addresses&lt;/B&gt;
+i)	Abc.example.com (character @ is missing) 
+ii)	Abc.@example.com (character dot(.) is last in local part) 
+iii)	Abc..123@example.com (character dot(.) is double) 
+iv)	A@b@c@example.com (only one @ is allowed outside quotations marks) 
+v)	( )[ ]\;:@example.com (none of the characters before the @ in this example are allowed outside quotation marks) 
+&lt;B&gt;URL(Uniform Resource Locator)&lt;/B&gt;- The addresses used to identify the vast number of resources available on the NET are called URLs. The most popular resources on the NET are many millions of the web pages stored on web servers all over the world. Any one with an Internet connection and a browser can access these pages. Of course, in order to fetch a web page for you, your browser needs to know where to find the page. To describe the location of the web pages, we use special type of address called a URL. 
+When we use a URL to specify the address of a particular resource we say that the URL POINTS to that resource. For example here is the URL that points to the main page of a Web site. Example:- http://www.doeacc.edu.in/
+Web sites can consist of many separate web pages and strictly speaking a URL points to a single page. However when a URL points to a main page of the web site we often say informally that the URL points to the site as a whole.
+</topic>
+
+<topic name="7.2.3 Configuring Email Client" imgName="images\chapter07\7.2.3.swf">An email client, email reader or more formally mail user agent (MUA), is a computer program used to manage email . In addition, a web application providing message management, composition and reception functionality is sometimes considered an email client.
+Configuring an Email Client is an easy task. On most mail clients just type in your email address and password. &lt;b&gt;Microsoft Outlook Express&lt;/b&gt; is a commonly used email client software to compose,send and receive mails. To configure Outlook Experess, follow the given steps :-
+&lt;b&gt;1.&lt;/b&gt; Open Outlook Express and click on the Tools menu. Select Accounts.
+&lt;b&gt;2.&lt;/b&gt; Click on "Add account" and select Mail.
+&lt;b&gt;3.&lt;/b&gt; Enter your name as you would like it to appear in the "From:" field of all outgoing mail.
+&lt;b&gt;4.&lt;/b&gt; Enter the email address which the others will use to send email messages to you.
+&lt;b&gt;5.&lt;/b&gt; Incoming mail server (POP3 server): yourdomain.com
+	Outgoing mail server (SMTP server): yourdomain.com
+	Set the SMTP port to 25 or 2525. 
+&lt;b&gt;6.&lt;/b&gt; Username: Use the full e-mail account name. Example: you@yourdomain.com instead of you.
+&lt;b&gt;7.&lt;/b&gt; Click Finish.
+&lt;b&gt;8.&lt;/b&gt; Now click once on the newly created account, and choose Properties. Go to the Servers tab and check "My server requires authentication".
+If you want the messages to be kept on the server, choose the "Advanced tab" and check "Leave a copy of messages on server", click OK.
+</topic>
+</section>
+<section name="7.3 Using Emails">
+<topic name="7.3.1 Opening Email Client" imgName="images\chapter07\7.3.1.swf">In order to use Outlook Express to send and receive e-mail, you need to set up an account. You can have more than one account - for business, online shopping and so on. Each person who uses your computer may have their own completely separate account(s). Outlook Express gracefully handles it all.
+There are many ways to start Outlook Express, but here's one way to find and start it.
+1. Click the Start button. 
+2. Point to All Programs. 
+3. Click Outlook Express.
+4. If asked whether you'd like to open this particular account automatically every time you start Outlook Express, click Yes (if you do) or No (if you don't).If you don't want to be asked this question again, click to check the "Always perform this check..." box. 
+5. Check &lt;B&gt;"When Outlook Express starts&lt;/B&gt;, go directly to my Inbox". Outlook Express directs all incoming mail to the Inbox, so it makes sense to bypass this opening page. If you don't see the list of folders and contacts on the left, click Layout on the View menu. Click Contacts and Folder List to check them and then click OK. 
+</topic>
+<topic name="7.3.2 MailBox : Inbox and Outbox" imgName="images\chapter07\7.3.2.swf">&lt;B&gt;Mailbox&lt;/B&gt; refers to Email Mailbox, a kind of message queue. As the days pass, you are going to accumulate a lot of messages. You can store them conveniently in an organized fashion. Your mail program creates a set of FOLDERS each of which can hold as many messages as necessary. If you want you can create more folders and move messages between them, but you will probably find the standard folders will work  just fine. The name of the folders will vary from one program to another, but their use should be obvious. The following table shows the names of the standard folders used by two popular  mail programs.
+&lt;B&gt;Outlook Express(Microsoft)&lt;/B&gt;- Inbox, Outbox,Drafts, Sent Items,Deleted Items
+&lt;B&gt;Messenger(Netscape)&lt;/B&gt; - Inbox, Unsent Messages, Drafts, Sent, Trash
+The &lt;B&gt;Inbox&lt;/B&gt; holds all your incoming mail. Inbox is the default folder for unread emails to be downloaded into and stored, even after they have been read. The &lt;B&gt;Outbox&lt;/B&gt; holds all the mails to be sent out. The outbox holds messages that you have composed that are ready for delivery, but have not been sent. Once the messages are sent, they are moved to the &lt;b&gt;Sent Folder&lt;/b&gt;.The &lt;B&gt; Drafts&lt;/B&gt; folder is a temporary storage area for messages that are partially typed but not yet ready to send . For instance if you are typing a message and you have to quit the program before the message is finished, you can save it in the drafts folder. Some  mail programs will automatically  save unfinished messages to this folder when you quit the program.As you read your incoming messages you will want to delete them. Similarly you will want to delete messages from your sent folder. When you delete messages they are not really deleted they are simply moved to your trash folder. This gives you a chance to look at your old messages if needed. Eventually though you should delete the messages in your &lt;B&gt;Trash&lt;/B&gt; folder to remove them permanently.
+</topic>
+<topic name="7.3.3 Creating and Sending a New E-mail" imgName="images\chapter07\7.3.3.swf">Sending E-mail using Outlook Express:-
+1. Click the Mail button in the Navigation Pane (or press Ctrl+1).
+The Email Inbox appears.
+2. Choose File > New >Mail Message (or press Ctrl+N).
+The New Message form appears.
+3. Click the To text box and type the Email address of the person to whom you're sending your message.
+You can also click the To button itself, find the name of the person to whom you're sending the message in the Address Book and then click OK.
+4. Click the Cc text box and type the Email addresses of the people to whom you want to send a copy of your message.
+If you're sending messages to multiple people, separate their addresses. You can use either commas or semicolons.
+5. Type the subject of the message in the Subject box.
+   Subject should be kept brief .
+6. Type the text of your message in the text box.
+If you use Microsoft Word as your word processor, you can also set up Outlook to use Word as your Email editor. You can include formatting, graphics, tables and all the tricks available in Word to make your Email more attractive.
+7. Click the Send button.Your mail is sent to the Outbox. If you're on an office network, your mail automatically goes from your Outbox to the Inbox of the person to whom you're sending the message.
+
+</topic>
+
+<topic name="7.3.4 Replying to an E-mail message" imgName="images\chapter07\7.3.4.swf">Replying to a message simplifies your correspondence, since you do not have to enter the recipient's e-mail address manually. 
+Most popular e-mail applications follow a similar procedure
+1. Click on the closed e-mail message to select it or open the message.
+2. From the Action menu, click on Reply or click Reply in the toolbar. 
+3. A new message window will open. The recipient's address will appear automatically in the To field. The Subject will be the same subject as in the original message and the content of the original message will usually be included, preceded by &gt; signs.
+4. Add your new content to the message. If desired, you can delete part or all of the content from the original message.  
+5. Then Click at Send button.  </topic>
+<topic name="7.3.5 Forwarding an Email-message" imgName="images\chapter07\7.3.5.swf">When you forward an e-mail, you send a message you've received to someone else. You can add your own message to the forwarded message before you send it. Steps:-
+1. Select or open the message you want to forward.
+2. Using the Action menu, select Forward or click Forward on the toolbar. The message you received will appear in a new message window.
+3. Leave the subject field as it is or change it. The subject will typically be preceded by "FW:" so that your recipients know that it is a forwarded message.
+4. Type the e-mail address or addresses of the recipients.
+5. Edit the text or add new text if desired.
+6. Click Send.
+</topic>
+<topic name="7.3.6 Sorting and Searching emails" imgName="images\chapter07\7.3.6.swf">&lt;B&gt;Sorting emails&lt;/B&gt;
+If you access multiple POP email accounts with Outlook,there can be probelms of jumbled inbox. Outlook delivers all new mails to the Inbox folder indiscriminately and makes it hard to guess which email arrived where. 
+While setting up Outlook, to deliver mail to different inboxes, is dificult but Inbox can be sorted by account (and then by date) easily.
+To sort the emails in Outlook Inbox by the account through which they were received: 
+1.Select View | Current View | Customize Current View... from the menu. 
+2·Click the Sort button. Make sure "All Mail Fields" is selected under "Select available fields from:" at the bottom of the dialog that comes up. 
+3·Now choose "To Account" from the "Sort items by" drop-down menu. Optionally, select criteria for further sorting using the "Then by" fields. 
+4· Click OK. 
+5· Click OK again.
+  &lt;B&gt;Searching emails&lt;/B&gt;To find related emails swiftly in Outlook: 
+1. Open a message in Outlook. 
+2. In Outlook 2000, choose Actions | Find All | Related Messages. 
+This brings up a search window with all related messages that Outlook could find. 
+</topic>
+</section>
+<section name="7.4 Advance email features">
+<topic name="7.4.1 Sending document by email" imgName="images\chapter07\7.4.1.swf">&lt;B&gt;Send a document directly from Word as e-mail  &lt;/B&gt;
+To send your document directly from Word as an e-mail message, follow these steps: 
+1. If you are using Microsoft Word 2002 or Microsoft Office Word 2003, select File Menu, click on Send To, then click Mail Recipient to send the document as the body of the message. 
+If you are using Microsoft Office Word 2007, click the Microsoft Office Button, point to Send, and then click E-mail.
+2. If the Choose Profile box appears, select Default Outlook Profile or another valid profile that you have created and then click OK. Word adds an e-mail header to the document. 
+3. Type the e-mail name of the recipient on the To line or select the e-mail name from your Address Book. 
+4. Type a subject for the e-mail on the Subject line. 
+5. Click Send a Copy if you want to send the document as the e-mail body. Alternatively, click Send if you want to send the document as an attachment.
+</topic>
+<topic name="7.4.2 Activating Spell Checking" imgName="images\chapter07\7.4.2.swf">You can do a spell check manually by pressing the F7 key or if you do it the long way, click "Tools &gt; Spelling". 
+Note: Microsoft Word must be installed for spell checking to work on XP computers!  
+The most efficient and effective way to check your spelling in outgoing messages that you have composed is to have all your email spell-checked automatically without ever hitting any buttons or making a single mouse click. 
+There is a way to make spell check come up before an email goes out.  Just follow these steps: 
+1. In Outlook Express, go to Tools &gt; Options then click the "Spelling" tab 
+2. check the "Always check spelling before sending" box.  
+3. Click "OK/Apply".
+Other email clients, including Web-based email programs, have similar options. 
+Spell Checker for Outlook Express, adds the ability to use spell checking in Outlook Express without the need to install other MS products such as Word or MS Office
+</topic>
+
+<topic name="7.4.3 Using Address Book" imgName="images\chapter07\7.4.3.swf">Your email client's "address book" enables addition of email addresses to your contact list quickly and without error. Your address book should store all of your frequently used email addresses, enabling you to select from a list instead of having to re-type the addresses each time you send an email. This is the fastest way to address a message and more importantly ensures that you will never make a typing mistake and send your email to the wrong address.
+If possible, you should copy each address from a valid email and then paste it into your address book when you create an entry for the first time, because this is faster and more importantly you will be sure there aren't any typing mistakes. If the address form has an option like "Include on recipient or nickname list", then you should select that option to make sure the address will show up on your address book menu from anywhere in your email program.
+If there is an option like "Nickname" or "Short Form", then specify an easily remembered name for convenient retrieval from the address book. One of the best formats is last name first, so that it shows up in alphabetical order in your address book list. Try one of the following forms, depending on how flexible your email program is.
+Smith, John
+Smith-John
+SmithJohn
+You can also use the address book to enter addresses in the "To", "CC", and "BCC" fields.Clicking &lt;B&gt;To: , Cc:&lt;/B&gt; or &lt;B&gt;Bcc:&lt;/B&gt;  opens your Address Book in a sub-window, from which you can select recipients. Click &lt;B&gt;Insert Checked Contacts &lt;/B&gt;when you are done.
+Send your message to more than one person. Add additional email addresses after "To:" and separate them with commas (e.g. johndoe@yahoo.com, janedoe@yahoo.com etc.). 
+&lt;B&gt;Bcc:&lt;/B&gt; Bcc is blind carbon copy. If you want to send a copy of your message to someone and not let anyone else see that they are getting a copy, click "Show Bcc" above the "To:" line. Bcc: recipients are invisible to the To: and Cc: recipients of the message, as well as to each other. For example, if you send a message to johndoe@yahoo.com with a Bcc: to janedoe@yahoo.com, johndoe will see himself as the message's only recipient. janedoe will also get the message and she will see that you addressed and sent the message To: johndoe as well. 
+Even categories can be created and addresses can be added to categories by Add Contact option. Then using those categories, mails can be sent to multiple users.  Categories can also be edited by clicking at Mail options then Edit Categories.
+</topic>
+
+<topic name="7.4.4 Sending Soft Copy as attachment" imgName="images\chapter07\7.4.4.swf">Using Windows Mail or Outlook Express, it is easy to send text messages to friends, colleagues and strangers. You can even use fancy stationery or insert pictures in your messages. You can also add any file to your emails and send it as an attachment to anybody equipped with an email address. 
+To send a file attached to an email with Windows Mail or Outlook Express: 
+1. Create a new message. 
+2. Click the Attach button. 
+3. You will recognize usual file-locating window of your computer. Find the file you would like to attach. 
+4. You can highlight and attach multiple files at once by holding down the Ctrl key while you click on them with the mouse. 
+5. Click Open or Attach, whichever you see. 
+&lt;B&gt;Sending Multiple Files with Ease and Elegance&lt;/B&gt;
+If you want to send more than one file with an email, you can also pack them neatly into one ZIP archive. And if you have the folder containing the file you want to attach already opened in Windows Explorer, you can alternatively, but easily, attach it by drag-and-drop. 
+</topic>
+<topic name="7.4.5 Handling SPAM"  imgName="images\chapter07\7.4.5.swf">Although having an email address is a necessity in modern times, nearly every internet user has been exposed to the wide world of email spam. Spam is a commonly-used term that refers to unsolicited emails sent from businesses or individuals, usually seeking to gain money through selling a product or running an unscrupulous scam. Spam is also known as "junk" email. Spam messages have been plaguing the internet for years, and these &lt;B&gt;bulk, unsolicited emails&lt;/B&gt; only seem to be growing in number as the internet expands.  
+&lt;B&gt;How to Filter Spam&lt;/B&gt; 
+By incorporating spam filters/blockers, you can significantly reduce the amount of spam that you receive. 
+&lt;B&gt;What Are Spam Blockers?&lt;/B&gt; 
+Spam blockers are special systems (usually a program or a filter) that prevent spam from entering your email. Each email server deals with spam in a different way. It is easy to delete the spam and if you want you can block it depending upon the email program that you are using.
+</topic>
+</section>
+<section name="7.5 Instant messaging and Collaboration">
+<topic name="7.5.1 Using Smiley" imgName="images\chapter07\7.5.1.swf">An emoticon or smiley is a textual expression representing the face of a writer's mood or facial expression. 
+For example :), :( and :D. 
+They are often used to alert a responder to the tenor or temper of a statement and can change and improve interpretation of plain text. In web forums, instant messengers and online games, text emoticons are often automatically replaced with small corresponding images, which came to be called emotions as well. 
+&lt;B&gt;Basic Smileys&lt;/B&gt; 
+:-) Your basic smiley. This smiley is used to inflect a sarcastic or joking statement since we can't hear voice inflection over e-mail. 
+;-) Winky smiley. User just made a flirtatious and/or sarcastic remark. More of a "don't hit me for what I just said" smiley.
+:-( Frowning smiley. User did not like that last statement or is upset or depressed about something.
+
+</topic>
+<topic name="7.5.2 Internet etiquettes" pageNo="1" totalPage="2" imgName="images\chapter07\7.5.2_pg1.swf">&lt;B&gt;Netiquette &lt;/B&gt; is a term derived from the words "Internet Etiquette" or "Network Etiquette" which describes the use of proper manners and behavior online. Internet Etiquette should be used in all areas of electronic means including email, chatting, blogging, forums, message boards and so on.
+It is important to treat others with dignity and respect both on and offline. Although the rules may vary depending on the specific forum used, the following "Top 10" Netiquette guidelines will offer some basic Internet tips and suggestions to provide a pleasant and safe online experience.
+1. Use Computer Courtesy-Whether a person is sending an email, chatting in a chat room or speaking in a forum, it is important to be courteous and respectful of others online. Always remember the Golden Rule!
+2. Use Emoticons-When communicating online, it can be difficult to gauge a writer's emotion. Unless a web camera or microphone is used, the writer's expression or emotion is difficult to determine. By using emoticons, the writer's proper emotion will be conveyed to the reader.
+3. Be Brief Online-It is important to keep messages short, especially when writing an email or typing in a chat room. By using common chat abbreviations or acronyms, not only will the reader appreciate the brevity of the message, it will save the author valuable time typing the message. Keep it short and be brief!
+Internet etiquette or netiquette guides us in proper behavior on the Internet. There are widely accepted rules of behavior to follow when you're online. It is very important to learn and follow these rules. 
+</topic>
+<topic name="7.5.2 Internet etiquettes" pageNo="2" totalPage="2" imgName="images\chapter07\7.5.2_pg2.swf">As a newbie (someone new to the Internet) you do not want to venture into cyberspace until you are familiar with the acceptable rules of Internet behavior. There are a few tips that can help you feel more comfortable with the new situations cyberspace will throw at you. With a little practice you can become a responsible Netizen. 
+4. Do not TYPE ALL IN CAPITAL LETTERS for emphasis. IT LOOKS LIKE YOU ARE SHOUTING. If you need to emphasize a word, use asterisks, like *this* or lines, like  _this_. 
+5. Be careful not to use rude or bad language online. Many providers will terminate your account. 
+6. Don't break any laws. When you're on the net, follow the same rules of behavior that you would in real life. Remember, if it is against the law in the real world, it is against the law in cyberspace. 
+7. Be brief whenever possible. No one wants to read through a lot of unnecessary information. If you are replying to an e-mail, try editing out unimportant information and anything that is repeated. 
+8. Don't flame. Do not send rude or offensive e-mails or postings. It's bad manners and can get seriously out of hand (flame wars). So don't flame others and if you are flamed, do not respond as you will never win. If you are flamed in a forum or chat room or if you receive hateful e-mail, let your parents or teachers know. 
+9. Always identify yourself. If your parents require you to use an online name instead of your real one, that's fine - use your online name consistently. Never send e-mail without including your name at the bottom of the e-mail. Similarly, don't post forum messages without identifying yourself, this is seen as rude. 
+10. Make a good impression. Remember that the written word is the only way you can represent yourself online, so spelling and grammar count. If you are going to be writing a large amount of text for other people to see, make sure you break it up using paragraphs, it will make it easier on the eye for those that will read it. 
+   Be patient with newcomers. Once you have become an Internet expert, it is easy to forget that you started out as a newbie too. Learning the rules of cyberspace is much like learning a new language, it takes practice and includes making mistakes. So if you come across someone else's mistakes on the net, don't put them down, just politely point them in the right direction for guidance (send them a copy of these rules to get them started on their way!). 
+</topic>
+</section>
+<section name="7.6 Summary">
+<topic  name=""  imgName="images\chapter07\chap7_sum.swf">
+&gt; Communication is the process by which a message or information is exchanged from a sender to a receiver.
+&gt; &lt;B&gt;Electronic mail&lt;/B&gt;,often abbreviated as email, e.mail or e-mail, is a method of exchanging digital messages, designed primarily for human use. It is important means of communication.
+&gt; To send someone mail, you need to know his&lt;B&gt; MAIL ADDRESS&lt;/B&gt; and you yourself should also have one MAIL ADDRESS too.
+&gt; Mail address comprises of userid@siteaddress where siteaddress can be yahoo.com, rediffmail.com etc.
+&gt; An email client, email reader or more formally mail user agent (MUA), is a computer program used to manage email .
+&gt; Microsoft Outlook Express is commonly used email client software to compose,send/receive mails.
+&gt; The names of the standard folders used by &lt;B&gt;Outlook Express(Microsoft)&lt;/B&gt; are- Inbox, Outbox,Drafts, Sent Items,Deleted Items.
+&gt; Inbox is a folder to store all incoming mails.
+&gt; Outbox is a folder to store all outgoing mails.
+&gt; You can also send files as attachments to your mails.
+&gt; Spell checker can be activated in mails directly or automatically.
+&gt; Spam is a commonly-used term that refers to unsolicited emails sent from businesses or individuals, usually seeking to gain money through selling a product or running an unscrupulous scam. These can be blocked by using SPAM Blockers or Filters.
+&gt; In email messages, you can use smileys. An emoticon or smiley is a textual expression representing the face of a writer's mood or facial expression. 
+&gt; For working on internet, you must follow netiquette. &lt;B&gt;Netiquette &lt;/B&gt; is a term derived from the words "Internet Etiquette" or "Network Etiquette" which describes the use of proper manners and behavior online. Internet Etiquette should be used in all areas of electronic means including email, chatting, blogging, forums, message boards and so on.
+</topic>
+
+</section>
+
+<section name="7.8 Quiz">
+<topic name="Model Questions and Answers" display="fullScreen" imgName="quiz.swf"> 
+</topic>
+</section>
+<!--
+<section name="QUIZ">
+<topic name="Chapter 7 Quiz">
+Q1. What is EMail
+a) Electrical mail	b) Existing mail	c) Electronic mail	d) None of the above.
+Q2. The folder used to see received mails
+a) OutBox		b)Inbox			c) Drafts		d) None of the above.
+Q3. URL stands for 
+a) United Resource Locator	b) Uniform resource Locator	c) Any of the above	d) None of the above.
+Q4. BCC is 
+a) Blank Carbon Copy	b) Blind Carbon copy	c) Back carbon Copy	d) None.
+Q5. Valid Email address is
+a) aaa..bbb@gmail.com	b) xxx@bbb@rediff.com	c) abc@yahoo.com	d) None.
+Q6. The delimiter used to specify multiple addresses is
+a) Space		b) Hyphen		c) Comma		d) Any of the above.
+</topic>
+</section>-->
+</chapter>

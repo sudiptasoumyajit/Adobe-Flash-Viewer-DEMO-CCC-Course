@@ -1,0 +1,253 @@
+<chapter name="2. Introduction to GUI based Operating System">
+<section name="2.0 Introduction">
+<topic name="" imgName="images\chapter02\2.0.swf">In the previous chapter, you have learnt about the characteristics of a Computer System and its components. You have also learnt about System Software and Application Software. 
+In the current chapter, you will learn about a very important System Software viz. Operating System. We will use Windows to explain various aspects of an operating system. Microsoft has produced a number of operating systems. Windows 95/98/ME/XP/Vista, Windows NT, Windows 2000/2003 are some of them. 
+We have selected Windows XP Professional for reference.
+</topic>
+</section>
+<section name="2.1 Objectives">
+<topic name="2.1 Objectives" imgName="images\chapter02\2.1.swf" display="fullScreen">
+</topic>
+</section>
+<section name="2.2 Basics of Operating System">
+<topic name="2.2.1 Operating System" imgName="images\chapter02\2.2.1_1.swf" pageNo="1" totalPage="2">An Operating System is a program that acts as an intermediary between the user of a computer and computer hardware. The purpose of an operating system is to provide an environment in which user can execute programs in a convenient and efficient manner. It is the first program loaded into the computer's memory after the computer is switched on. Popular operating systems include MS-DOS, OS/2, Windows and UNIX. 
+The operating system is an important component of the computer system, because it sets the standards for the application programs that run on it. All programs must be written to talk to the operating system.
+Various functions of Operating System:
+-	Memory Management
+-	Processor Management
+-	Device Management
+-	File Management
+&lt;B&gt;i)	Memory Management Functions&lt;/B&gt;
+Operating System manages the primary memory of the system. It allocates the memory, on the request of a process, which is being run at that time. It also keeps a check that at a particular time, how many bytes of memory are in use and which process is using it. It also keeps track of what part of it is free. In case of a multi-user system, it decides on priority basis, which user will have access to memory and when. How much of it is used depends on the requirements.
+&lt;B&gt;ii)	Processor Management Functions&lt;/B&gt;
+Operating System also takes care of the processor. It allocates the processor to the user. In case of multi-user system, it allocates the processor time to different users as and when needed and in such a way that every user has a minimum waiting time.
+&lt;B&gt;iii)	Device Management Functions&lt;/B&gt;
+It keeps track of all the devices i.e. peripherals attached to the computer such as I/O devices etc. When needed, it allocates the devices in such a way that each can be efficiently used. It initiates the I/O operations and allocates them along with other devices to the user.
+&lt;B&gt;iv)	File Management Functions&lt;/B&gt;
+Writing and retrieving the information on/from the secondary storage device is the function of an Operating System. It follows a complete methodology for  maintaining the files, so that  different sets of information do not get mixed up and exactly the same set of information is supplied, which is required by the user.
+</topic>
+<topic name="2.2.1 Operating System" imgName="images\chapter02\2.2.1_2.swf" pageNo="2" totalPage="2">&lt;B&gt;Types of Operating Systems&lt;/B&gt;
+&lt;B&gt;i) Single user Operating Systems&lt;/B&gt;
+These Operating Systems allow only one user to work on a computer at a time. 
+Example :  MS-DOS, CP/M. 
+&lt;B&gt;ii) Multi user Operating System&lt;/B&gt;
+These Operating Systems allow more than one user to work on the computer at the same time. These operating systems allocate memory in such a way that different users can work simultaneously without disturbing each other. They also allocate the processing time in such a way that every user gets a very quick response from the machine. These are also known as Time Sharing Operating Systems 
+Example : LINUX,UNIX, XENIX,VMS, Windows NT.
+</topic>
+<topic name="2.2.2 Basics of popular operating system(LINUX,WINDOWS)" pageNo="1" totalPage="2"  imgName="images\chapter02\2.2.2_1.swf">Windows and Linux both have a user friendly &lt;b&gt;Graphical User Interface&lt;/b&gt;(GUI). GUI includes such things as: windows, pull-down menus, buttons, scroll bars, iconic images, and wizards. They allow users to interact with the programs without having to type the commands from the keyboard. Users can use pointing devices like mouse to perform specific tasks on computer.
+&lt;B&gt;i) LINUX&lt;/B&gt;
+Linux is a multitasking, multiuser operating system, which means that many people can run many different applications on one computer at the same time. 
+Linux  is a generic term referring to Unix-like computer operating systems based on the Linux kernel. Their development is one of the most prominent examples of free and open source software collaboration, typically all the underlying source code can be used, freely modified, and redistributed both commercially and non-commercially.
+Linux is predominantly known for its use in servers, although it can be installed on a wide variety of computer hardware. Linux distributions, installed on both desktop and laptop computers, have become increasingly commonplace in recent years.
+The name "Linux" comes from the Linux kernel, originally written in 1991 by Linus Torvalds.  
+</topic>
+<topic name="2.2.2 Basics of popular operating system(LINUX,WINDOWS)" pageNo="2" totalPage="2"  imgName="images\chapter02\2.2.2_2.swf" >&lt;B&gt;i) Microsoft Windows&lt;/B&gt;
+Windows operating system is GUI based and can be used on desktop computers. Its interface has following properties :-
+&lt;B&gt; Title Bar&lt;/B&gt; :- The title bar contains the name of the program you are working with and in some cases the name of the opened document also appears. In the top right corner we can find the Minimize, Maximize/Restore, and Close buttons. 
+&lt;B&gt;Menu Bar&lt;/B&gt; :- The menu bar has the program functions organized in menus. For example, when we click on File, the different operations that can be performed with files are displayed. All the operations that the program allows us to do are located within the different menus.
+&lt;B&gt;Tool Bar&lt;/B&gt; :- The tool bar contains icons to immediatelly execute some of the most often used commands.
+&lt;B&gt;Scroll Bars&lt;/B&gt; :- The scroll bars allow us to move through out the page in a quick and simple manner. Simply drag the bar with the mouse or click on the arrows. There are bars to move along the width of the page and bars to move along the height of the page. The little square with dots on the right is used to change the size of the window. Simply click and drag.
+&lt;B&gt;Status Bar&lt;/B&gt; :- The status bar is used to give user certain information pertaining to the current program. The information displayed on it varies depending on the program window which is opened at that time.
+&lt;B&gt;Desktop&lt;/B&gt; :- The Desktop is the on-screen work area on which windows appear. it is the first screen that appears when the operating system has initialized. In our case it will be the Windows XP desktop.
+</topic>
+</section>
+<section name="The User Interface">
+<topic name="2.3.1 Task Bar"  imgName="images\chapter02\2.3.1.swf"> The taskbar is the long horizontal bar at the bottom of your screen. Unlike the desktop, which can get obscured by the windows on top of it, the taskbar is visible almost all the time. It has four main sections :-
+- &lt;b&gt;Start button&lt;/b&gt;, :- It is used to open the Start menu. 
+- &lt;b&gt;Quick Launch Toolbar&lt;/b&gt; :- It lets you start programs with one click.
+- &lt;b&gt;The middle section&lt;/b&gt; :- It shows you which programs and documents you have opened and allows you to quickly switch between them.
+- &lt;b&gt;The notification area&lt;/b&gt; :-  It includes a clock and icons (small pictures) that communicate the status of certain programs and computer settings.
+</topic>
+<topic name="2.3.2 Icons"  imgName="images\chapter02\2.3.2.swf">A computer icon is a graphical symbol that represents a property, function, or entity. In computer applications, icons are used to quickly execute commands or open programs and documents. You access the functionality behind an icon by clicking or double-clicking it. Operating systems often allow you to customize visuals of various objects by applying your own custom icons.
+You may obtain icons from various sources (for example from our icon library) or you can build your own.
+</topic>
+<topic name="2.3.3 Start Menu" imgName="images\chapter02\2.3.3.swf">&lt;b&gt;Start Menu&lt;/b&gt; is located at the leftmost corner of the status bar. Using mouse, left click on the start menu which displays various options available. The start menu shows various options on it like Programs,Internet Explorer,Shut Down etc.These can be activated using a double click on these icons. 
+For &lt;b&gt;Menu Selection&lt;/b&gt;, you have to move to the desired option first and then  Double click it to open the respective program.To shut down the system you can click on the Shut Down/turn off computer option that appears at the bottom of the Start Menu. Another option available along with Shut Down is Logoff.
+</topic>
+<topic name="2.3.4 Running an application"  imgName="images\chapter02\2.3.4.swf">To run any program/application, follow the given steps :-
+1. Click Start, and then click Run. 
+2. In the dialogbox that appears, type the path to the item you want to open in the space provided after &lt;b&gt;Open:&lt;/b&gt;, or click Browse to locate it. 
+The Open box lists items you have opened recently. Type or select an item in the list.
+3. Click OK to open it. 
+You can open a file or folder or connect to a shared computer by typing its path in the Open box. 
+You can also connect to an Internet or intranet site; for example, to reach the Microsoft Web site, type www.microsoft.com in the Open box. 
+You can connect to a remote computer using the open box.
+</topic>
+</section>
+<section name="2.4 Operating system simple setting" >
+<topic name="" imgName="images\chapter02\2.4.swf">Control Panel is full of specialized tools that are used to change the way Windows look and behave. Some of these tools help you adjust settings that make your computer more fun to use.
+For example, use &lt;b&gt;Mouse&lt;/b&gt; to replace standard mouse pointers with animated icons that move on your screen, or use &lt;b&gt;Sounds and Audio Devices &lt;/b&gt; to replace standard system sounds with sounds you choose. Other tools help you set up Windows so that your computer is easier to use. For example, if you are left-handed, you can use Mouse to switch the mouse buttons so that the button on the right performs the primary functions of selecting and dragging.
+To open Control Panel, click Start and then click Control Panel. 
+When you first open Control Panel, you will see some of the most commonly used control panel items organized by category. To find out more information about an item in control panel while in Category view, hold your mouse pointer over the icon or category name and read the text that appears. To open one of these items, click its icon or category name. Some of these items will open to a list of tasks you can perform, as well as a selection of individual control panel items. 
+</topic>
+<topic name="2.4.1 Changing system Date and Time"  imgName="images\chapter02\2.4.1.swf">To change the date and time, &lt;b&gt; Date and Time &lt;/b&gt; icon/option of control panel can be used. To do so, follow the given steps :-
+1. Open Control Panel
+2. Open Date and Time in Control Panel. 
+3. On the Date & Time tab, select the item you want to change. It shows the Calender of Current Month and Year.
+4. To change the month, click the arrow in the month list, and then click the correct month. 
+5. To change the year, click the arrows in the year list. 
+6. To change the day, click the correct day on the calendar.
+7. To change the time , click the time part and type the appropriate time there.
+8. Click OK to confirm changes.
+</topic>
+<topic name="2.4.2 Changing Display Properties" pageNo="1" totalPage="3"  imgName="images\chapter02\2.4.2pg1.swf">Using the &lt;b&gt;Display icon&lt;/b&gt; available on Control Panel, you can modify the way desktop objects such as windows, menus, fonts, and icons appear on your screen. 
+To adjust display and appearance options through the Display icon in Control Panel, follow the given steps :-
+1. On the Start menu, select Control Panel
+2. In Control Panel, be sure you are in Classic View (i.e. all Control Panel icons are showing). If not, under Control Panel in the left pane, select Switch to Classic View. 
+3. Select Display icon from Control Panel.
+4. In the Display Properties dialog box, select the Appearance tab. 
+- Select a Windows and buttons style from the list. 
+- Select a Color scheme from the list. 
+- Select a Font size from the list.
+5. When you are finished with selections, select OK twice to close the dialog boxes.
+6. To close Control Panel, select the Close button.
+</topic>
+<topic name="2.4.2 Changing Display Properties" pageNo="2" totalPage="3" imgName="images\chapter02\2.4.2pg2.swf">&lt;b&gt;Changing the Wallpaper&lt;/b&gt;
+A wall paper is a picture/image displayed in the background of your desktop. 
+&lt;B&gt;To change your desktop background/wallpaper&lt;/B&gt; follow the given steps :-
+1. Open Control Panel
+2. Select Display in Control Panel. 
+3. On the Desktop tab, do one or more of the following: 
+Click a picture in the Background list. In Position, click Center, Tile, or Stretch. 
+Click Browse to search for a background picture in other folders or on other drives. You can use files with the following extensions: .bmp, .gif, .jpg, .dib, .png, .htm. 
+Select a color from Desktop color. The color fills the space not used by a picture. 
+You can use a personal picture as a background. All of your personal pictures located in My Pictures are listed by name in the Background list.
+You can save a picture from a Web site as a background. Right-click the picture and then click Set as Background. The picture is listed in the Background box as Internet Explorer Background.
+If you choose an .htm document as your background picture, the Position options are unavailable. The .htm document is automatically stretched to fill your background. 
+</topic>
+<topic name="2.4.2 Changing Display Properties" pageNo="3" totalPage="3"  imgName="images\chapter02\2.4.2pg3.swf">&lt;b&gt;Changing the Screensaver&lt;/b&gt;
+A screen saver is an animated image that is activated on a Personal Computer when no user activity has been sensed for a certain time. Windows comes with built-in screen savers that you can select. If you purchase your computer with the operating system already installed, a screen saver may have been selected for you.
+&lt;B&gt;To set or change a screen saver :&lt;/B&gt; follow the given steps :-
+1. Open Control Panel
+2. Select Display in Control Panel.
+3. On the Screen Saver tab, under Screen Saver option, click one screen saver given in the list. 
+After you select a screen saver, it will automatically start when your computer is idle for the number of minutes specified in Wait. 
+To clear the screen saver after it has started, move your mouse or press any key. 
+To view possible setting options for a particular Screen Saver, click Settings on the Screen Saver tab. 
+Click Preview to see how the selected Screen Saver will appear on your monitor. Move your mouse or press any key to end the Preview. 
+</topic>
+<topic name="2.4.3 To Add Or Remove A Windows Component" pageNo="1" totalPage="2"  imgName="images\chapter02\2.4.3pg1.swf">&lt;B&gt;To Add a Windows XP Component&lt;/B&gt;
+To install a new software on Windows, follow the given steps :-
+1. Log on as Administrator or as a member of the Administrators group. 
+2. Click Start, click Control Panel, and then double-click "Add or Remove Programs". 
+3. Click "Add/Remove Windows Components". The Windows Components Wizard starts. 
+4. In the Components list, click to select the check box that is next to the component that you want to add. If the check box for a component is shaded, only some of its sub-components are selected for installation. 
+To view a list of the sub-components, click Details. Click to select the check box next to the sub-components that you want to add, and then click OK. If the Details button is unavailable, the component does not contain sub-components. 
+5. Click Next. 
+6. In the "Completing the Windows Components" Wizard screen, click Finish.
+</topic>
+<topic name="2.4.3 To Add Or Remove A Windows Component" pageNo="2" totalPage="2"  imgName="images\chapter02\2.4.3pg2.swf">&lt;B&gt;To Remove a Windows XP Component&lt;/B&gt;
+1. Log on as Administrator or as a member of the Administrators group. 
+2. Click Start, click Control Panel, and then double-click "Add or Remove Programs". 
+3. Click "Add/Remove Windows Components". The Windows Components Wizard starts. 
+4. In the Components list, click to clear the check box next to the component that you want to remove. Note that a shaded check box next to a component indicates that only some of its sub-components are installed. 
+If you want to remove a sub-component, click Details. Then, click to clear the check box next to the sub-components that you want to remove, and then click OK. 
+5. Click Next. 
+6. In the "Completing the Windows Components" Wizard screen, click Finish.
+</topic>
+<topic name="2.4.4 Changing Mouse Properties"  imgName="images\chapter02\2.4.4.swf">By using the Mouse icon/option of Control Panel, we can change various mouse properties such as Button configuration, Double Click Speed, Mouse pointers, Motion Speed etc.
+&lt;b&gt;Changing the appearance of the mouse :-&lt;/b&gt; When the Mouse Properties box opens, you will see a row of tabs at the top of the box. Click the Pointers tab at the top of the box. In the Pointers section you will see a drop down box under Schemes. Drop that box down and click a scheme and preview it in the bottom window. Go through the list of schemes to find the one that you want. To apply it, click the Apply button.
+&lt;B&gt;How to Change the Speed of your Mouse Pointer in Windows XP&lt;/B&gt;
+You can change the speed of your mouse by clicking on the Pointers Option tab. Under the Motion section you will see a bar. At one end it says slow and at the other end it says fast. Slide the bar to the right to speed your mouse up. Click Apply to apply the changes.
+&lt;B&gt;How to Change the Visibility of your Mouse in Windows XP&lt;/B&gt;
+Click on the Pointers Options tab in the Mouse Properties window. In the bottom of the window you will see the visibility options. Change the options to what you want. Click the Apply button to apply the changes.
+Click the OK button to close the Mouse Properties box. 
+</topic>
+<topic name="2.4.5 Adding and removing Printers"  imgName="images\chapter02\2.4.5.swf">By using the "Printers and Faxes" icon/option of the Control Panel, we can know about the installed printers and add new ones if so desired. The printer can be a local printer or a network printer.
+&lt;b&gt;How to add a Printer in Windows &lt;/b&gt;
+1) Click on the Start Button, point to Settings, and then click "Printers and Faxes". 
+2) Double-click "Add Printer" to start the wizard, and then click Next. 
+3) Click Local Printer(if attached to your own machine) or Network printer(if the printer is attached to some other computer on the network), and then click Next. 
+4) For a Local Printer, select the Port where it is attached.
+5)  For a Network Printer Click Browse/Find Now to find a Printer on the network. A list of all available printers will appear in the window when the search is complete. 
+6) Double-click on the desired printer. 
+7) Click Yes to set it as your default printer, and then click Next. 
+8) Click Finish. Your printer is installed. 
+&lt;B&gt;To remove a printer in Windows&lt;/B&gt;
+1. Click "Start" then "Printers and Faxes".
+2. When the "Printers and Faxes" window appears, right-click on a printer and choose "Delete".
+3. Confirm when prompted.
+</topic>
+</section>
+<section name="2.5  File and directory management" >
+<topic name="" imgName="images\chapter02\2.5pg1.swf" pageNo="1" totalPage="3">&lt;b&gt;Files and Folders/Directories&lt;/b&gt;
+A computer's operating system and the programs that run on it are made up of individual files, most of which reside in directories or folders much like a filing cabinet. 
+For example, most of the files associated with the Windows operating system might be found in a folder logically called Windows. Within the Windows folder are several subfolders (many of which also have subfolders) that help further categorize the files they contain. Files that don't reside in a folder or subfolder are said to be on the root of the drive. 
+Think of your home filing cabinet. Perhaps you have a file folder named 'Bills' and inside that folder you have copies of individual bills you've paid. Perhaps you have even organized them using sub-dividers, so that the Bills folder is actually broken down into months or type of bills. 
+Comparing that to a computer, the individual bills would be the files, the sub-dividers would be the subfolders, and the main folder 'Bills' would be a directory or folder found on the computer. 
+You can browse the files and folders on your hard disk and other removable disk drives using &lt;b&gt; My Computer and Windows Explorer&lt;/b&gt;
+</topic>
+<topic name=""  imgName="images\chapter02\2.5pg2.swf" pageNo="2" totalPage="3">&lt;b&gt;Windows Explorer&lt;/b&gt;
+The windows explorer allows you to perform file and directory management tasks such as creating files and directories, renaming or deleting files or directories. 
+The display area of Windows Explorer is divided in two panes. The left side of the Windows Explorer window contains a list of your drives and folders and the right side displays the contents of a selected folder. You can use the View menu to change how the icons in the right half of the window appears.
+To use Windows Explorer to view your hard disk, follow the given steps :-
+1. Click the Start button
+2. Point to Programs
+3. Click Windows Explorer. 
+In the left pane, click the letter that represents your hard disk. The contents of your hard disk appear in the right pane.
+</topic>
+<topic name=""  imgName="images\chapter02\2.5pg3.swf" pageNo="3" totalPage="3">&lt;B&gt;To create a file/folder &lt;/B&gt;
+1. Click the drive in Windows Explorer where you want to create the new folder. 
+2. On the File menu, point to New, and then click file/folder. The new file/folder appears with a temporary name. 
+3. Type a name for the new file/folder, and then press ENTER. 
+If you want to create a new folder within a folder, click the folder and then follow steps two and three above.
+&lt;B&gt;To change the name of a file or folder&lt;/B&gt; 
+1. In My Computer or Windows Explorer, click the file or folder you want to rename. 
+2. On the File menu, click Rename. 
+3. Type the new name, and then press ENTER. 
+A file name can contain up to 255 characters, including spaces. It cannot contain the following characters: \ /: * ? " &gt; &lt;
+Windows Explorer Viewing of File, Folders and Directories" imgName="images\chapter02\s2t6.jpg">
+If you prefer to look at your files in a hierarchical structure, you will like using Windows Explorer. Instead of opening drives and folders in separate windows, you can browse through them in a single window. 
+The left side of the Windows Explorer window contains a list of your drives and folders, and the right side displays the contents of a selected folder. You can use the View menu to change how the icons in the right half of the window appears.
+To use Windows Explorer to view your hard disk, follow the given steps :-
+1. Click the Start button
+2. Point to Programs
+3. Click Windows Explorer. 
+In the left pane, click the letter that represents your hard disk. The contents of your hard disk appear in the right pane.
+&lt;B&gt;To delete files or folder(directories)&lt;/B&gt; 
+1.Right Click  on the Start button
+2. Click Windows Explorer. 
+3. click on the drive containing the file/folder.
+4. Right click on the file/folder to remove and choose delete option from the menu appearing on right click.
+A message appears asking confirmation to send the file/folder to recycle bin.Click on OK.Your file or folder is deleted.
+</topic>
+</section>
+<section name="2.6 Types of files">
+<topic name=""  imgName="images\chapter02\2.6.swf">Understanding File Types in Windows
+Successive versions of windows have reduced the amount of information displayed to the user. This is microsoft's attempt at making your PC easier to use, but for many it just makes things more confusing. You can reveal some of the most important hidden things and may well find it helpful. 
+Just a bit of history first so you can understand what we are about to reveal. Files used to be named according to the convention 8.3, that is 8 letters and a dot and 3 letters. Maybe
+-  myletter.doc
+-  somecalcs.xls
+-  myhold.jpg
+The first (up to) 8 are picked by the user to describe the file contents. The 3 are used by the operating system (eg, windows) to note what type of file it is. Some common file types are;
+.doc	Microsoft Word File
+.xls	Microsoft Excel File
+.exe	Executable File - one that starts up a software application, for instance
+.txt	A plain text file, can be read by Word, Notepad, Wordpad and many others
+.bmp	A picture file created with paint
+.jpg    A compressed picture file 
+.wav    A sound file 
+.mp3	A compressed sound file
+
+This was quite restrictive, with only 8 characters available to describe the file contents, and in windows 98 onwards you can use 255 characters to name your file. 
+</topic>
+</section>
+<section name="2.7 Summary">
+<topic name=" " imgName="images\Chapter02\chap2_sum.swf">
+After  going through this chapter we have learnt 
+1. The purpose of an Operating System
+2. The Graphical User Interface of Windows comprising of Task Bar,Menus, Scroll Bars etc.
+3. Creation of Files and Folders in Windows
+4. Using Windows Explorer for file management 
+5. Using various Control Panel options for configuring 
+- Display properties like Appearance,Wallpaper,Screensaver etc.
+- Installing/Uninstalling software on Windows
+- Adding/Removing printers
+</topic>
+</section>
+
+<section name="2.8 Quiz" >
+<topic name=" Model Questions and Answres" display= "fullScreen" imgName="quiz.swf">
+</topic>
+</section>
+</chapter>

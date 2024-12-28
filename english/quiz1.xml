@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<!DOCTYPE quiz [
+	<!ELEMENT quiz (title, items)>
+	<!ELEMENT title (#PCDATA)>
+	<!ELEMENT items (item)+>	
+	<!ELEMENT item (question, answer, answer+)>
+	<!ELEMENT question (#PCDATA)>
+	<!ELEMENT answer (#PCDATA)>
+	<!ATTLIST answer correct (y) #IMPLIED>
+]>
+<quiz>
+	<items>
+		<item>
+			<question>1. Processing of data is done by a computer according to a set of 			                                       instructions called____________</question>
+			<answer correct="y">Programs</answer>
+			<answer>Algorithms</answer>
+			<answer>Softwares</answer>
+			<answer>Hardwares</answer>
+		</item>
+		<item>
+			<question>2. The three components of Central Processing Unit are:</question>
+			<answer>Control Unit, ALU, Input Devices</answer>
+			<answer>ALU,Control Unit, Output Devices</answer>
+			<answer correct="y">Control Unit, ALU, Memory</answer>
+			<answer>Memory, Control Unit, Processor</answer>
+		</item>		
+		<item>
+			<question>3. One byte is equal to_________</question>
+			<answer>1 bit</answer>
+			<answer correct="y">8 bits</answer>
+			<answer>4 bits</answer>
+			<answer>6 bits</answer>
+		</item>		
+		<item>
+			<question>4. Which memory is used to store the data permanently?</question>
+			<answer>Random Access Memory</answer>
+			<answer>Main Memory</answer>
+			<answer>Physical Memory</answer>
+			<answer correct="y">Secondary Memory</answer>
+		</item>		
+ 		<item>
+			<question>5. Which one of these is not a Characteristic of Computers?</question>
+			<answer correct="y">Faithful</answer>
+			<answer>Precision</answer>
+			<answer>Consistency</answer>
+			<answer>Versatility</answer>
+			
+		</item>
+		<item>
+			<question>6. In Virtual reality systems how many senses are controlled by the computer? </question>
+			<answer>Five</answer>
+			<answer>Seven</answer>
+			<answer>Two</answer>
+			<answer correct="y">Three</answer>
+		</item>
+
+
+
+</items>
+</quiz>

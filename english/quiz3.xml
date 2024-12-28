@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<!DOCTYPE quiz [
+	<!ELEMENT quiz (title, items)>
+	<!ELEMENT title (#PCDATA)>
+	<!ELEMENT items (item)+>	
+	<!ELEMENT item (question, answer, answer+)>
+	<!ELEMENT question (#PCDATA)>
+	<!ELEMENT answer (#PCDATA)>
+	<!ATTLIST answer correct (y) #IMPLIED>
+]>
+<quiz>
+	<items>
+	<item>
+			<question>1. A word processor enables you to make changes to a document without _________ the entire document. </question>
+			<answer>Writing</answer>
+			<answer>Reading</answer>
+			<answer>Understanding</answer>
+			<answer correct="y">Retyping</answer>
+		</item>
+		<item>
+			<question>2.The small horizontal line in the window is called __________  </question>
+			<answer correct="y">Endmark</answer>
+			<answer>Cursor</answer>
+			<answer>Insertion Point</answer>
+			<answer>Text Point</answer>
+		</item>
+		<item>
+			<question>3. A__________ menu lists specific operations that you can perform </question>
+			<answer>Updown</answer>
+			<answer correct="y">Pulldown </answer>
+			<answer>Open</answer>
+			<answer>File</answer>
+		</item>		
+		<item>
+			<question>4. By pressing this button you can_______ the immediate previous action that you have performed.</question>
+			<answer>Redo</answer>
+			<answer>Not to</answer>
+			<answer correct="y">Undo</answer>
+			<answer>Yes do</answer>
+		</item>		
+		<item>
+			<question>5. The default page orientation in Word is ________ mode.</question>
+			<answer>Landscape</answer>
+			<answer>Sunsacpe</answer>
+			<answer>MoonScape</answer>
+			<answer correct="y">Potrait</answer>
+		</item>		
+ 		<!--<item>
+			<question>6. A ________refers to the general shape or design of the Characters. 				</question>
+			<answer>Line</answer>
+			<answer correct="y">Font</answer>
+			<answer>Text</answer>
+			<answer>Color</answer>
+			
+		<item>
+		<item>
+			<question>7. The Font Dialog Box also contains a small subwindow called ______ 			  	  which shows you effect/preview of your selected Font options immediately. 					</question>
+			<answer>See</answer>
+			<answer>View</answer>
+			<answer correct="y">Preview</answer>			
+			<answer>Visualise</answer>
+		</item>
+		<item>
+			<question>8. Use the _____________case option to make the first character of the 		                           	 sentence as Capital.</question>
+			<answer>Title Case</answer>
+			<answer>Lower Case</answer>
+			<answer>Upper Case</answer>
+			<answer correct="y">Sentence Case</answer>
+		</item> -->								
+		</items>
+</quiz>

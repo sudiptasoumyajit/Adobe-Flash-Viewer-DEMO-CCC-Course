@@ -1,0 +1,351 @@
+<chapter name="8.Making small presentations">
+<section name="8.0 Introduction">
+<topic name="Introduction" imgName="images\chapter08\8.0.swf">
+Microsoft PowerPoint is a presentation program developed for the Microsoft Windows and Mac OS computer operating systems. Being widely used by businesspeople, educators and trainers, it is among the most prevalent forms of persuasion technology. According to its vendor, Microsoft Corporation, some 30 million presentations are made with PowerPoint every day.
+In Microsoft PowerPoint, as in most other presentation software, text, graphics, movies, and other objects are positioned on individual pages or "slides". The "slide" analogy is a reference to the slide projector, a device which has become somewhat obsolete due to the use of PowerPoint and other presentation software. Slides can be printed, or (more usually) displayed on-screen and navigated through at the command of the presenter. Transitions between slides can be animated in a variety of ways, as can the emergence of elements on a slide itself. The overall design of a presentation can be controlled with a master slide and the overall structure, extending to the text on each slide, can be edited using a primitive outliner. Presentations can be saved and run in any of the file formats : the default .ppt (presentation), .pot (template) or .pps (PowerPoint Show).
+</topic>
+</section>
+<section name="8.1 Objectives"><topic name="8.1 Objectives" display="fullScreen" imgName="images\chapter08\8.1.swf">
+</topic>
+</section>
+<section name="8.2 Basics">
+<topic name="Basics" imgName="images\chapter08\8.2.swf">Microsoft PowerPoint is a presentation program and is a part of Microsoft Office. It is widely used by marketing people, educators, students, trainers etc to make Presentations/Slide Shows.  
+PowerPoint presentations consist of a number of individual pages or "slides". The "slide" is analogous to a page of presentation. Slides may contain text, graphics, movies, and other objects, which may be arranged freely on the slide. In PowerPoint, we have the facility of &lt;i&gt;"Template"&lt;/i&gt; or &lt;i&gt;"Slide Master"&lt;/i&gt; to have consistent style in complete presentation.
+The presentation can be printed, displayed live on a computer or navigated through, at the command of the presenter. For larger audiences, the computer display is often projected using a video projector. Slides can also form the basis of web-casts. Speaker notes and handouts can be generated corresponding to each slide in Powerpoint.
+Data from Microsoft Excel sheet and / or Microsoft Word document can be easily imported to the presentation. One or more presentations can be merged also. 
+&lt;B&gt; Difference between PowerPoint Presentation and Word Document&lt;/B&gt;  
+Microsoft PowerPoint is used to make presentation whereas Microsoft Word is used to create document.  In the presentation, you need to prepare slides and users are not required to read long pages. Presentations are interactive and interesting as compared to reading documents. The extension of word processing document is &lt;i&gt;.DOC&lt;/i&gt; where as that of a presentation file is &lt;i&gt;.PPT&lt;/i&gt;.
+</topic>
+
+<topic name="8.2.1 Using Power Point"  imgName="images\chapter08\8.2.1.swf">To start making a presentation, you have to open the Powerpoint program. There are two methods for opening it.
+&lt;i&gt;Method 1&lt;/i&gt;
+&lt;b&gt;1.&lt;/b&gt; Click on Start button.
+&lt;b&gt;2.&lt;/b&gt; Click All Programs
+&lt;b&gt;3.&lt;/b&gt; Select Microsoft PowerPoint from the popup menu
+&lt;i&gt;Method 2&lt;/i&gt;
+Click at Powerpoint shortcut,if available at desktop.
+On starting powerpoint, the screen that appears prompts for a new presentation creation using &lt;i&gt;Auto Content wizard&lt;/i&gt;, &lt;i&gt;Template&lt;/i&gt; or a &lt;i&gt;Blank presentation&lt;/i&gt;.
+You can open an existing presentation also if you have already made any.
+</topic>
+<topic name="8.2.2 Opening a powerpoint presentation"  imgName="images\chapter08\8.2.2.swf">There are three methods to open a powerpoint presentation
+&lt;b&gt;Method 1. &lt;/b&gt; Use the tool &lt;i&gt;Open&lt;/i&gt; on the &lt;i&gt;Standard toolbar&lt;/i&gt;.
+&lt;b&gt;Method 2. &lt;/b&gt; Open &lt;i&gt;File Menu&lt;/i&gt; from the Menu Bar and select &lt;i&gt;Open&lt;/i&gt; option.
+&lt;b&gt;Method 3. &lt;/b&gt; To open the Presentation from the task pane, use given steps :-
+1.In file menu open File open dialog box from where you can select the folder where you saved your presentation.
+2.Select the powerpoint file to be opened.
+3.The presentation is opened in &lt;i&gt;Normal View&lt;/i&gt; and it shows mainly two panes : one showing &lt;i&gt;Outline View&lt;/i&gt; and another showing its &lt;i&gt;Slide View&lt;/i&gt;.
+It also shows drawing toolbars at the bottom.
+</topic>
+<topic name="8.2.3 Saving a presentation" imgName="images\chapter08\8.2.3.swf">There are many ways to save the file . We can save the file from the Standard Toolbar or from the Edit Menu Bar.
+&lt;b&gt;Save a new or existing presentation&lt;/b&gt;
+1.Click at the file in the  Menu bar
+2.click at the save option from the File Menu Bar
+3.Click Save . 
+4.Then Save as Dialog box will appear , select the folder in which you want to save the presentation.
+5.Then mention the file name  and click at save.
+&lt;b&gt;Note :&lt;/b&gt; 
+If you're saving the presentation for the first time, you'll be asked to give it a name.You can save it with the option Save from the File Menu.
+If you want to save already saved presentation with a new name , then save the file with the option Save As from the File Menu bar.
+Again the save Dialog Box will appear in which we can mention the new file name.
+</topic>
+</section>
+<section name="8.3 Creation of Presentation">
+<topic name="8.3.1 Creating a Presentation Using a Template" imgName="images\chapter08\8.3.1.swf"> &lt;b&gt;Create a new presentation&lt;/b&gt;
+You can create a new presentation in several ways. You can start by working with the AutoContent wizard, in which you begin with a presentation that contains suggested content and design.
+Another way to start a presentation is by selecting a design template that determines the presentation's design but doesn't include content. You can also begin with an outline you import from another application or with a blank presentation that has neither suggested content nor design.
+&lt;b&gt;Create a presentation based on a design template&lt;/b&gt;
+1.On the File menu, click New, and then click the Design Templates tab.
+2.Scroll to see all the design templates, click the one you want, and then click OK.
+3.You can also find more templates at additional locations.
+4.Scroll to see the slide layouts, and then select a layout for your title slide.
+5.Type the title and any other content you want on the title slide.
+6.On the Formatting toolbar, click Common Tasks, click New Slide, and then select a layout for the next slide.
+7.Add the content you want.
+8.Repeat steps 5 and 6 for each new slide.
+9.When you finish, click Save on the File menu.
+10.Name your presentation, and then click Save. 
+11.To see how your slide show will look, click Slide Show at the lower left of the PowerPoint window.
+</topic> 
+
+<topic name="8.3.2 Creating a Blank Presentation" imgName="images\chapter08\8.3.2.swf">&lt;b&gt;Create a blank presentation &lt;/b&gt;
+1.On the Standard toolbar, click New , and then select the layout you want for your title slide.
+2.Type the title and any other content you want on the title slide.
+3.You can add text in either the slide pane or the outline pane.
+4.Click Common Tasks on the Formatting toolbar, and then click New Slide. Scroll to see more layouts, and then select a layout for the next slide.
+5.Add the content you want.
+6.Repeat steps 3 and 4 for each new slide.
+7.Change the presentation to suit your needs.
+8.When you finish, click Save on the File menu.
+9.Name your presentation, and then click Save. 
+10.To see how your slide show will look, click Slide Show  at the lower left of the PowerPoint window.
+</topic>
+<topic name="8.3.3 Entering and Editing Text" pageNo="1" totalPage ="2" imgName="images\chapter08\8.3.3pg1.swf"> &lt;b&gt;Entering Text&lt;/b&gt;
+ The easiest way to add text to a slide is to type it directly into any placeholder on the slide.If you want to add text outside a placeholder, add text by using the Text Box tool.
+The steps to insert the text through text box do are as follow:
+1.On the Drawing toolbar, click Text Box .
+2.To add text that doesn't wrap, click where you want to add the text, and start typing. or
+  To add text that does wrap, drag to where you want to add text, and then start typing. 
+&lt;b&gt;Editing text&lt;/b&gt;
+In powerpoint , once you write the text in the different placeholder , you can edit the text from the options available in the Edit Menu bar  such as cut , copy , paste , undo , redo  etc.
+The steps to do the following tasks are as follows:
+&lt;b&gt;Cut and Paste&lt;b&gt;
+1.Select the text from the placeholder which you want to cut.
+2. Click at the Edit Menu bar.
+3. Click at Cut option from the Edit Menu.
+4.Then position the insertion point where you want to paste if you want to do so.
+5. Select the paste option from the Edit Menu bar to paste the text.
+&lt;b&gt;Note:&lt;/b&gt; You can do the above task using Standard toolbar also.
+&lt;b&gt;Copy and Paste&lt;b&gt;
+1.Select the text from the placeholder which you want to copy.
+2. Click at the Edit Menu bar.
+3. Click at copy option from the Edit Menu.
+4.Then position the insertion point where you want to paste.
+5. Select the paste option from the Edit Menu bar to paste the text.
+&lt;b&gt;Note:&lt;/b&gt; You can do the above task using Standard toolbar also.
+</topic>
+<topic name="8.3.3 Entering and Editing Text" pageNo="2" totalPage ="2" imgName="images\chapter08\8.3.3pg2.swf">
+&lt;b&gt;Undo and Redo&lt;/b&gt;
+If you erase the text by mistake ,you can restore it without retyping it , Powerpoint  remembers all of the editing you perform during the session,so you can "undo" almost every action you perform.If you undo an action , then change your mind again , you can instantly "redo"it. Steps to the respective task through Standard Toolbar are as following:
+1. Pull down the undo button in the standard toolbar, a list of actions will be displayed. The item at the top of the list is the last action you performed.
+2.Click on the item you want to undo.
+3.If you want to reddo the same action , you can do it with the help of redo button availble next to undo button in the Standard toolbar.
+&lt;b&gt;Note:&lt;/b&gt; You can do the above task using the Edit Menu Bar also.
+</topic>
+<topic name="8.3.4 Inserting And Deleting Slides in a Presentation" imgName="images\chapter08\8.3.4.swf">A presentation/slide show can contain as many slides as you want. The first slide should be the Title Slide as already discussed. From second slide onwards, you can choose any slide type that meets your slide information requirements.
+In general, a new slide can be inserted in the presentation  
+&lt;b&gt;1.&lt;/b&gt; From &lt;i&gt;Insert Menu&lt;/i&gt;, select the &lt;i&gt;New Slide&lt;/i&gt; option.
+&lt;b&gt;2.&lt;/b&gt; or Press &lt;i&gt;Ctrl + M keys&lt;/i&gt; to get a new slide immediately.
+At times, you may want an exact duplicate slide of the current slide and convert it with some changes. In such a case, choose &lt;i&gt;Duplicate Slide&lt;/i&gt; option of &lt;i&gt;Insert Menu&lt;/i&gt;.
+Sometimes, you will like to use some slides already created by you for some other presentation/slide show in the current one. To do so, from &lt;i&gt;Insert Menu&lt;/i&gt;, select the &lt;i&gt;Slide From Files ...&lt;/i&gt; option. This will open up the &lt;i&gt;Slide Finder&lt;/i&gt; dialog box through which you can locate & insert the desired slides in your current presentation.
+To go to next slide, select the desired slide in Outline Section of the Normal View or press Page up or Page Down key in Normal View.
+&lt;b&gt;Delete a Slide&lt;/b&gt;We can delete the slide in many ways such as through Edit Menu bar , through Slide Sorter View.
+Steps to Delete the slide Through Edit Menu:
+1.Select the slide you want to delete.
+2.On the Edit menu, click Delete Slide. 
+&lt;b&gt;Note :&lt;/b&gt;To delete multiple slides, switch to slide sorter view. Hold down CTRL while you click the slides, and then click Delete Slide.
+</topic>
+</section>
+<section name="8.4 Preperation of Slides"> 
+<topic name="8.4.1 Inserting Word Table or An Excel Worksheet" pageNo="1" totalPage="2" imgName="images\chapter08\8.4.1pg1.swf">In case if you want to show some tabulated data , you can do with many ways  such as inserting table from word file or can choose layout options of Powerpoint. You can insert data from Excel worksheet as well.
+You can also create a table in your presentation without using Ms-Word.
+&lt;b&gt; Steps to Insert  a Word table&lt;/b&gt; 
+1.Select the slide in which you want to add a table.
+2.Click at the Insert Menu Bar and then click the option Table from Insert Menu Bar.
+3.Enter the number of rows and columns you want.
+4.Click OK.Same dimensioned table will be inserted.
+5.Enter the data in the table cells.
+6.Use the Word tools and menus to format the table. For example, to add borders to the table, use the Table AutoFormat command on the Table menu.
+7.Click outside the table to return to the Slide. 
+</topic>
+<topic  name="8.4.1 Inserting Word Table or An Excel Worksheet" pageNo="2" totalPage="2" imgName="images\chapter08\8.4.1pg2.swf">
+&lt;b&gt;Steps to Insert an Excel Worksheet in a presentation&lt;/b&gt; 
+1.Select the slide in which you want to add an Excel Worksheet.
+2.On the Insert menu, click at the option Object from the Insert Menu bar. 
+3.Insert Object Dialog Box will appear , from which you can either choose "create new"  or "create from file" .
+4.If you click at the option Create from file , then Browse option will appear.
+5.Click at Browse to find the Excel file.
+6.Click at OK
+</topic>
+<topic name="8.4.2 Adding Clip Art Pictures" imgName="images\chapter08\8.4.2.swf">Powerpoint has its own Clip Art Gallery which contains different categories of pictures.We can insert the readymade pictures from this gallery.
+&lt;b&gt; Inserting a picture from the Clip Art Gallery&lt;/b&gt; 
+1.Select the slide where you want to add a picture.
+2.Click Insert Clip Art on the Drawing toolbar and then click the Pictures tab.
+3.Click the category you want.
+4.Click the picture you want and then click Insert Clip on the shortcut menu.
+5.When you are finished using the Clip Art Gallery, click the Close button on the Clip Art Gallery title bar. 
+</topic>
+<topic name="8.4.3 Adding Other Objects" imgName="images\chapter08\8.4.3.swf">You can insert many types of other objects in the Powerpoint through Drawing toolbar or through Insert object option from the Insert Menu Bar .
+&lt;b&gt; Inserting a freeform object&lt;/b&gt; 
+1.On the Drawing toolbar, click AutoShapes and then point to Lines.
+2.Click Freeform to draw an object with both curved and straight segments. Drag to draw freehand shapes, click and move the mouse to draw straight lines.
+3.Click Scribble when you want an object to look more like it was drawn with a pen. 
+4.To end a shape and leave it open, double-click it at any point. 
+5.To close a shape, click near its starting point. 
+&lt;b&gt; Insert a WordArt drawing object&lt;/b&gt; 
+1.In the slide pane, click the slide on which you want to add a special effect.
+2.On the Drawing toolbar, click Insert WordArt .
+3.Click the special effect you want and then click OK.
+4.In the Edit WordArt Text dialog box, type the text you want to format, select any other options you want and then click OK.
+5.To add or change effects to the text, use the tools on the WordArt and Drawing toolbars. 
+&lt;b&gt;Note: &lt;b&gt;Bitmap images , Flash Documents , Media clips etc.  can be inserted through Insert Object option of the Insert Menu Bar.
+</topic>
+<topic name="8.4.4 Resizing and Scaling an Object" imgName="images\chapter08\8.4.4.swf">After inserting the objects from different sources , it is essential to resize them to fit them  in your presentation.
+&lt;b&gt; Steps to Resize or crop an object&lt;/b&gt; 
+1.When you select an object, sizing handles appear at the corners and along the edges of the selection rectangle.
+2. You can resize an object by dragging its sizing handles or you can resize it more precisely by specifying a percentage for the object's height and width.
+3.If the object is a picture or  a photo or a bitmap or clip art, for example, you can crop it, and you can also restore it later to its original image. For best results when resizing pictures in a presentation that you plan on saving as a Web page, size the picture to a specific percentage under 50.
+</topic>
+</section>
+<section name="8.5 Providing Aesthetics"> 
+<topic name="8.5.1 Enhancing Text Presentation" pageNo="1" totalPage="2" imgName="images\chapter08\8.5.1pg1.swf">Enhancing the text presentation includes to make your presentation in a more presentable manner by making use of formatting features such as bold ,italic , underline,alignment of the text,font size,font style,colors etc.
+&lt;b&gt;Formatting the text with Format Menu Bar&lt;/b&gt;
+Steps : 1.Select the text on which you want to apply these features.
+        2. Click at Format Menu Bar.
+        3. Select  the  Font option  , the Font Dialog box appears.
+        4. Select the options which you want to apply. 
+&lt;b&gt;Features of Font Dialog Box are as follows:&lt;/b&gt;
+&lt;b&gt;Fonts :&lt;/b&gt;The font you choose will affect how your message is received. Choose a more serious font like Times New Roman for conservative audiences or serious messages, choose a "fun" font like Comic Sans MS for a lighthearted message.
+&lt;b&gt;Font Style :&lt;/b&gt;Click Italic, Bold, or Bold Italic to apply these formats to the selected text. Click Regular to remove bold or italic formatting.
+&lt;b&gt;Font Size :&lt;/b&gt;Enter a font size for the selected text. The sizes in the Size list depend on the printer and the selected font in the Font box.
+&lt;b&gt;Effects : &lt;/b&gt;Select the font formats you want to apply to the selected text. Clear a check box to remove that font format from the selected text  such as underline, superscript , subscript , shadow etc.
+&lt;b&gt;Colors  : &lt;/b&gt;Click the color you want to apply to the selected text. Click More Colors if you don't see the color you want.
+       5.After selecting the appropriate options , click at the Preview button to see the effects on the selected text. 
+       6.Then click at O.k
+&lt;b&gt;Bullets and Numbering :&lt;/b&gt; This option gives us the facility to assign bullets and numbering to the text which we may want in making headings , subheadings.
+Steps :1. Select the text or placeholder you want to add bullets or numbering to.
+       Do one of the following: 
+       1.To add bullets, click Bullets 
+       2 To add numbers, click Numbering 
+       3.Click at OK
+</topic>
+<topic name="8.5.1 Enhancing Text Presentation" pageNo="2" totalPage="2" imgName="images\chapter08\8.5.1pg2.swf">
+You can change the appearance of your slide background by changing its color, shade, pattern, or texture. You can also use a picture as a slide background, but you can use only one type of background on a slide. For example you can have a shaded background, a textured background, or a picture as the background, but you can use only one of these on a single slide. When you change the background, you can apply the change to only the current slide or to all the slides. A background can be anything from an informative logo to a decorative solid color. To change the background color follow the given steps :-
+&lt;b&gt;Steps to Change the Text color:&lt;/b&gt;
+1.Select the text you want to change.
+2.Click on Drawing toolbar.
+3.Click the Dropdown of Font Color icon on the Drawing toolbar.
+4.Select the color from the colorbox which you want to apply on the text.
+To change the text color back to its default, click Automatic. 
+Note: If you want to add a new color to your Slide  , Click at More Font Colors  in the Drawing Toolbar . 
+</topic>
+
+<topic name="8.5.2 Working with Color and Line Style"  imgName="images\chapter08\8.5.2.swf" >In Powerpoint you can change the text color and can change the background colors with many options available in the powerpoint.The color and line style option gives you the facility to change the line style of the placeholder and can fill the color in the placeholder.
+Even you can change the line style  such as dashed , dotted etc.
+&lt;b&gt;Steps to work with Color and Line Style:&lt;/b&gt;
+1.Select the text in the placeholder or click in the placeholder.
+2.Click at Format Menu bar.
+3.Click at Color and Line option from the Format Menu bar,the color and line dialog box will appear.
+4.Select the color which you want to fill in the placeholder. 
+5.Select the color of the line as well as line style of the placeholder.
+6.Then Click at Ok  
+</topic>
+<topic name="8.5.3 Adding Movie and Sound" imgName="images\chapter08\8.5.3.swf">Sounds, music, videos and animated gif pictures are available in the ClipArt Gallery. You insert a music, sound or video clip on a slide where you want it to play during a slide show. You can choose either to have the sound or video start automatically when you move to the slide or to have the sound or video start only when you click its icon during a slide show. To change how the clip starts or to add a hyperlink to the clip, click Action Settings on the Slide Show menu.
+You can also add animation effects and change play settings by clicking Custom Animation on the Slide Show menu. For example, you can set a sound or video to play automatically in an animation sequence.
+Sounds, music and videos are inserted as Microsoft PowerPoint objects. If PowerPoint doesn't support a particular media type or feature, you might want to use Media Player to play the file. To play a sound or video as a Media Player object, click Object on the Insert menu and then click Media Clip.  The Media Player plays multimedia files and controls such playback devices as compact disc and video disc players. For more information about the Media Player, see Media Player Help.
+You need speakers and a sound card on your computer to play music and sounds. To find out what's installed and what settings are in use, check both the Multimedia and Sounds categories in Control Panel.
+&lt;b&gt;Steps to Insert Music on a slide&lt;/b&gt;
+1.Select the slide in which  you want to add music or sound.
+2.On the Insert menu, Click at  Movies and Sounds option.
+3.You can  choose either  insert a sound from the Clip Gallery or sound from File. 
+4.To insert a sound from another location, click Sound from File, locate the folder that contains the sound and then double-click the sound you want. 
+5.A sound icon appears on the slide. 
+6.A message is displayed. If you want the sound to play automatically when you go to the slide, click Yes, if you want the sound to play only when you click the sound icon during a slide show, click No.
+7.&lt;b&gt;To preview the sound in normal view,&lt;/b&gt;press F5. 
+&lt;b&gt;Steps to Insert a Movie on a slide&lt;/b&gt;
+1.Select the slide in which you want to add the movie.
+2.On the Insert menu, Click to Movies and Sounds.
+3.You can add  movie either from the  Clip Gallery or from the file. 
+4.To insert a movie from another location, click Movie from File, locate the folder that contains the movie and then double-click the movie you want. 
+5.A message is displayed. If you want the movie to play automatically when you move to the slide, click Yes, if you want the movie to play only when you click the movie during a slide show, click No.
+6.&lt;b&gt;To preview the movie in normal view,&lt;/b&gt; press F5. 
+
+</topic>
+<topic name="8.5.4 Adding Headers and Footers" imgName="images\chapter08\8.5.4.swf">Headers and/or footers are used on PowerPoint slide(s) to include important information about the slides. This can be information for the presenter (or audience), such as the date this presentation was created or delivered, to brand the slides with your company name or simply to automatically place a slide number on each slide.
+&lt;b&gt;Add a footer to a slide&lt;/b&gt;
+1.Click On the View Menu Bar 
+2.Click Header & Footer.
+3.In the Header and Footer dialog box on the Slide tab, select the Footer check box, and then type the text that you want to appear in the center bottom of the slide. 
+4.&lt;b&gt;To keep the text in the footer not to appear on the title slide&lt;/b&gt; Select the Don't show on title slide check box.
+5.To display footer information on the selected slide only, click Apply. or To display footer information on all of the slides in your presentation, click Apply to All. 
+&lt;b&gt;Note :&lt;/b&gt; To Add a header, footer, or both to a handout or notes page , Click in the Header and Footer dialog box, on the Notes and Handouts tab, select the Header or Footer check box, or both, and then type the text that you want to appear in the center top (header) or center bottom (footer) of each notes page or handout. 
+ </topic>
+</section>
+<section name="8.6 Presentation of slides">
+<topic name="8.6.1 Viewing a Presentation" imgName="images\chapter08\8.6.1.swf">Microsoft PowerPoint comes with different views to help you while you are creating a presentation. The two main views you use in PowerPoint are normal view and slide sorter view. To easily switch between views, you click the buttons at the lower left of the PowerPoint window.
+You can see the small icons of normal view ,outline view ,slide view,slide sorter view ,slide show.
+&lt;b&gt;Normal view&lt;/b&gt;Normal view contains three panes --> the outline pane, the slide pane, and the notes pane. These panes let you work on all aspects of your presentation in one place. You can adjust the size of the different panes by dragging the pane borders.
+&lt;b&gt;Outline pane&lt;/b&gt; Use the outline pane to organize and develop the content of your presentation. You can type all of the text of your presentation and rearrange bullet points, paragraphs, and slides.
+&lt;b&gt;Slide pane:&lt;/b&gt; In the slide pane, you can see how your text looks on each slide. You can add graphics, movies, and sounds, create hyperlinks, and add animations to individual slides.
+&lt;b&gt;Notes pane:&lt;/b&gt; The notes pane lets you add your speaker notes or information you want to share with the audience. If you want to have graphics in your notes, you must add the notes in notes page view.
+These three panes are also displayed when you save your presentation as a Web page. The only difference is that the outline pane displays a table of contents so that you can navigate through your presentation.
+&lt;b&gt;Slide sorter view&lt;/b&gt;In slide sorter view, you see all the slides in your presentation on screen at the same time, displayed in miniature. This makes it easy to add, delete, and move slides, add timings, and select animated transitions for moving from slide to slide.
+ &lt;b&gt;Slide Show&lt;/b&gt;You can also preview animations on multiple slides by selecting the slides you want to preview and then clicking Animation Preview on the Slide Show menu.At any time while you are creating your presentation, you can start your slide show and preview your presentation by clicking Slide Show  .
+
+</topic>
+<topic name="8.6.2 Choosing a Set Up for Presentation" imgName="images\chapter08\8.6.2.swf">You can display a presentation as an on screen slide show, as 35 mm slides, as overheads or as some other type of printed output.You can also specify other properties of presentation and powerpoint adjusts the presentation to best suit your selection.
+&lt;b&gt;To select a setup for slides,notes,handouts and outlines.&lt;/b&gt;
+Steps to do this task are as follows:
+1.On the File menu, click Page Setup.
+2.In the Slides sized for box, click the option you want from the drop down list and  enter the measurements you want in the Width and height boxes. 
+3.Under Orientation of Slides, click Portrait or Landscape. All slides in a presentation must be in one orientation. 
+4.Under Notes, handouts, and outline, click Portrait or Landscape. 
+&lt;b&gt;Note:&lt;/b&gt;You can print notes, handouts, and outlines in portrait orientation even if you've selected landscape orientation for your slides. 
+</topic>
+<topic name="8.6.3 Printing Slides and Handouts" imgName="images\chapter08\8.6.3.swf">You can print your entire presentation e.g the slides, outline, notes and audience handouts in color, grayscale, or pure black and white. You can also print specific slides, handouts, notes pages, or outline pages.
+Handouts are basically thumbnails of slides printed together on a sheet of paper such that they also provide some space next to the thumbnail for notes to be written/printed. Handouts are often printed to be sent for review to those who matter before an actual presentation is shown to an audience. During the presentation itself, Handouts can be distributed to the audience.
+To get hard copy of Slides and/or Handouts, follow the given steps :-
+1.Select the  file which you want to print.
+2.Click at the File menu Bar.
+3.Click at the print option from the File Menu Bar, then the print dailog box wiil appear.
+4. In the "Print what"box ,click  the "item" you want to print.If you select &lt;u&gt;Handouts&lt;/u&gt;, you can then select a number of slides per page and whether the order should be horizontal or vertical. To print slides, select "Slides" from the "Print What" box.
+5.Select any other options you want
+6. Click OK.
+</topic>
+</section>
+<section name="8.7 Slide Show">
+<topic name="8.7.1 Running a slide Show"  imgName="images\chapter08\8.7.1.swf">The finla step after making presentation to have a  view over the show, e.g  slide show . In slide show ,the contents of the presentation is shown on full screen .You can start Slide Show in any of the following:
+&lt;b&gt;Method 1.&lt;/b&gt; Click Slide Show at the lower left corner of the PowerPoint window.
+&lt;b&gt;Method 2.&lt;/b&gt; On the Slide Show menu, click View Show.
+&lt;b&gt;Method 3.&lt;/b&gt; On the View menu, click Slide Show.
+&lt;b&gt;Method 4.&lt;/b&gt; Press F5.
+You can also monitor over range of the slides to be presented in the slide show and whether slide should be move automatically or manually.To set these features , the steps are as  following :
+1.Click at Slide Show from the Menu Bar.
+2.Click at the Set Up Show  option .The "set up show" dialog box will appear . 
+3.Select the range from the following two options:
+    a.Includes all the slides in your slide show.
+    b.Includes only the range of slides you enter in the From and To boxes in your slide show. Type the beginning and ending slide numbers in  the From and To boxes.
+4.Click the way you want to move from one slide to the next during a slide show either manually or automatically.
+5.Click at OK. 
+</topic>
+
+<topic name="8.7.2 Transitions and S Timings" imgName="images\chapter08\8.7.2.swf">Slide Transition gives you the facility  to add some  more visual interest to your presentation  or how one slide should go from the screen and with what effects  the next slide comes on the screen.
+&lt;b&gt;Slide Transition&lt;/b&gt;
+To add transitions to a slide show, follow the given steps :- 
+&lt;b&gt;1.&lt;/b&gt; In Slide View or Slide Sorter View, select the slide or slides you want to add a transition to.
+&lt;b&gt;2.&lt;/b&gt; On the Slide Show menu, click Slide Transition. 
+&lt;b&gt;3.&lt;/b&gt; In the Effect box, click the transition you want, and then select any other options you want.
+&lt;b&gt;4.&lt;/b&gt; To apply the transition to the selected slide, click Apply. To apply the transition to all the slides, click Apply to All. 
+&lt;b&gt;5.&lt;/b&gt; Repeat the process for each slide you want to add a transition to. To view the transitions, on the Slide Show menu, click Animation Preview.
+&lt;b&gt;Preview animation and transition effects in a slide.&lt;/b&gt;
+&lt;b&gt;1.&lt;/b&gt; Display the slide you want to preview.
+&lt;b&gt;2.&lt;/b&gt; On the Slide Show menu, click Animation Preview. The transition and animation play in the Animation Preview window that appears.
+&lt;b&gt;3.&lt;/b&gt; To replay the effects, click the Animation Preview window.
+&lt;b&gt;4.&lt;/b&gt; To preview animations on multiple slides, switch to slide sorter view, select the slides you want to preview, and then click Animation Preview on the Slide Show menu.
+
+To &lt;u&gt;set a time manually&lt;/u&gt; follow the given steps :-
+&lt;b&gt;1.&lt;/b&gt; In Normal View or Slide Sorter View, select the slide or slides you want to set the timing for.
+&lt;b&gt;2.&lt;/b&gt; On the Slide Show menu, click Slide Transition.
+&lt;b&gt;3.&lt;/b&gt; Under Advance, click Automatically after, and then enter the number of seconds you want the slide to appear on the screen.
+&lt;b&gt;4.&lt;/b&gt; To apply the timing to the selected slides, click Apply. To apply the timing to all the slides, click Apply to All.
+&lt;b&gt;5.&lt;/b&gt; Repeat the process for each slide you want to set the timing for. 
+To view the timings, click Slide Show at the lower left of the PowerPoint window. 
+
+</topic>
+<topic name="8.7.3 Automating a Slide Show" imgName="images\chapter08\8.7.3.swf">
+&lt;b&gt;Set timings for a slide show&lt;/b&gt; 
+If you don't want to manually move through a slide show, there are two ways you can set the length of time a slide appears on the screen. 
+One way is to &lt;u&gt;set a time manually&lt;/u&gt; for each slide, and then run the slide show and view the timings you set. 
+The other way is to use the &lt;u&gt;"Rehearsal"&lt;/u&gt; feature, where you can record timings automatically as you rehearse. You can also adjust the timings you've already set and then rehearse the new ones. 
+To &lt;u&gt;set slide timings automatically while rehearsing&lt;/u&gt; follow the given steps :-
+&lt;b&gt;1.&lt;/b&gt; Open the Slide Show menu from Menu Bar
+&lt;b&gt;2.&lt;/b&gt; Click Rehearse Timings to start the show in rehearsal mode.
+You can use the buttons in the Rehearsal dialog box to pause between slides, restart a slide, and advance to the next slide. PowerPoint keeps track of how long each slide appears and sets the timing accordingly. 
+&lt;b&gt;3.&lt;/b&gt; Click the "Advance" button when you're ready to go to the next slide. 
+&lt;b&gt;4.&lt;/b&gt; When you reach the end of the slide show, click Yes to accept the timings or No to try again.Presentation of the Slides.
+</topic>
+</section>
+<section name="8.8 Summary">
+<topic name="" imgName="images\chapter08\chap8_sum.swf">
+In this Chapter You have learnt about the Presentation which plays important role different fields as in Teaching , Marketing , Seminars etc
+1.Creating a presentaion in different ways according to the requirements.
+2.Aplying editing Features , Formatting Features in the Slides.
+3.Inseting Objects , Files , Tables in the Slides.
+4.Enhancing the view of the Presentation with the help of Transition effects .
+5.At last to monitor your Presentation either manually or by setting times. 
+</topic>
+</section>
+<section name="8.9 Quiz">
+<topic name="Model Questions and Answers" display="fullScreen" imgName="quiz.swf"> 
+</topic>
+</section>
+</chapter>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<!DOCTYPE quiz [
+	<!ELEMENT quiz (title, items)>
+	<!ELEMENT title (#PCDATA)>
+	<!ELEMENT items (item)+>	
+	<!ELEMENT item (question, answer, answer+)>
+	<!ELEMENT question (#PCDATA)>
+	<!ELEMENT answer (#PCDATA)>
+	<!ATTLIST answer correct (y) #IMPLIED>
+]>
+<quiz>
+<items>
+	<item>
+		<question>1. If more than one user is working on the computer it is called ____________.</question>
+		<answer correct="y">Multiuser</answer>
+		<answer>Multiport</answer>
+		<answer>Multitasking</answer>
+		<answer>Mutics</answer>
+	</item>
+	<item>
+		<question>2. A computer icon is a graphical symbol that represents _______________</question>
+		<answer>Operating System</answer>
+		<answer correct="y">Property</answer>
+		<answer>Mouse</answer>
+		<answer>CPU</answer>
+	</item>		
+	<item>
+		<question>3. Wall paper is a picture/image displayed in the __________ of your desktop.?</question>
+		<answer>foreground</answer>
+		<answer>Higherground</answer>
+		<answer>lowerground</answer>
+		<answer correct="y">background</answer>
+	</item>		
+	<item>
+		<question>4.The display area of Windows Explorer is divided in to how many panes?</question>
+		<answer>3</answer>
+		<answer>4</answer>
+		<answer>6</answer>
+		<answer correct="y">2</answer>
+	</item>
+	<item>
+		<question>5. How many characters can a filename comprise of including spaces?</question>
+		<answer>512</answer>
+		<answer>1024</answer>
+		<answer correct="y">255</answer>			
+		<answer>2048</answer>
+
+	</item>				
+	<!--<item>
+		<question>6. The first program that is loaded in  the computer during the startup is _______________</question>
+
+		<answer correct="y">Operating System</answer>
+		<answer>Starting System</answer>
+		<answer>Loader</answer>
+		<answer>Loading System</answer>
+	</item>				-->
+</items>
+</quiz>

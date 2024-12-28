@@ -1,0 +1,415 @@
+<chapter name="1. Introduction to Computer">
+<section name="1.0 Introduction">
+<topic name =" " imgName="images\chapter01\1.0.swf">&lt;b&gt;Computer&lt;/b&gt; is an electronic device, which is used for varied applications ranging from performing complex calculations, writing simple letters, developing multimedia applications, financial accounting & banking applications, booking of Airlines/Railways tickets and scores of many other fields.
+A Computer has many components like Keyboard, Mouse, Monitor, Memory, Printer and most important the &lt;b&gt;Central Processing Unit&lt;/b&gt; which serves as the brain of the computer system on the whole.
+Computers work when &lt;b&gt; Instructions&lt;/b&gt;  in a particular language are given to it to perform a task. 
+A  &lt;b&gt;program&lt;/b&gt; comprises of many such instructions clubbed together.
+&lt;b&gt;Hardware&lt;/b&gt; refers to the Physical Components of the Computer that you can see and touch like Keyboard, Mouse, Printer, Hard disk and so on. 
+&lt;b&gt;Software&lt;/b&gt; consists of Instructions, Programs, Operating Systems which are required to run the necessary pieces of hardware together. Without software, the hardware is of no use. 
+</topic>
+</section>
+<section name="1.1 Objectives">
+<topic name =" " imgName="images\chapter01\1.1.swf" display="fullScreen">
+1. Provide the basic Definition of  a Computer.
+2. Understand the  Evolution of Computers and their Characteristics.
+3. Briefly outline Various Applications of Computers along with its basic components.
+4. Differentiate between Hardware and Software.
+5. Represent Concepts of  Data/Information and Data Processing.
+6. Highlight concepts like E-Governance, Multimedia and Entertainment of  Information, Electronics and Communication Technology.
+</topic>
+</section>
+<section name ="1.2. What is Computer?">
+<topic name=""  imgName="images\chapter01\1.2.swf">&lt;b&gt;Computer&lt;/b&gt;
+A computer is an electronic data processing device which can read and write, compute and compare, store and process large volume of data with high speed, accuracy and reliability. A computer has several components like Keyboard, Mouse, Processor, Memeory, Monitor etc.
+The basic Organisation of a computer includes the following:
+1. &lt;b&gt;Input Unit&lt;/b&gt;: The data is entered using an input device such as a Keyboard or a Mouse.
+2. &lt;b&gt;Processing Unit&lt;/b&gt;: The computer processes the data according to a set of instructions called Program.
+3. &lt;b&gt;Output&lt;/b&gt;:The computer returns the processed information in the form of output that can either be printed or displayed on the output devices like Printer or Monitor.
+4. &lt;b&gt;Memory&lt;/b&gt;: The computer saves the data and the instructions in the memory for further retrieval.
+</topic>
+<topic name =" 1.2.1 History of Computers" pageNo="1" totalPage="3" imgName="images\chapter01\1-2-1-[i].swf">One of the most important developments leading to the personal computer revolution was the invention of the semiconductor or &lt;u&gt;transistor&lt;/u&gt; in 1948. This feat was accomplished by &lt;u&gt;John Bardeen&lt;/u&gt;, &lt;u&gt;Walter Brattain&lt;/u&gt;, and &lt;u&gt;William Schockley&lt;/u&gt;, who were engineers working at &lt;u&gt;Bell Laboratories&lt;/u&gt;. The transistor, nothing more than a solid-state electronic switch, replaced the much larger vacuum tube and consumed significantly less power in performing the tube's job. Thus a computer system built with transistor was much smaller and more efficient.
+In &lt;u&gt;1959&lt;/u&gt;, engineers at &lt;u&gt;Texas Instruments&lt;/u&gt; figured out how to put more than one transistor on the same base or substrate material and connect the transistors without wires. Thus the &lt;u&gt;integrated circuit&lt;/u&gt;, or &lt;u&gt;IC&lt;/u&gt;, was born. The first IC contained only six transistors, but the Intel 80386 in many of today's systems has 280,000 transistors. ICs can be built with millions of transistors on-board.
+The world's first microprocessor was the &lt;u&gt;Intel 4004&lt;/u&gt;, a 4-bit microprocessor, introduced in &lt;u&gt;1971&lt;/u&gt;. The successor to the 4004 chip was the &lt;u&gt;8008 &lt;/u&gt;8-bit microprocessor in &lt;u&gt;1972&lt;/u&gt;.
+In 1973, some of the first microcomputer kits based on the 8008 chip were developed. These kits were little more than demonstration tools and could not do much except blink lights. In late &lt;u&gt;1973, Intel&lt;/u&gt; introduced the &lt;u&gt;8080 &lt;/u&gt;microprocessor, which was 10 times faster than the earlier 8008 chip and also could address a whopping 64KB of memory. This breakthrough was the one the personal computer was waiting for.
+&lt;u&gt;IBM&lt;/u&gt; introduced its first "personal computer" in &lt;u&gt;1975&lt;/u&gt;. The Model 5100 had 16KB of memory and a built-in BASIC language interpreter. 
+&lt;b&gt;Computer Generations&lt;/b&gt;
+&lt;u&gt;First Generation (1942-55)&lt;/u&gt;
+-	Used vacuum tubes.
+-	Speed in milli-seconds
+-	Very large size.
+-	Consumed lot of power
+-	Generated tremendous heat
+-	Poor reliability due to vacuum tubes
+-	Used only machine language and assembly language
+</topic>
+<topic name =" 1.2.1 History of Computers" pageNo="2" totalPage="3"imgName="images\chapter01\1-2-1-[ii].swf">&lt;u&gt;Second Generation (1955-64)&lt;/u&gt;
+-	Used transistors
+-	Speed in micro-seconds
+-	Relatively small size
+-	Consumed considerably less power
+-	Generated lesser heat as vacuum tubes were not used 
+-	Better reliability than first generation computers
+-	Used magnetic core as a storage device
+-	Used assembly language and high level languages (FORTRAN, COBOL etc.)
+&lt;u&gt;Third Generation (1965-74)&lt;/u&gt;
+-	Used integrated circuits
+-	Speed in nano-seconds
+-	Further reduced size
+-	Reduced power consumption and higher reliability due to the use of integrated circuits
+-	Generated lesser heat 
+-	Used concept of cache memories
+-	Time-sharing and on-line computation possible
+-	Used improved high level languages
+</topic>
+<topic name =" 1.2.1 History of Computers" pageNo="3" totalPage="3" imgName="images\chapter01\1-2-1-[iii].swf">&lt;u&gt;Fourth Generation (1975 onwards)&lt;/u&gt;
+-	Using large scale integration - higher density chips
+-	Speed in nano-seconds
+-	Introduction of microcomputers and microprocessors
+&lt;u&gt;Fifth Generation (currently going on)&lt;/u&gt;
+-	Research is being done in Japan, USA and other countries.
+-	Ability to communicate with spoken words.
+-	Graphic and image recognition
+-	Emulation of human sense organs of speech, sight and sound
+-	Ability to find solutions of problems using databases and information already stored in computer memory.
+-	Ability to take away the burden of programming from human beings (i.e. computers to program themselves).
+</topic>
+<topic name="1.2.2 Characteristics of Computer" pageNo="1" totalPage="2"imgName="images\chapter01\1.2.2.swf">1. &lt;b&gt;Speed :-&lt;/b&gt;
+The computer is very high speed electronic device. It can perform millions of operations on the data in one second. The speed  is usually measured in Mega Hertz (MHz) or Giga Hertz (GHz)..
+2. &lt;b&gt;Accuracy :-&lt;/b&gt;
+In addition to being very fast, computer is also very accurate device. It can give you accurate output provided you give correct input data and set of instructions to the computer. 
+3. &lt;b&gt;Reliability :-&lt;/b&gt;
+The modern computer can perform very complicated calculations without creating any problem. The results produced by computer are consistent (reliable).
+4. &lt;b&gt;Automation :-&lt;/b&gt;
+A computer can automatically perform operations without any need for manual interference during the operations. It controls  different devices attached to it.
+</topic>
+<topic name="1.2.2 Characteristics of Computer" pageNo="2" totalPage="2"imgName="images\chapter01\1.2.2.swf">5. &lt;b&gt;Storage :-&lt;/b&gt;
+The computer has internal storage (primary memory) as well as external or secondary storage. In secondary storage, you can store a large amount of data and programs(set of instructions) for future use.  
+6. &lt;b&gt;Versatility :-&lt;/b&gt;
+Through modern computer you can perform different kind of tasks one by one or simultaneously. It is the most important feature of computer. At one moment you could be playing game on computer as well as downloading songs from internet, the next moment you could be composing a letter and sending emails etc.
+7.  &lt;b&gt;Communications :-&lt;/b&gt;
+Today computer is mostly used to exchange messages or data through computer networks all over the world. For example, you can receive or send the information through the internet with the help of computer. It is most important feature of the modern information technology.
+8.  &lt;b&gt;Precision and Consistency :-&lt;/b&gt;
+Computers are not only fast and consistent but they also perform operations very accurately and precisely. For example, in complex calculations involving fractional values (where value with decimal point can change the actual result), the computer is very precise with the result. 
+</topic>
+<topic name="1.2.3 Basic Applications of Computer" pageNo="1" totalPage="3" imgName="images\chapter01\1-2-3-[i].swf">&lt;b&gt;Information Technology Applications&lt;/b&gt;
+Computers have a wide range of use in almost every field of our life.  They are specially used in the following fields:
+a) Office Use
+b) Data analysis
+c) Accounting and investment analysis.
+d) Graphics and Animation
+e) Education
+f) Banks
+g) Airlines and RailwayTicket Reservation
+g) E-mailing
+&lt;b&gt;Office Uses&lt;/b&gt;
+The work done in offices is mostly the preparation of letters, reports, memoranda, copy of advertisement, publicity, minutes, contracts, forms, notes etc. which can be done through computer in most efficient manner.
+&lt;b&gt;Data Analysis&lt;/b&gt;
+You can analyse the data through special software called spreadsheet programs. You can also prepare the product sales, profits and investment reports. You can also sort, merge and manipulate data (as needed) by accepting the data from other files.
+</topic>
+<topic name="1.2.3 Basic Applications of Computer" pageNo="2" totalPage="3" imgName="images\chapter01\1-2-3-[ii].swf">&lt;b&gt;Accounting and Investment Analysis&lt;/b&gt;
+A spreadsheet program is a software package through which you can analyse investment, inventory control, preparation of budget etc. Specialized software packages such as Tally are available to handle accounts in medium sized companies. 
+Accounting Programs are used for data entry, billing, inventory control, Sales Analysis. Many companies issue shares, debentures, etc.  Software packages for such analysis are available at a small price, like MS-Office Suite supported by Microsoft Corporation.
+&lt;b&gt;Computers in Graphics and Animation&lt;/b&gt;
+Computers can be used to make drawings, graphics and movies.  CorelDRAW, Illustrator, Visio 2000 and FreeLance Plus for Windows are some such software packages, which can help you in increasing your drawing capability. 
+&lt;b&gt;Computers in Education&lt;/b&gt;
+In educational institutions computers are used as teaching aid, research tool and analyzing system. When computer is used as a teaching aid it is referred to as computer-assisted instruction (CAI).
+</topic>
+<topic name="1.2.3 Basic Applications of Computer" pageNo="3" totalPage="3" imgName="images\chapter01\1-2-3-[iii].swf">&lt;b&gt;Computers in Banks&lt;/b&gt;
+Banks use computers to provide online service to customers and to answer customer queries regarding their bank balance etc. To handle cash, banks use cash dispensing machines (Asynchronous Transfer Mode(ATM)). With the use of computers, electronic transfer of funds from one account to another has become possible. 
+&lt;b&gt;Airlines and Railway Ticket Reservation&lt;/b&gt;
+Indian Railways have computerized ticket reservation in almost all important railway stations. The computer stores all necessary information required for ticket processing such as train number, stations, distance between stations, number of seats available in each train for each class, train fare etc. The computer can also give information regarding train timings, fares etc. on telephone enquiry. 
+&lt;b&gt;E-mail&lt;/b&gt;
+Electronic mail (E-mail) is a system whereby through computer users can exchange messages, greetings etc. with each other via Internet, at a very cheap rate. E-mail allows you to create, send, receive and store messages. You can send mail to individuals or groups with a single click. 
+</topic>
+</section>
+
+<section name="1.3 Components of a Computer System">
+<topic name="1.3.1 Central processing Unit(CPU)" pageNo="1" totalPage="2"   imgName="images\Chapter01\1.3.1_1.swf">The main components of a computer are:
+-	Central Processing Unit
+-	Input Devices/media
+-	Output Devices/media
+Some special purpose devices and media are also available. 
+&lt;b&gt;CPU (Central Processing Unit)&lt;/b&gt; 
+The CPU is also called the brain of the computer. Its basic function is to perform calculations and various logical operations. It consists of three parts: -
+	&lt;b&gt;1. Control Unit&lt;/b&gt;
+	- It consists of electronic circuits
+	- It selects, interprets and executes instructions.
+	-Governs input/output (I/O) operations, data transfer to and from storage and guides the routing of data between storage location and the arithmetic and logic unit.
+</topic>
+<topic name="1.3.1 Central processing Unit(CPU)" pageNo="2" totalPage="2" imgName="images\Chapter01\1.3.1_1.swf">&lt;b&gt;2. Arithmetic and Logic Unit (ALU)&lt;/b&gt;
+-	Comprises of electronic circuits.
+-	Performs calculations and comparisons.
+-	Works at tremendous speed and executes millions of instructions per second (MIPS).
+&lt;b&gt;3. Memory or Storage&lt;/b&gt;
+-	Also called Internal storage or main memory or random access memory (RAM).
+-	Consists of very fast memories like magnetic core memory or semiconductor memory.
+-	Stores program instructions or part of data for immediate need.
+-	Data is stored in a computer memory in the form of words, bytes and bits.
+</topic>
+<topic name="1.3.2  Keyboard, Mouse and VDU" imgName="images\Chapter01\1-3-2.swf">&lt;b&gt;Keyboard&lt;/b&gt;
+Keyboard is an input device. Computer keyboard is an electromechanical component designed to create special standardized electronic codes when a key is pressed.
+Keyboards come in a variety of sizes and shapes having a number of features in common:
+1. Standard TypeWriter keys  2. Function keys  3. Special purpose keys  4. Cursor Movement keys  5. Numeric keys
+&lt;b&gt;Mouse&lt;/b&gt;
+The mouse is also an input device that is much in use nowadays in graphics as well as when working with a GUI(Graphic User Interface). 
+About the size of an audiocassette, it slides on a rubber ball and has two or more buttons on the top. When a mouse is slid across a flat surface, the screen cursor also moves in the direction of the movement of the mouse. With a click of the button, the system can be notified of the selected position.
+&lt;b&gt;VDU&lt;/b&gt;
+Visual Display Unit is the most popular I/O device used nowadays for interactive processing. A keyboard is used to enter data into a processor and a Video Display Unit, called Monitor, is used to display the keyed data and to receive processed information and messages from the computer.
+&lt;b&gt;Visual Display Unit/Terminal&lt;/b&gt;
+VDTs are classified as:
+1.&lt;u&gt;Dumb terminals:&lt;/u&gt; These are simple devices that immediately transmit each keyed data character to the processor.
+2.&lt;u&gt;Intelligent terminals:&lt;/u&gt; These combine VDT hardware with built-in microprocessors. They can process small jobs without the need to interact with the main computer
+</topic>
+<topic name="1.3.3 Other Input devices"pageNo="1" totalPage="2" imgName="images\chapter01\1-3-3-[I].swf">&lt;b&gt;MICR&lt;/b&gt;
+Magnetic ink character recognition devices were developed to assist the banking industry. It is used in the processing of cheques.
+The most commonly used character set by MICR devices is known as E13B font that consists of numerals 0-9, and 4 special characters. 
+&lt;b&gt;Scanners&lt;/b&gt;
+These are basically input devices that are capable of recognizing marks or characters. They are used for direct entry of data into the computer.
+Different types of scanners are:
+1. &lt;u&gt;OCR&lt;/u&gt;
+These are scanner devices that are capable of detecting alphabetic and numeric characters by comparing the shapes with internally stored patterns. These are expensive and are used only for large-volume processing applications e.g. by credit-card companies
+2. &lt;u&gt;OMR&lt;/u&gt;
+These scanners are capable of recognising a pre-specified type of mark made by a pencil. These are normally used for validation of input documents, evaluating answer-sheets in objective-type tests e.g. GRE, GMAT.
+3. &lt;u&gt;Bar Code Reader&lt;/u&gt;
+Data coded in the form of light and dark lines or bars are known as bar codes. Bar codes are used particularly by the retail trade for labeling  goods. Bar code  reader is a device used for reading bar code data which is performed by laser beam scanner which is linked to a computer.
+4. &lt;u&gt;Desk Scanning&lt;/u&gt;
+The scanning process involves application of the light source to the image. The light is reflected back form the image into the scanner optics where the varying levels of light are interpreted.The image is then reconstructed digitally and displayed on the screen.
+</topic>
+<topic name="1.3.3 Other Input devices" pageNo="2" totalPage="2" imgName="images\chapter01\1.3.3pg2.swf">&lt;b&gt;Touch Screen&lt;/b&gt;
+It is a computer screen designed or modified to recognize the location of a touch on its surface. By touching the screen, the user can make a selection or move a cursor. The simplest type of touch screen is made up of a grid of sensing lines, which determine the location of a touch by matching vertical and horizontal contacts.
+&lt;b&gt;Light Pen&lt;/b&gt;
+A light pen is a pointing device. It is used to select a displayed menu option on the CRT. It is a photosensitive pen like device. It is capable of sensing a position on the CRT screen when its tip touches the screen. When its tip is moved over the screen surface, its photocell sensing element detects the light coming from the screen and the corresponding signals are sent to the processor.
+</topic>
+<topic name="1.3.4 Other Output devices"pageNo="1" totalPage="3" imgName="images\chapter01\1-3-4-[I].swf"> &lt;b&gt;Output devices&lt;/b&gt;
+&lt;u&gt;Printers&lt;/u&gt;
+Printers are primary output devices used to prepare permanent documents for human use. Printers are classified as:
+1.  &lt;i&gt;Impact printers&lt;/i&gt;
+	i). Letter Quality Printer
+	ii). Line Printer
+2. &lt;i&gt;Non-Imapct printers&lt;/i&gt;
+ &lt;b&gt;1. Impact Printers&lt;/b&gt; 
+These operate like a typewriter, pressing a typeface against paper and inked ribbon. e.g. daisy-wheel printer , dot-matrix printer.
+i). &lt;u&gt;Letter Quality Printer:&lt;/u&gt; These are also called character printers or serial printers because they print one character at a time. They produce a very high quality print image (one that is very clear and precise) because the entire character is formed with a single impact such as a Daisy Wheel Printer or a Dot Matrix Printer.
+	a) DMP (Dot Matrix Printer): These are serial printers, i.e., they print one character at a time. Each character is printed as a pattern of dots.
+	b) Daisy Wheel Printer: These printers have a print wheel with a set of print characters on the outside tips of  flat spokes. You can print a specific character through spinning the wheel.	 
+ii). &lt;u&gt;Line printers&lt;/u&gt; 
+These are very high speed printers, which cater to huge volumes of output requirements of large computer organisations. These are known as Line printers because they use impact methods to produce one line at-a-time printed output. e.g. chain printer, band printer, drum printer. 
+</topic>
+<topic name="1.3.4 Other Output devices"pageNo="2" totalPage="3" imgName="images\chapter01\1-3-4-[Ii].swf">&lt;b&gt;2. Non-Impact Printers&lt;/b&gt; 
+These printers use thermal, electrostatic, chemical and inkjet technologies.
+i). &lt;u&gt;Thermal Printers&lt;/u&gt;
+These printers use heat to produce an image on special paper. The print mechanism, rather like a dot-matrix print head, is designed to heat the surface of chemically treated paper so that a dot is produced based on the reaction of the chemical to the heat. No ribbon or ink is involved. For users who want the highest-quality desktop color printing, thermal printers are the answer. 
+ii). &lt;u&gt;Ink Jet printer&lt;/u&gt; 
+The ink jet printer ejects a steady stream of ink drop towards the printed page. The drops are selectively discarded by electrostatic attraction to leave only those that are needed to form the desired symbol. Those that are not needed are captured in a tiny gutter & filtered to remove impurities. They are then recirculated through the drop-generating mechanism. 
+iii). &lt;u&gt;Laser Printer&lt;/u&gt;  
+This printer is much less mechanical than impact printer (that is, no print heads move, no print hammers hit). resulting in much higher speeds and quieter operation. The process resembles the operation of a photocopy machine. 
+The major advantages of laser printers are:
+1.	Very high speed.
+2.	Low noise level.
+3.	Low maintenance requirements.
+4.	Very high image quality.
+5.	Excellent graphics capabilities.
+</topic>
+<topic name="1.3.4 Other Output devices"pageNo="3" totalPage="3" imgName="images\chapter01\1-3-4-[Iii].swf">&lt;b&gt;Display Devices&lt;/b&gt;
+This is one of the most important Peripheral device  in the computer system. The following different kinds of display devices are available:
+1.&lt;u&gt;Liquid crystal Display(LCD):&lt;/u&gt;
+Earlier LCDs were used commonly in watches and clocks . But nowadays LCD is applied to display devices of a computer. The major advantage of LCD is the low eneregy consumption.They also have colour capability but the image quality is relatively poor. 
+2.&lt;u&gt;Projection Displays&lt;/u&gt;
+A large screen upon which images are projected replaces a personal size of the previous displays. These systems can  be connected to computer and whatever appears on the computer terminal gets enlarged and projected on a large screen. Another method is to connect a computer to an LCD Flat screen and to project the LCD Image using Overhead projector. These are popularly used for seminars, classroom lectures and presentations etc.
+</topic>
+
+<topic name="1.3.5  Computer memory" pageNo="1" totalPage="5"imgName="images\chapter01\1.3.5_1.swf">&lt;b&gt;1. Memory Location&lt;/b&gt;
+-	Memory of the computer is divided into small parts called locations.
+-	Each location has a unique address.
+-	Location is further subdivided into bits.
+-	Different computers have a different location size varying from 8 to 64 bits.
+&lt;b&gt;2. Bit&lt;/b&gt;
+    Bit stands for one binary digit, which is either 0 or 1.
+&lt;b&gt;3. Byte&lt;/b&gt;
+    Number of consecutive bits combine to make a byte. 
+Most commonly used combination is of 8 bits. Size of main memory is given in Kilobytes (KB) or Megabytes (MB).
+</topic>
+<topic name="1.3.5  Computer Memory" pageNo="2" totalPage="5"imgName="images\chapter01\1.3.5_2.swf">&lt;b&gt;Primary Storage / Internal Memory / Main Memory&lt;/b&gt;
+The main memory, also called random access memory (RAM) is the work area of the computer. It stores program instructions or part of data for immediate needs.The storage capacity of RAM is limited. A typical modern computer can have a RAM size of  32MB or 64MB or greater upto 8GB. It is volatile memory of the computer and when the power goes, the contents stored in RAM are lost. 
+RAM can be classified as DRAM(Dynamic RAM)or SRAM(Static RAM). 
+&lt;b&gt;Secondary Storage&lt;/b&gt;
+The secondary storage devices are used to store programs and data on a permanent basis. Their storage capacity is much higher compared to main memory of the computer. Secondary Storge devices accept data or program instructions from the processor, retain them and then write them back to the processor as and when needed.
+The examples of secondary storage devices are Floppy disk, Hard Disk, Magnetic tapes, Pendrives or jumpdrives etc.
+&lt;u&gt;Floppy Diskette&lt;/u&gt;
+The floppy diskette is a direct access storage device although its capacity is much less than a hard disk. The diskette is made out of a flexible plastic material. This base is coated with an iron-oxide recording material. Data is recorded as tiny magnetic spots. The surface is divided into tracks and sectors, same as in a hard disk. The number of tracks on a diskette depends on the recording density. The size of each sector is fixed (512 bytes). Data is stored on both sides of the diskette. There is one head per surface in the floppy drive for reading/writing data on the diskette. The circular plastic disk is enclosed within a smoothly lined, protective square jacket to protect it from dust and scratches.
+The standard size available nowadays is: 3.5 inch.
+</topic>
+<topic name="1.3.5  Computer memory" pageNo="3" totalPage="5"imgName="images\chapter01\1-3-5-[III].swf">&lt;u&gt;Hard Disk&lt;/u&gt;
+These are specific kind of storage devices that can not be removed and are fixed inside the computer. That is why these are also called as fixed disks and store programs permanently.The storgae capacity of the disks that are used these days are having Gigabytes of storage and these are faster in comparison to Floppy disks.
+&lt;u&gt;Magnetic Tape&lt;/u&gt;
+This is also a magnetic media which stores data sequentially in them . Though they provide unlimited storage capacity they suffer form a very serious problem. Since the data stored in them is sequential in nature, retrieval of data takes a very long time. These are used for archival backup storage. 
+&lt;u&gt;CD-ROM&lt;/u&gt;
+Compact disk, read-only memory optical disks have a very large storage density and the access time is relatively low.
+&lt;u&gt;Digital Versatile Disc&lt;/u&gt;
+Digital Versatile Disk is in genre of optical discs with same overall dimension of CDs but much higher capacity. These can store at least 7 times more data than CD ROM. 
+</topic>
+<topic name="1.3.5  Computer memory" pageNo="4" totalPage="5"imgName="images\chapter01\1-3-5-[Iv].swf">&lt;u&gt;Static Memory and Memory Sticks&lt;/u&gt;
+Also commonly known as pen drive or jump drive or flash drive. Static memory devices use memory chips to store information. This information is retained even after power is turned off. They connect to a USB port on the computer and offer capacities of 128 MB or more. Due to their size and shape, these devices are known as USB memory keys or flash drives and have widely replaced floppy disks for transportation of files between systems. Many portable and hand-held devices rely entirely on static memory for storage.
+&lt;u&gt;Semiconductor Memory&lt;/u&gt; 
+These days, internal memory consists of extremely small bit storage circuits (flip-flops) etched on a silicon chip. All the electronic elements to store a bit are placed in such a small area of the chip that a single chip can store millions of bits. The individual chips are arranged in groups to form a memory module.
+Types of  Semiconductor Memory
+i).   &lt;i&gt;Random Access Memory (RAM):&lt;/i&gt; Any information can be read from and written into a RAM. It is a read/write memory. It is a volatile memory i.e. its contents are lost if the power supply is interrupted or turned off. The main memory of the computer is RAM.
+</topic>
+<topic name="1.3.5  Computer Memory" pageNo="5" totalPage="5"imgName="images\chapter01\1.3.5_5.swf">ii).&lt;i&gt;Read Only Memory (ROM):&lt;/i&gt; ROM is permanently programmed with information during manufacture, by implementing the appropriate pattern of two state values. It cannot be changed subsequently by a normal write operation. It is thus completely non-volatile. It is mainly used to hold those programs, which are required permanently. 
+iii). &lt;i&gt;Programmable Read Only Memory (PROM) :&lt;/i&gt; This can be programmed to record information using a special electronic equipment known as a PROM programmer. However, it cannot be changed subsequently. 
+iv). &lt;i&gt;Erasable Programmable Read Only Memory (EPROM):&lt;/i&gt; EPROM is a PROM, which can be reversed by exposing it to an ultraviolet light source. The device can be re-erased and re-programmed again and again.
+v).  &lt;i&gt;Cache Memory:&lt;/i&gt; It is a small capacity high-speed memory used to make processing faster. The main memory can process information very fast, but it takes much longer to transfer data to and from the input/output devices. The cache memory compensates for this mismatch in operating speeds. It holds those parts of data and the active program, which are most frequently used. Thus, the performance rate of the CPU improves. 
+</topic>
+</section>
+<section name="1.4 Concept of Hardware and Software">
+<topic name="1.4.1  Hardware " imgName="images\chapter01\1.4.1.swf">&lt;b&gt;Hardware&lt;/b&gt;
+Hardware refers to the physical components of a data processing system. Input, storage, processing and control devices are hardware such as Hard disk, Printer, Keyboard etc. Without any hardware your computer would not exist and software would have nothing to run on. Computer software is something that executes within the hardware.
+The hardware of a computer is infrequently changed, in comparison with software and data. Hardware professionals deal with the manufacturing and maintenance of computers.
+Many manufacturers mass produce computer systems and sell them either through direct marketing or retail chains.
+There are also a number of vendors that can custom assemble computer systems to the end-user's specifications. It is also possible to purchase the individual parts and component of a computer and build it. 
+Some of the items to consider when purchasing a computer include: 
+&gt; The motherboard 
+&gt; Processor 
+&gt; RAM 
+&gt; Storage 
+&gt; Adapter cards
+&gt; power options
+</topic>
+<topic name="1.4.2  Software" pageNo="1" totalPage="2"  imgName="images\chapter01\1.4.2_1.swf">&lt;b&gt;Software&lt;/b&gt;
+A computer can only do what a programmer asks it to do. To perform a particular task the programmer writes a sequence of instructions, called the program. An instruction is a command given to the computer to perform a certain specified operation on the given data. A set of programs written for a computer is called software. Without software, hardware is of no use. It cannot produce any results on its own. 
+It is a general term used to describe a collection of computer programs, procedures and documentation that perform some task on a computer system. 
+Usually written in high-level programming languages softwares are easier and more efficient for humans to use (closer to natural language) than machine language. High-level languages are compiled or interpreted into machine language object code. Software engineers (programmers, systems analysts) develop and maintain software. With technological changes, software changes take place faster than hardware changes.
+Practical computer systems divide software systems into two major classes: 
+1. &lt;u&gt;Application Software.&lt;/u&gt; 
+2. &lt;u&gt;System software,&lt;/u&gt; 
+</topic>
+<topic name="1.4.2  Software" pageNo="2" totalPage="2" imgName="images\chapter01\1.4.2pg2.swf">&lt;b&gt; Application Software&lt;/b&gt;
+Software that allows you to do things like create text documents, play games, listen to music, or surf the web is called application software. In general, application programs are software that enable the end-user to perform specific, productive tasks, such as word processing or image manipulation
+&lt;b&gt; Systems Software &lt;/b&gt;
+Systems software comprises of an  Operating System and all utility programs (like Compiler, Loader, Linker, and Debugger) that manage computer resources at a low level. Operating systems, such as GNU, Microsoft Windows, Mac OS X or Linux, are prominent examples of system software.
+System software is software that basically allows the parts of a computer to work together. Without the system software the computer cannot operate as a single unit. System software performs tasks like transferring data from memory to disk, or rendering text onto a display device.
+</topic>
+<topic name="1.4.3  Programming Languages"pageNo="1" totalPage="2" imgName="images\chapter01\1.4.3_1.swf">Some examples of popular high-level programming languages are given below:
+&lt;b&gt;FORTRAN&lt;/b&gt;
+It is an abbreviation for Formula Translation. IBM introduced FORTRAN in 1957. It is a very useful language for scientific and engineering computations as it contains many functions for performing complex mathematical operations. 
+&lt;b&gt;COBOL&lt;/b&gt;
+It is an abbreviation for Common Business Oriented Language. COBOL was developed specially for business data processing. It was introduced by the US industry/government committee in 1960 and is used for large business and commercial applications such as handling of ledgers, accounts and payroll files etc.
+&lt;b&gt;PASCAL&lt;/b&gt;
+It is a high-level language named in honor of Blase Pascal, a seventeenth century French mathematician, philosopher and inventor. It is a multi-purpose language suitable for both scientific and business applications. Besides numbers, it can also manipulate vectors, matrices and strings of characters, sets, records, files and lists.
+&lt;b&gt;BASIC&lt;/b&gt;
+It is an abbreviation for Beginners All-purpose Symbolic Instruction Code. It was introduced in 1965 by Dartmouth College. BASIC is a widely used language for simple computations and analysis. 
+</topic>
+<topic name="1.4.3  Programming Languages"pageNo="2" totalPage="2" imgName="images\chapter01\1.4.3_2.swf">&lt;b&gt;ALGOL&lt;/b&gt;
+It is an abbreviation for Algorithmic Language. An international committee introduced it in 1958. It is suitable for scientific and engineering computations. It is used in some universities and computer centres, but not in industries.
+&lt;b&gt;C&lt;/b&gt;
+It is a general-purpose high-level language. A group at Bell Telephone Laboratories, USA in the early 1970s, designed this language. It has features similar to PASCAL. It permits manipulation of internal processor registers and hence a programmer can write low-level machine instructions.
+&lt;b&gt;LOGO&lt;/b&gt;
+It is an abbreviation for Logic Oriented Graphic Oriented. Seymour Papert and his colleagues at MIT developed it in the late 1960s. It is used in serious scientific work in universities. It has also been popularized as a first educational language that children can use to achieve intellectual growth and problem-solving skills.
+&lt;b&gt;LISP&lt;/b&gt;
+It stands for List Processing. McCarthy developed this language in the early 1960s. LISP is suitable for nonnumeric operations involving logical operations. It is used extensively in artificial intelligence and pattern recognition. It is also used in designing computer games, proving theorems etc.
+&lt;b&gt;JAVA&lt;/b&gt; 
+Java was introduced by Sun Microsystems in 1995. Java is a programming language designed for use in the distributed environment of the Internet. It was designed to have the "look and feel" of the C++ language, but it is simpler to use than C++ and enforces an object-oriented programming model.
+</topic>
+</section>
+<section name="1.5 Representation of Data/Information " >
+<topic name =" " imgName="images\chapter01\1.5.swf" >&lt;b&gt;Information&lt;/b&gt;
+In general, raw data that has been verified to be accurate and timely, is specific and organized for a purpose, is presented within a context that gives it meaning and relevance, and which leads to increase in understanding and decrease in uncertainty.
+&lt;b&gt;Data&lt;/b&gt;
+- Collection of facts
+- Raw Information
+&lt;b&gt;Processing&lt;/b&gt;
+Sequence of actions required to be performed on data to convert it into results. For example, a merit list is generated after processing the raw information available about the marks of each student.
+&lt;b&gt;Results&lt;/b&gt;
+- Useful Information
+- Facts in organized manner
+</topic>
+</section>
+<section name="1.6 Concept of Data Processing ">
+<topic name=" " imgName="images\chapter01\1.6.swf">The computer is an electronic data processing device which is capable of taking input, processing it to generate useful information(output) and store both input as well as the output. The data processing cycle comprises of following 4 distinct stages viz. :-
+1. &lt;b&gt;Input:&lt;/b&gt; Data is collected and entered into the computer. This is called input process.
+2. &lt;b&gt;Storage:&lt;/b&gt; What is entered into the computer is stored in its main memory. This storage is temporary i.e. the contents of the memory are lost when the power is switched off. Another memory, called secondary memory, is used to store the information of the main memory permanently.
+3. &lt;b&gt;Processing:&lt;/b&gt; The sequence of actions that are performed on the data stored in the main memory, to get results is called processing. Results are stored in the main memory till they are transferred to an output device. 
+4. &lt;b&gt;Output:&lt;/b&gt; Stored results are taken out of the main memory. This process is known as output process.
+</topic> 
+</section>
+<section name="1.7 Applications of IECT ">
+<topic name="1.7.1 E-Governanace " pageNo="1" totalPage="2" imgName="images\chapter01\1.7pg1.swf">&lt;b&gt;E-Governance &lt;/b&gt;
+E-governance is a key to make information technology (IT) relevant to ordinary citizens. It allows citizens to communicate with government and participate in the governments' policy-making . 
+It is a network of organizations to include government, nonprofit and private-sector entities. In e-governance, there are no distinct boundaries. 
+The model for e-governance is a one-stop portal, such as firstgov.gov, where citizens have access to a variety of information and services. An ideal portal would be one for employment where a citizen creates a profile and is presented with employment opportunities at the federal, state, local, non-profit and private-sectors
+The primary delivery models of e-Government can be divided into:
+&gt; Government-to-Citizen or Government-to-Customer (G2C) 
+&gt; Government-to-Business (G2B) 
+&gt; Government-to-Government (G2G) 
+&gt; Government-to-Employees (G2E) 
+Within each of these interaction domains, four kinds of activities take place:
+&gt;&lt;b&gt;Pushing information over the Internet&lt;/b&gt;  e.g: regulatory services, general holidays, public hearing schedules, issue briefs, notifications etc. 
+&gt;&lt;b&gt;Two-way communications&lt;/b&gt; between the agency and the citizen, a business, or another government agency. In this model, users can engage in dialogue with agencies and post problems, comments or requests to the agency. 
+&gt; &lt;b&gt;Conducting transactions &lt;/b&gt; e.g: lodging tax returns, applying for services and grants. 
+&gt; &lt;b&gt;Governance &lt;/b&gt; e.g: online polling, voting and campaigning. 
+</topic>
+<topic name="1.7.1 E-Governanace " pageNo="2" totalPage="2" imgName="images\chapter01\1.7.1pg2.swf">The primary delivery models of E-Government are classified depending on who benefits. In the development of public sector or private sector portals and platforms, a system is created that benefits all constituents. Citizens needing to renew their vehicle registration have a convenient way to accomplish it while already engaged in meeting the regulatory inspection requirement.
+To develop these public sector portals or platforms, governments have the choice to internally develop and manage, outsource or sign a self-funding contract. The self-funding model creates portals that pay for themselves through convenience fees for certain e-government transactions, known as self-funding portals.
+Some of our states where E-Governanace activities are taking place are:
+&lt;b&gt;State of Goa "Dharani Project" &lt;/b&gt;: is an initiative of the government of Goa to computerize the land records in the state that inculdes Issuing of computerized certified copy of village maps, Confirmation of Possession of property in City Survey, partition and re-survey etc.
+&lt;b&gt;State of Haryana "Nai Disha" &lt;/b&gt;: is an electronic interface between the Government and the citizens. It is a step towards making Government Services available to the citizens anytime anywhere.
+&lt;b&gt;State of Himachal Pradesh "Lok Mitra" &lt;/b&gt;: is a Web-enabled Government-Citizen Interface of Himachal Pradesh Government and is one of the innovative schemes by Government of Himachal Pradesh to provide the general public, especially living in distant rural areas of the State, with the benefits of  "Using Information Technology (IT) in Governance (E-Governance)" at their doorstep.
+</topic>
+<topic name="1.7.2 Muiltimedia and Entertainment " pageNo="1" totalPage="2" imgName="images\chapter01\1.7.2pg1.swf">&lt;b&gt;Multimedia &lt;/b&gt;
+Multimedia is a combination of sound and images with text and graphics. This would include movies, animations, music, people talking, sound effects like the roar of a crowd and smashing glass.
+&lt;b&gt;Sound Input&lt;/b&gt;
+Recording sounds for your computer requires special equipment. Microphones can capture sounds from the air, which is good for sound effects or voices.
+&lt;b&gt;Voice Input&lt;/b&gt;
+Talking data into the computer when your hands and eyes are busy should certainly be more efficient. You can tell the computer what to do instead of typing commands, like saying "Save file". One has to be careful enough while giving the sound input with regard to pronounciation of words. Also there could be a problem that dictionary of understood words does not include some of the more "forceful" words.
+&lt;b&gt;Video Input &lt;/b&gt;
+A &lt;u&gt;Digital Camera&lt;/u&gt; takes still photos but records the pictures on computer disks or memory chips. The information contained can be uploaded to a computer for viewing.
+A &lt;u&gt;Video Camera or Recorder (VCR)&lt;/u&gt; can record data that can be uploaded to the computer with the right hardware. Though it is not digital data, you can still get good results with the right software. Both of these take huge amounts of storage. Photos make for very large files. 
+A &lt;u&gt;Web Cam&lt;/u&gt; is a tiny video camera designed especially to sit on your computer. It feeds pictures directly to the computer as their would be no tape or film to develop. Of course the length of the cable that connects the camera to the computer would be a limiting factor. But like any camera, it will take a picture of what you point it at. 
+</topic>
+<topic name="1.7.2 Muiltimedia and Entertainment " pageNo="2" totalPage="2" imgName="images\chapter01\1.7.2pg2.swf">&lt;b&gt;Multimedia  Entertainment&lt;/b&gt;
+The field of entertainment uses multimedia extensively. One of the earliest applications of multimedia was for games. Multimedia made possible innovative and interactive games that greatly enhanced the learning experience. Games could come alive with sounds and animated graphics.
+&lt;b&gt;Multimedia Business&lt;/b&gt;
+Even basic office applications like a word processing package or a spreadsheet tool becomes a powerful tool with the aid of multimedia business. Pictures, animation and sound can be added to these applications, emphasizing important points in the documents.
+&lt;b&gt;Virtual Reality&lt;/b&gt;
+Virtual reality is a truly absorbing multimedia application. It is an artificial environment created with computer hardware and software. It is presented to the user in such a way that it appears and feels real. In virtual reality, the computer controls three of the five senses. Virtual reality systems require extremely expensive hardware and software and are confined mostly to research laboratories.
+&lt;b&gt;Videoconferencing&lt;/b&gt;
+Another multimedia application is Videoconferencing. Videoconferencing is conducting a conference between two or more participants at different sites by using computer networks to transmit audio and video data.
+</topic>
+</section>
+
+<section name="1.8 Summary" >
+<topic name=" " imgName="images\Chapter01\chap1_sum.swf">
+In this chapter you have learned the Basic definition of Computer. You learnt the History of Computers along with different Characteristics of Computers and Basic Applications of Computers. 
+You were provided an insight into the various Components of Computer Systems like the Central Processing Unit, Keyboard, Mouse and Visual Display Unit.
+As a user, concepts of Hardware, Software and Programming Languages were highlighted, for you to learn. 
+Efforts have been made to make you abreast with the Applications of Information, Electronics and Communications Technology like E-Governance, Multimedia and Entertainment.
+</topic>
+</section>
+<section name="1.9 Quiz" >
+<topic name=" Model Questions and Answres" display= "fullScreen" imgName="quiz.swf">
+</topic>
+</section>
+</chapter>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

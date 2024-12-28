@@ -1,0 +1,223 @@
+<chapter  name="5. Computer Communications and Internet " > 
+<section name="5.0 Introduction">
+<topic name="" imgName="images\chapter05\5.0.swf">The advent of computers has revolutionized the workplace and redefined operational practices. The use and deployment of computers, computer systems and information technology applications in every aspect of business is now common. The recent application and adoption of Web-based, information and telecommunication technologies has force-multiplied the capabilities and benefits of computers. 
+Computer systems connected over a Web-based environment or an intranet-based network can communicate with each other. Varied connectivity and access technologies with computing interfaces facilitate communication of employees with business partners, suppliers, customers, government regulators and other stakeholders. 
+This chapter introduces you to the basics of computer communication and internet. Communication is the most popular use of the Internet, with email topping the list of all the technologies used. Some of the types of communication technologies used also include email Discussion Groups, Usenet News, Chat Groups etc. These are unique to networked computer environments and have come into wide popularity because of the Internet.
+</topic>
+</section>
+<section name="5.1 Objectives">
+<topic name="5.1 Objectives"  display="fullScreen" imgName="images\chapter05\5.1.swf"> 
+</topic>
+</section>
+
+<section name="5.2 Basics of Computer Networks "> 
+<topic name="5.2.1 Local Area Network(LAN) " pageNo="1" totalPage="2" imgName="images\chapter05\5.2.1_1.swf">&lt;b&gt;What is Networking &lt;/b&gt;
+Networking is the practice of linking two or more computing devices together for the purpose of sharing data. Networks are built with a mix of computer hardware and computer software. A computer network is a group of computers that are connected to each other for the purpose of communication. Networks may be classified according to a wide variety of characteristics. 
+A &lt;b&gt;Local Area Network&lt;/b&gt; (LAN) is a high-speed communication system, designed to link computers and other data processing devices together within a small geographic area, such as a workgroup, department or building. This allows users to electronically share vital computing resources such as expensive hardware (e.g. printers and CD-ROM drives), application programs and information.
+Local Area Networks implement &lt;u&gt;shared access technology&lt;/u&gt;. This means that all the devices attached to the LAN share a single communications medium, usually a coaxial, twisted-pair, or fiber-optic cable.
+A physical connection to the network is made by putting a network interface card (NIC) inside the computer and connecting it to the network cable. Once the physical connection is in place, the network software manages communications between stations on the network.
+To send messages to and from computers, the network software puts the message information in a packet. (If the message to be sent is too big to fit into one packet, it will be sent in a series of packets.) In addition to the message data, the packet contains a header and a trailer that carry special information to the destination. One piece of information in the header is the address of the destination.
+</topic>
+
+<topic name="5.2.1 Local Area Network(LAN) " pageNo="2" totalPage="2" imgName="images\chapter05\5.2.1_2.swf">The NIC transmits the packet onto the LAN as a stream of data represented by changes in electrical signals. As it travels along the shared cable, each NIC checks its destination address to determine if the packet is addressed to it. When the packet arrives at the proper address, the NIC copies it and gives its data to the computer. Since each individual packet is small, it takes very little time to travel to the ends of the cable. After a packet carrying one message passes along the cable, another station can send its packet. In this way, many devices can share the same LAN medium.
+The following characteristics differentiate one LAN from another: 
+·&lt;U&gt;Topology&lt;/U&gt;: The geometric arrangement of devices on the network. For example, devices can be arranged in a star, a ring or in a straight line. 
+·&lt;U&gt;Protocols&lt;/U&gt;: The rules and encoding specifications for transferring data. The protocols also determine whether the network uses a peer-to-peer or client/server architecture. 
+·&lt;U&gt;Media &lt;/U&gt;: Devices can be connected by twisted-pair wire, coaxial cables or fiber optic cables. Some networks(wireless) do without connecting media altogether, instead communicating via radio waves. 
+</topic>
+
+<topic name="5.2.2 Wide Area Network (WAN)" imgName="images\chapter05\5.2.2.swf">A &lt;b&gt;Wide Area Network&lt;/b&gt; (WAN) is a geographically dispersed telecommunications network. The term, WAN, distinguishes a broader telecommunication structure from a local area network(LAN). A wide area network may be privately owned or rented, but the term usually connotes the inclusion of public(shared user) networks. An intermediate form of network in terms of geography is a metropolitan area network (MAN). 
+Computers connected to a wide-area network are often connected through public networks, such as the telephone system. They can also be connected through leased lines or satellites. The largest WAN in existence is the Internet.  Wide area networks(WANs) combine the continuous error detection and correction techniques included in synchronous communications with robust network problem determination and data routing to form powerful backbones that ensure high-quality, reliable service for end users. These networks allow multiple users to access a variety of host computers simultaneously through the same physical medium, while separating each user's session so that no user is aware of another on the network. Wide area networks also operate at speeds much higher than the 19,200-bps limit of normal voice-grade telephone lines.
+It is possible to enter data for sales and transactions at the point-of-sale terminals using WANs. It is also possible to centralize this data in a computer for processing or reporting purposes. For example, Supermarkets in advanced countries connected through WANs can send all sales data from their remote sale centers and the central purchase and distribution center can monitor all the sale figures on a day-to-day basis.
+</topic>
+</section>
+
+<section name="5.3 Internet">
+<topic name="5.3.1 Concept of Internet" imgName="images\chapter05\5.3.1.swf">The Internet is a &lt;u&gt;network of networks&lt;/u&gt; that connects users in every country in the world. There are currently over one billion Internet users worldwide. The Internet brings the outside world to your desktop in your home or in your office. The Internet is a global network made up of thousands of networks that communicate with each other. The Internet offers a diverse range of information and ideas, covering almost every topic you can think of. You can also share your knowledge and interest with others.
+An individual or organization controls the LAN or private WAN network. The Internet is a conglomerate of networks and is not owned by any individual or group. There are, however, several major International organizations that help to manage the Internet so that everyone follows the same rules.
+Whoever wants to connect to Internet must contact Internet Service Provider (ISP). An ISP is a company that provides the connections and support to access the Internet. It can also provide additional services such as Email and web hosting.
+You connect to an ISP by using a PC modem to connect to your ISP's modems. Your modem connects to a single modem among a bank of modems at your ISP. This is called a dial-up connection. Users within corporations and large organizations typically connect to an ISP via a high-speed link.
+</topic>
+
+<topic name="5.3.2 Basics of Internet Architecture" pageNo="1" totalPage="6" imgName="images\chapter05\5.3.2_1.swf">Internet Architecture consists of :
+&lt;B&gt;i) User PC &lt;/B&gt;
+A Multi-Media PC equipped to send and receive all variety of audio and video.It may include :  
+1.	Sound Board /Microphone/Speakers 
+2.	Video/Graphics for 3D graphics, video, playback 
+3.	Video camera 
+4.	Voice recognition 
+</topic>
+
+<topic name="5.3.2 Basics of Internet Architecture" pageNo="2" totalPage="6" imgName="images\chapter05\5.3.2_2.swf">&lt;B&gt;ii) User's Communication Equipment &lt;/B&gt;
+This is the communication equipment located at the User's location(s) to connect the Users' PC(s) to the "Local Loop".It may include :
+1.	Phone line - Analog Modem 
+2.	Phone line -ISDN(128K).  
+3.	Phone Line - DSL (6 MB) , 
+4.	Cable Modem (27 MB) 
+5.	Electric Line (1 MB) 
+6.	Satellite (400 Kb) 
+7.	LAN 
+8.	Routers 
+9.	Firewalls 
+</topic>
+<topic name="5.3.2 Basics of Internet Architecture" pageNo="3" totalPage="6" imgName="images\chapter05\5.3.2_3.swf">&lt;B&gt;iii) Local Loop Carrier&lt;/B&gt; 
+It connects the User location to the ISP's Point of Presence using any of the following:  
+1.	Communication Lines 
+2.	Cable. 
+3.	Satellite 
+4.	Power line .  
+5.	Wireless. 
+</topic>
+<topic name="5.3.2 Basics of Internet Architecture" pageNo="4" totalPage="6" imgName="images\chapter05\5.3.2_4.swf">
+&lt;B&gt;iv) ISP POP&lt;/B&gt; 
+This is the edge of the ISP's network. Connections from the user are accepted and authenticated here using remote ports. 
+</topic>
+
+<topic name="5.3.2 Basics of Internet Architecture" pageNo="5" totalPage="6"imgName="images\chapter05\5.3.2_6.swf" >&lt;B&gt;v) User Services &lt;/B&gt;
+These are the services that most users would use along with Internet Access: 
+1.	Domain Name. 
+2.	Email Host  
+3.	Usenet Newsgroups (NNTP) 
+4.	Special services such as TELNET, FTP 
+5.	User Web Hosting 
+6.	These servers require fast interfaces and large/fast storage. 
+&lt;B&gt;vi) Online Content&lt;/B&gt;  
+These are the host sites that the user interacts with. It includes :  
+1.	Web Server platforms 
+2.	Hosting Farms- Many online resources are hosted at well-connection facilities 
+3.	These servers require fast interfaces and large/fast storage. 
+&lt;B&gt;vii) Origins of online content&lt;/B&gt;  
+This is the original "real-world" sources for the online information which may include : 
+1.	Existing electronic information is being connected from legacy systems. 
+2.	Traditional print resources are being scanned and converted into electronic format 
+3.	Many types of video and audio programming is being broadcast via the internet. 
+4.	Internet telephony is growing on the Internet 
+</topic>
+
+<topic name="5.3.2 Basics of Internet Architecture" pageNo="6" totalPage="6"imgName="images\chapter05\5.3.2_5.swf" >&lt;B&gt;viii) ISP Backbone &lt;/B&gt;
+The ISP backbone interconnects the ISP's POPs and interconnects the ISP to Other ISP's and online content. It includes : 
+1.	Backbone Providers 
+2.	Large Circuits - fiber Circuit carriers 
+3.	Routers 
+4.	ATM Switches. 
+5.	Sonet/SDH Switches. 
+6.	Gigaswitch 
+7.	Network Access Points 
+</topic>
+
+</section>
+
+<section name="5.4 Services on Internet">
+<topic name="5.4.1 WWW and Websites" imgName="images\chapter05\5.4.1.swf">WWW is a system consisting of interlinked hypertext documents, available on Internet.  These web pages can be collectively called a website and has a unique name called Website name. These web sites can be accessed on any computer connected to Internet using a web browser. The most commonly used web browser is Internet Explorer(IE). The web pages or web site may contain text, images, videos and other multimedia contents and user can navigate between them. The English physicist Tim Berners-Lee wrote a proposal in 1989, making a way for so-called WWW (World Wide Web). This is why he is called Father of Web. Now he is the director of World Wide Web Consortium.
+A website is a collection of web pages maintained by a single person or organization. In most cases, a website has a distinct fully qualified domain name, such as www.yahoo.com. We can classify Websites into three types:
+1.	Public
+2.	Personal
+3.	Intranet
+A &lt;i&gt;public site&lt;/i&gt; focuses on a company or an organization.
+A &lt;i&gt;personal site&lt;/i&gt; is a site that focuses on an individual. These sites are specifically designed to provide support and services to customers of a particular product or a range of products.
+An &lt;i&gt;Intranet site&lt;/i&gt; provides information about a company, but it makes the information available only to that company's employees mainly.
+</topic>
+<topic name="5.4.2 Communication on Internet"   imgName="images\chapter05\5.4.2.swf">We can communicate on the Internet through mail, chatting, newsgroup etc. 
+&lt;U&gt;Email&lt;/U&gt;: On the Internet we commonly use the word MAIL to refer to email(electronic mail). Anyone who has an email address can send/receive mail. Similiarly if you have someone's email address you can send him/her mail. 
+&lt;U&gt;Chatting&lt;/U&gt;: Chatting is used for online interactive communication through Internet, where sender and receiver need to be online at the same time. 
+&lt;U&gt;UseNet(Newsgroups)&lt;/U&gt;: Usenet refers to a service that is very much like a public bulletin board. Usenet allows you to post messages to a public subject area, a newsgroup where a number of other participants can read them and post their own replies and comments.
+Newsgroup can be a good source of information from other users who have used certain products or have had experiences with certain companies. In newsgroup you can find job postings, business and health care advice, political and religious discussions etc. 
+</topic>
+<topic name="5.4.3 Internet Services" pageNo="1" totalPage="4" imgName="images\chapter05\5.4.3pg1.swf">&lt;b&gt;Email &lt;/b&gt;
+Email is one of the most popular client/server applications on the Internet. Email servers run server software that enables them to interact with clients and with other email servers over the network. 
+Each mail server receives and stores mail for users who have mailboxes configured on the mail server. Each user with a mailbox must then use an email client to access the mail server and read these messages. 
+Mail servers are also used to send mail addressed to local mailboxes or mailboxes located on other email servers.
+Mailboxes are identified by the format:
+user@company.domain.
+Various application protocols used in processing email include SMTP, POP3, IMAP4.
+</topic>
+<topic name="5.4.3 Internet Services" pageNo="2" totalPage="4" imgName="images\chapter05\5.4.3pg2.swf">&lt;b&gt;Telnet&lt;/b&gt;  
+Telnet is a protocol which makes the connection between two remote computers (called hosts) possible over a TCP/IP network ( such as Internet). It can be used to connect host (client PC) with the server on the network. Once your telnet client establishes a connection to the remote host (or server), the client becomes a virtual terminal, allowing us to communicate with the remote host from client computer.  The commands entered at client side using telnet are directly executed on the server console. In this way server can be controlled from client side.   
+Telnet clients are available for all major operating systems.
+Command-line telnet clients are built into most OS and it can be activated from command prompt by entering command : 
+telnet [host-name]  or
+telnet [IP-address]
+Replace host with the name or IP address of the remote computer to which you wish to connect.
+Hence telnet is a network protocol used on LAN, WAN or Internet to provide bidirectional interactive communication facility.
+</topic>
+
+
+<topic name="5.4.3 Internet Services " pageNo="3" totalPage="4" imgName="images\chapter05\5.4.3pg3.swf">&lt;b&gt;File Transfer Program&lt;/b&gt;(FTP)
+FTP is the user interface to the Internet standard File Transfer Protocol. The program allows a user to transfer files to and from a remote network site. Options may be specified at the command line or to the command interpreter.
+The FTP service lets you transfer files from one connected computer to another. However there is one basic restriction you cannot access a computer unless you log on to it. In other words you cannot copy files to or from a remote computer unless you have a valid username and a password.
+Anonymous FTP is a facility that lets you connect to certain hosts and download files without having to be a registered user. To do so, you log in using a special user name - anonymous. With this user name you do not need a regular password. Instead you type your mail address. Some files in the FTP servers may be accessible to the general public, while others are accessible only by the user. To separate the general public from the registered users, FTP servers are divided into two parts:
+- Anonymous server  
+- Non-anonymous server
+
+</topic>
+
+<topic name="5.4.3 Internet Services " pageNo="4" totalPage="4" imgName="images\chapter05\5.4.3pg4.jpg">&lt;b&gt;Search Engine&lt;/b&gt;
+A Search Engine is a program that can search a large database for specific information. On the web, there are a number of search engines devoted to keep track of everything on the web, and you can use them for free(The companies that maintain them make their money by selling advertisement slots).
+Some of popular search engines are:
+1.	Yahoo! And Alta Vista
+2.	HotBot
+3.	WebCrawler
+4.	Excite
+5.	Lycos
+6.	Magellan
+7.   Google
+Each search engine is different and you must learn to use it in its own way. For Example, Yahoo and AltaVista keep track of a great deal of the content on the web but they do so in completely different ways.
+The Yahoo search engine seeks to categorize everything on the web. When you use Yahoo to search for something, the results are given as a list of categories related to that something. If you select a category, you will be shown links to Web pages falling in that category.
+The AltaVista search engine has a different emphasis. AltaVista does its best to maintain copy of all the information on the web. You use AltaVista to look for specific words and it responds by showing you a list of links to web pages that contain those words.
+</topic>
+</section>
+
+<section name="5.5 Preparing Computer for Internet Access">
+<topic name="5.5.1 ISPs and examples (Broadband/Dialup/WiFi)" imgName="images\chapter05\5.5.1.swf">An Internet service provider (ISP), also sometimes referred to as an Internet access provider (IAP), is a company that offers its customers access to the Internet. 
+ISPs may provide Internet e-mail accounts to users which allow them to communicate with one another by sending and receiving electronic messages through their ISP's servers. ISPs may provide other services such as remotely storing data files on behalf of their customers, as well as other services unique to each particular ISP.
+In addition to serving individuals, ISPs also serve large companies, providing a direct connection from the company's networks to the Internet. ISPs themselves are connected to one another through Network Access Points (NAPs). 
+There are a number of ISPs in India at present. Some of them are BSNL, Sify, VSNL, Reliance, Tata, Airtel etc.
+ISPs employ a range of technologies to enable consumers to connect to their network.
+Your choice will depend on how often and how you intend to use the internet. You can choose from Dial-up, DSL, ISDN, Broadband, Cable Internet or Wi-Fi etc. 
+</topic>
+
+<topic name="5.5.2 Internet Access Techniques "  pageNo="1" totalPage="3" imgName="images\chapter05\5.5.2pg1.swf">Interet can be accessed by using any of the following methods : 
+&lt;B&gt;Dial-up : &lt;/B&gt;
+Dial-up connections are one type of internet connection available from ISPs, they are the slowest and (usually) the most inexpensive. 
+A dial-up connection allows you to connect to the internet via a local server using a standard 56k modem. Your PC literally dials (hence the name) a phone number (provided by your ISP) and connects to the server and therefore the internet. 
+&lt;B&gt;DSL : &lt;/B&gt;
+Digital Subscribers Line connections are becoming more and more widely available and can provide an excellent internet connection. 
+The connections work by splitting your phone line into two separate channels, one for data (internet) and one for voice (phone calls), which means you can talk on the phone and be connected to the internet at the same time. 
+&lt;B&gt;Broadband wireless access :&lt;/B&gt;
+Wireless Broadband is a fairly new technology that provides high-speed wireless internet and data network access over a wide area. According to the 802.16-2004 standard, broadband means having instantaneous bandwidth greater than around 1 MHz and supporting data rates greater than about 1.5 Mbit/s.
+</topic>
+<topic name="5.5.2 Internet Access Techniques "  pageNo="2" totalPage="3" imgName="images\chapter05\5.5.2pg2.swf">&lt;B&gt;Cable Internet:&lt;/B&gt;
+Cable connections are considered one of the best types of internet connection available to the home user, they offer very fast and reliable connections with a fixed monthly fee. 
+Cable companies usually offer different packages to suit different internet subscribers, your choice of package will depend on how you intend to use the internet. 
+The different packages will offer different speed specifications and bandwidth limits. 
+Because a cable connection uses a totally separate medium to transfer data, it doesn't affect your ability to make/receive phone calls. 
+&lt;B&gt;FTTH (Fiber To The Home) &lt;/B&gt;
+FTTH or Fiber To The Home, refers to fiber optic cable that replaces the standard copper wire. FTTH is desirable because it can carry high-speed broadband services integrating voice, data and video and runs directly to the junction box at the home or building. For this reason, it is sometimes called Fiber To The Building or FTTB. Fiber optic cables are made of glass fiber that can carry data at speeds exceeding 2.5 gigabits per second (gbps).
+</topic>
+<topic name="5.5.2 Internet Access Techniques "  pageNo="3" totalPage="3" imgName="images\chapter05\5.5.2pg3.swf">&lt;B&gt;ISDN&lt;/B&gt;
+Integrated Services Digital Network, an international communications standard for sending voice, video and data over digital telephone lines or normal telephone wires. ISDN supports data transfer rates of 64 Kbps (64,000 bits per second). There are two types of ISDN: 
+Basic Rate Interface (BRI) -- consists of two 64-Kbps B-channels and one D-channel for transmitting control information. 
+Primary Rate Interface (PRI) -- consists of 23 B-channels and one D-channel (U.S.) or 30 B-channels and one D-channel (Europe).
+&lt;B&gt;Wireless(Wi-Fi)&lt;/B&gt;
+Wireless Internet uses radio waves as a means of transmission. The most convenient thing about wireless is that more than one person can log onto the connection. Wireless Internet provides you Internet access in your home, on the road or at the office. Many cell phone providers bundle phone and Internet service that save you money. Wireless Internet is free in many public areas. You can use it as long as you have a wireless connection on your laptop.
+</topic>
+</section>
+<section name="5.6 Summary">
+<topic name=""  imgName="images\chapter05\chap5_sum.swf">
+In this chapter, we have understood about networking. Networking can be of two types - LAN and WAN. 
+There are different topologies, protocols and media available for networking. 
+The concept of Internet has also been explained here. 
+Internet Architecture consists of User PC, communication network equipment, local loop carrier, User services, ISP backbone etc. 
+We have explained different types of websites. 
+A number of services like email,telnet,Ftp etc. are available on the internet. 
+The term ISP(Internet Service Provider) is also explained here. 
+Different types of Internet Access techniques like dial-up,DSL, cable internet, Wi-Fi etc. have been described in this chapter.
+</topic>
+</section>
+
+<section name="5.7 Quiz">
+<topic name="Model Questions and Answers" display="fullScreen" imgName="quiz.swf"> 
+</topic>
+</section>
+
+</chapter>

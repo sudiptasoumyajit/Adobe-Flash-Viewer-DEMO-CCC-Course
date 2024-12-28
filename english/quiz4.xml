@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<!DOCTYPE quiz [
+	<!ELEMENT quiz (title, items)>
+	<!ELEMENT title (#PCDATA)>
+	<!ELEMENT items (item)+>	
+	<!ELEMENT item (question, answer, answer+)>
+	<!ELEMENT question (#PCDATA)>
+	<!ELEMENT answer (#PCDATA)>
+	<!ATTLIST answer correct (y) #IMPLIED>
+]>
+<quiz>
+	<items>
+		<item>
+			<question>1. A __________ is a collection of spreadsheet pages.</question>
+			<answer correct="y">Workbook</answer>
+			<answer>Artbook</answer>
+			<answer>Worksheet</answer>
+			<answer>Documnet</answer>
+		</item>
+		<item>
+			<question>2. ____________ Addressing refers to the value in a cell rather than the position of the cell.</question>
+			<answer>Mixed</answer>
+			<answer correct="y">Absolute</answer>
+			<answer>Relative</answer>
+			<answer>None of the above</answer>
+		</item>		
+		<item>
+			<question>3. Formulas always start with the ________ sign.</question>
+			<answer>Less than</answer>		
+			<answer>Greater than</answer>
+			<answer correct="y">Equal to</answer>
+			<answer>Less than or equal to</answer>
+		</item>		
+		<item>
+			<question>4. Both absolute and relative addressing are possible in a________  </question>
+			<answer>Toolbar</answer>
+			<answer>Tooltip</answer>
+			<answer>Chart</answer>
+			<answer correct="y">Formula</answer>
+		</item>		
+		 <item>
+			<question>5. ___________are constructed with data points and data  series.</question>
+			<answer>Rectangles</answer>
+			<answer correct="y">Charts</answer>			
+			<answer>Lines</answer>
+			<answer>Circles</answer>
+			
+		</item>		
+		<!--<item>
+			<question>6. The intersection of a column and a row is called __________.
+			</question>
+			<answer>Box</answer>
+			<answer>Selection</answer>
+			<answer>Ellipse</answer>
+			<answer correct="y">Cell</answer>
+		</item>	-->		
+</items>
+</quiz>

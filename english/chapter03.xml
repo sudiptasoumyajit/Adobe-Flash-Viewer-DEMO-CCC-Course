@@ -1,0 +1,468 @@
+<chapter name="3. Elements of Word Processing">
+<section name="3.0 Introduction">
+<topic name="" imgName="images\chapter03\3.0.swf">The process of preparing and printing documents by using the computer and computer programs is called Word Processing. The computer programs that are used for this purpose are called the Word Processing Software or Packages. Word Processing Software is used to create letters, memos, faxes and various other types of documents. The Word Processing Software has the following important features:
+&lt;b&gt; 1.&lt;/b&gt;	Creating new documents with different formatting. 
+&lt;b&gt; 2.&lt;/b&gt;	Save the document on disk for future use. 
+&lt;b&gt;3.&lt;/b&gt;	Preview the document on the monitor before getting its hardcopy on paper. 
+&lt;b&gt;4.&lt;/b&gt;	Open the existing documents for editing. 
+&lt;b&gt;5.&lt;/b&gt;	Set the margins of document and line spacing. 
+&lt;b&gt;6.&lt;/b&gt;	Copying, moving, selecting, deleting, inserting etc. operations on text in the document. 
+&lt;b&gt;7.&lt;/b&gt;	Underline text, bold face text, setting size of text etc. 
+&lt;b&gt;8.&lt;/b&gt;	Images can be inserted into the document. 
+&lt;b&gt;9.&lt;/b&gt;	Cut or copy the selected text from the document and paste it anywhere in the same or another document. 
+&lt;b&gt;Advantages of Word Processing&lt;/b&gt;
+One of the main advantages of a word processor over a conventional typewriter is that a word processor enables you to make changes to a document without retyping the entire document. 
+&lt;b&gt;Some Common Word Processing Packages&lt;/b&gt;
+Some  examples of popular word processing softwares are
+&gt;	Open Office.
+&gt;	WordStar. 
+&gt;	Word Perfect. 
+&gt;	Microsoft Word. 
+</topic>
+</section>
+<section name="3.1 Objectives">
+<topic name="3.1 Objectives" display="fullScreen" imgName="images\chapter03\3.1.swf">   
+</topic>
+</section>
+<section name="3.2 Word Processing Basic">
+<topic name="3.2.1 Opening a Word Processing Package"pageNo="1" totalPage="2" 
+imgName="images\chapter03\3.2.1pg1.swf">&lt;b&gt;Opening MS-WORD&lt;/b&gt;
+You can open Microsoft Word by clicking Microsoft WORD shortcut from popup menu under Programs menu. The steps are:
+Start Button  --> All Programs --> Microsoft WORD 2003 icon.
+&lt;b&gt;Understanding The Word For Windows Screen&lt;/b&gt;
+When you start Word, the screen contains the Title Bar, Menu Bar, the Standard Toolbar, the Formatting Toolbar, and the Ruler at the top of the screen.
+The &lt;u&gt;Title Bar &lt;/u&gt; will display the name of your document.
+The &lt;u&gt;Menu Bar &lt;/u&gt;displays the menus from which you select the commands to work with your documents.
+The &lt;u&gt;Standard Toolbar &lt;/u&gt;contains buttons for performing common word processing functions with a click of the mouse.
+</topic>
+<topic name="3.2.1 Opening a Word Processing Package"pageNo="2" totalPage="2"imgName="images\chapter03\3.2.1pg2.swf">The &lt;u&gt;Formatting&lt;/u&gt; Toolbar contains buttons/tools and drop down lists for formatting your document.
+The &lt;u&gt;Ruler&lt;/u&gt; is used to set tabs, indent paragraphs, and change the page margins.
+At the bottom of the screen is the &lt;u&gt;Status Bar&lt;/u&gt;. The Status Bar is divided into several sections.
+The area between the Ruler and Status Bar is the &lt;u&gt;Text Window&lt;/u&gt;. The text window is where your document appears as you type. 
+The small horizontal line in the window is called the &lt;u&gt;Endmark&lt;/u&gt;. The endmark indicates the end of your document. It moves down as you insert text and moves up as you delete text. 
+The blinking vertical line is called the &lt;u&gt;insertion point&lt;/u&gt;. The insertion point is the Windows equivalent to a cursor, since it indicates the position of the next characters typed or deleted. You can use either the mouse or the directional arrow keys to move the insertion point to the place where you want to type, insert, or delete characters.
+</topic>
+<topic name="3.2.2 The Menu Bar" imgName="images\chapter03\3.2.2.swf">Selecting a &lt;u&gt;Menu Bar&lt;/u&gt; option with the mouse or keyboard displays a pulldown menu. A pulldown menu lists specific operations that you can perform. The figure for instance, shows the pull down menu for the File option.
+In some pull down menus, certain options may appear gray, or dimmed. These options are not currently available to be selected but must first be activated by performing some other function. If the function has an alternate shortcut key, it will be listed next to the command, such as Ctrl+S next to the menu option Save.
+An ellipsis (...) next to the command means that selecting the option will display a dialog box containing additional choices from which you must select. A checkmark indicates that the option is turned on or selected. To display other pull down menus, click on appropriate Menu Bar options, or press the right arrow(-->) key to move to next menu or press the left arrow  key to move to previous menu.
+To select a pulldown menu option, click on the option with the mouse button, or press the underlined letter, or press the up arrow key or down arrow key to highlight the option and press Enter. To cancel a menu, click elsewhere on the Window or press the Esc key.
+&lt;b&gt;The File menu&lt;/b&gt; shows New, Open, Close, Save, Save As, Print and other basic file functions.
+&lt;b&gt;The Edit menu&lt;/b&gt; shows Cut, Copy, Paste, Paste Special, Find, Replace, etc. to edit text
+&lt;b&gt;The Insert menu&lt;/b&gt; is used to insert a Picture,Date, Time and much more.
+&lt;b&gt;The View menu&lt;/b&gt; is used to activate/deactivate Toolbars,to add/remove Header, Footer etc.
+&lt;b&gt;The Format menu&lt;/b&gt; shows formatting options for the text.
+&lt;b&gt;The Tools menu&lt;/b&gt; shows options for checking the spellings & grammar of the document, AutoCorrect etc.
+&lt;b&gt;The Help menu&lt;/b&gt; shows various options for help on MS-Word
+</topic>
+<topic name="3.2.3 Using The Help" imgName="images\chapter03\3.2.3.swf">Word has a powerful onscreen Help system. It includes information on menu commands, dialog boxes, and other tools. There are even demonstrations that take you step by step through complete word processing tasks.
+&lt;b&gt;Getting help from Word&lt;/b&gt;
+When you have a question about a Microsoft Office program, you can ask the Office Assistant. For example, to get Help about drawing objects or pictures, type picture in the Assistant.
+If the correct topic doesn't appear in the Assistant balloon, click None of the above, look for more help on the Web at the bottom of the list of topics. You will get suggestions on how to phrase a question to the Office Assistant or how to narrow your search by using keywords. If you still can't find the information you want, you can send feedback to improve future versions of Help and be automatically connected to the Microsoft Office Update Web site to search for help there.
+The Assistant automatically provides Help topics and tips on tasks you perform as you work, before you even ask a question. For example, when you write a letter, the Assistant automatically displays topics to help you create and format a letter.
+Steps to get help:
+1. Click at help option  from the menu bar.
+2. Office Assistant will appear with a dialog box.
+3. Type the specific question or the topic name.
+4. Then click on search button.
+5. Other options relating to the topic will be displayed in the Office Assistant box.
+6. Choose the appropriate option for which you want the detailed help.
+7. Then the help topics related to the options will appear in a separate window.
+8. Select the specific topic from the list.
+9. Detailed help regarding the topic will be displayed.
+</topic>
+<topic name="3.2.4 Using the Icons Below the Menu Bar "pageNo="1" totalPage="3" imgName="images\chapter03\3.2.4_1.swf">&lt;b&gt;New Blank Document&lt;/b&gt;: You can use this icon to open a  blank new document.
+&lt;b&gt;Open&lt;/b&gt;: Open an existing document stored in the hard disk or from the specific source.
+&lt;b&gt;Save&lt;/b&gt;:  Save the document in the hard disk.
+&lt;b&gt;E-Mail&lt;/b&gt;: You can directly open the Microsoft Outlook and E-mail the document.
+&lt;b&gt;Printer&lt;/b&gt;: You can directly print the complete document by pressing this icon.
+&lt;b&gt;Print Preview&lt;/b&gt;: Before giving the printing of the document you can have a peep into the final appearance of the document on the paper.
+&lt;b&gt;Copy&lt;/b&gt;: By pressing this button you can copy any text object or shape or picture that you want to be put somewhere else.
+&lt;b&gt;Paste&lt;/b&gt;: By pressing this button you can paste any text object or shape or picture that     you want to be put on the document.
+&lt;b&gt;Undo&lt;/b&gt;: By pressing this button you can undo the immediate previous action that you have performed.
+&lt;b&gt;Insert Table&lt;/b&gt;: You can insert a table in your document to present tabulated information in the shape of rows and columns.
+&lt;b&gt;Zoom&lt;/b&gt;: You can use this button for increasing or decreasing the size of your document as it is displayed in the window.
+&lt;b&gt;Microsoft Word Help&lt;/b&gt;: Use this icon to activate the inbuilt Microsoft Help System.
+</topic>
+<topic name="3.2.4 Using the Icons Below the Menu Bar "pageNo="2" totalPage="3" imgName="images\chapter03\3.2.4_2.swf">&lt;b&gt;Add hyperlink&lt;/b&gt;: For adding a Hyperlink in your existing Document.
+&lt;b&gt;Style&lt;/b&gt;: You can select the style of the document that you are typing.
+&lt;b&gt;Font type Button&lt;/b&gt;: For changing the font of the typed text you can use this button. On pressing this button a dropdown list opens and you can select the specific font for the typed text.
+&lt;b&gt;Font Size&lt;/b&gt;: You can change the font size of the text by pressing this button and selecting the specific font size value.
+&lt;b&gt;Bold&lt;/b&gt;: You can darken a part of the text so as to make it more prominent/bolder in the document by pressing this button.
+&lt;b&gt;Italic&lt;/b&gt;: You can provide an italic effect to your text when you press this button.
+&lt;b&gt;Align Left&lt;/b&gt;: This button provides the alignment feature to the text and you can use this to set alignment of your text to the left hand side.
+&lt;b&gt;Align Center&lt;/b&gt;: This button provides the alignment feature to the text and you can use this to set alignment of your text in the center of the page.
+&lt;b&gt;Align Right&lt;/b&gt;: This button provides the alignment feature to the text and you can use this to set alignment of your text to the right hand side.
+&lt;b&gt;Justify &lt;/b&gt;:On pressing this button your text document will automatically be aligned to both the left and the right sides. MS-Word automatically pads in soft spaces to bring about text justification.
+</topic>
+<topic name="3.2.4 Using the Icons Below the Menu Bar "pageNo="3" totalPage="3" imgName="images\chapter03\3.2.4_3.swf">&lt;b&gt;Numbering of text&lt;/b&gt;: If numbering is required that must appear along with the text then on pressing this button you can make that happen. 
+&lt;b&gt;Bullets&lt;/b&gt;: If bullets are required of specific shape and size to identify a specific text you can press this button to achieve the desired result.
+&lt;b&gt;Decrease Indent&lt;/b&gt;: The Decrease indent button can be used to decrease the indent of selected items to the left by one tab-stop.
+&lt;b&gt;Increase Indent&lt;/b&gt;: This button can be used to increase the indent of selected items to the right by one tab-stop.
+&lt;b&gt;Outside Border&lt;/b&gt;: You can add, remove border around the selected text, paragraphs, cells, pictures or other objects.
+&lt;b&gt;Font Colour&lt;/b&gt;: By clicking this button you can provide a specific colour to the text in the document that you want to color.
+&lt;b&gt;More Buttons&lt;/b&gt;: By pressing this button another dialog box opens that is titled  &lt;i&gt;Add or remove Buttons&lt;/i&gt;. Further pressing this button would provide you with the number of buttons that already have been selected and are appearing in the menu bar and there would be some unselected buttons that are not appearing in the menu bar you can make requisite changes as per your need.
+</topic>
+</section>
+<section name="3.3 Opening and Closing Documents">
+<topic name="3.3.1 Opening Documents"pageNo="1" totalPage="2" imgName="images\chapter03\3.3.1pg1.swf">&lt;b&gt;Opening Documents&lt;/b&gt;
+&lt;b&gt;A. Opening a document on your hard disk &lt;/b&gt;
+To open a document, follow the given steps :-
+1. Click Open option available in the File menu.
+2. If you want to open a document that was saved in a different folder, locate and open the folder.
+3. Double-click the document you want to open. 
+&lt;b&gt;B. Opening a document created in another program &lt;/b&gt;
+To open a document of a different type, follow the given steps :- 
+1. Click Open option available in the File menu.
+2. Click the file format you want in the Files Type box. 
+3. You can also type the extension in the File name box for example, type *.doc to find MS-WORD files. 
+4. If you want to open a document that was saved in a different folder, locate and open the folder.
+5. Click the document you want to open in Word.
+6. Click Open option in the open dialog box 
+</topic>
+<topic name="3.3.1 Opening Documents"pageNo="2" totalPage="2" imgName="images\chapter03\3.3.1pg2.swf">&lt;b&gt;C. Opening a Recently Used Document&lt;/b&gt;
+You can edit new documents as you type them or existing documents you've already saved. To edit an existing document, you must first open it, or recall it from the disk. Word makes it easy to open the last four documents you opened or created and saved. 
+To open a recently used document, follow the given steps :-
+1. Select File Menu. At the bottom of the File menu, Word lists the last four documents you worked on as shown in Figure. If the document is not in the current directory, the complete path will be shown with the file name.
+2. Click on the name of the file you want to open, or press the number next to the filename.
+&lt;b&gt;D. Closing a Document&lt;/b&gt;
+To close a document follow the gievn steps :-
+1. Click on the File menu from menu bar.
+2. Then click on the Close option in the file menu to close the document. 
+It will remove the document from the document window. If the document was changed after last save, it will prompt to save the changes.
+&lt;b&gt;E. Quitting Word&lt;/b&gt;
+When you have finished using Word, you will like to exit the MS-Word application and return to the Desktop. You can save a document and exit Word using a single dialog box.
+ &lt;b&gt;To exit Word&lt;/b&gt;
+1. Select the  File Menu. 
+2. Then click on the Exit option (present as the last option ) in the file menu.
+&lt;b&gt;Note:&lt;/b&gt; If you made any changes to the document since you last saved it, a dialog box will appear asking, if you want to save the document before closing. Select Yes to save the document, No not to save it, or Cancel to remain in Word.
+</topic>
+<topic name="3.3.2 Save and Save As" imgName="images\chapter03\3.3.2.swf">&lt;b&gt;Save and Save As option&lt;/b&gt;
+&lt;b&gt;A. Save a document with Save Button&lt;/b&gt;
+To quickly save a document, click Save button  on the Standard toolbar. To save a document in a different location or with a different name use the Save As option instead. 
+&lt;b&gt;B. Save a document with Save option in File Menu.&lt;/b&gt;
+When you save a document for the first time, you must give it a name. Document names can be upto 255 characters long. It can contain uppercase and lowercase letters, spaces but cannot contain punctuation other than underscores. Filenames are not case sensitive. 
+&lt;b&gt;C. To save your document for the first time&lt;/b&gt;
+1. Select File --> Save As or File --> Save (Ctrl+S) to display the Save As dialog box as shown in Figure .
+2.Type a document name. When Word saves a document, it automatically adds the extension &lt;i&gt;.DOC&lt;/i&gt;. If you want to save the file in another directory or another drive type the complete path alongwith filename yourself or open the desired drive and/or folder by double clicking it.
+3. Select OK. The document's name will appear in the Title Bar.
+&lt;b&gt;Note:&lt;/b&gt;Once you have saved your document, you can save it again by selecting File --> Save (Ctrl+S). The Save As dialog box will not appear. 
+&lt;b&gt;D. Save a copy of a document With Save as Option&lt;/b&gt;
+1. Open the document you want to make a copy of.
+2. On the File menu, click Save As.   
+3. If you want to save the document in a different folder, locate and open the folder.
+4. In the File name box, type a new name for the document.
+5. Click Save. 
+</topic>
+<topic name="3.3.3 Page Setup"pageNo="1" totalPage="2" imgName="images\chapter03\3.3.3pg1.swf">&lt;b&gt;Page Setup&lt;/b&gt;
+The margins and the printed text&#8217;s position on the page can make or spoil the looks of your entire document. That&#8217;s why you should pay a considerable amount of attention to these things. Microsoft Word places all the page setup controls in one convenient place in the Page Setup dialog box, where you can make all your changes. 
+&lt;b&gt;Steps to open Page Setup Option:&lt;/b&gt;
+From the File menu select Page Set up and then double click with your mouse on options like Margins,Paper Size,Paper Layout etc. to open relevant options and make changes to them.
+&lt;b&gt;Orientation Setting&lt;/b&gt;
+Paper orientation can be set to Horizontal or Landscape. The option for the same is available under &lt;i&gt;Paper Size&lt;/i&gt; tab of the Page Set Up Dialog Box.
+The default page orientation in Word is &lt;u&gt;Portrait mode&lt;/u&gt;. Portrait mode means the page is longer than it is wide. 
+When you are working with charts, you may want to turn the page so the horizontal edge is longer than the vertical edge. Then for this you can use the &lt;u&gt;Landscape mode&lt;/u&gt;. 
+</topic>
+<topic name="3.3.3 Page Setup"pageNo="2" totalPage="2" imgName="images\chapter03\3.3.3pg2.swf">&lt;b&gt;Changing the Margins in Word&lt;/b&gt;
+When the Page Setup dialog box appears, click on the &lt;u&gt;Margins Tab&lt;/u&gt; to change the margins. Word presents you with numerous options for the same. 
+In the Top, Bottom, Left, and Right selection boxes under the Margins section, highlight the entry you would like to change.
+Enter a new number (you do not need to include the ") for the distance in inches you want the text to be, from the respective edges of the document page. You can also use the arrows to increase or decrease the margins in increments predefined by Word.
+The Page Setup box also gives you the option of changing the gutter (Binding Space left on the Left Hand Side of a document in addition to Left Margin).
+&lt;b&gt;Note:&lt;/b&gt; When setting your margins, please note that most printers require about a half inch margin all the way around the page to print correctly; if you specify margins outside the printable area of the page, you will receive a warning message when you attempt to print the document.
+</topic>
+<topic name="3.3.4 Print Preview" imgName="images\chapter03\3.3.4.swf">&lt;b&gt;Previewing A Document Before Printing&lt;/b&gt;
+Print Preview displays one or more entire pages at one time. You can adjust the left and right margins, and move text ups or down on the page. Use print preview to make minor changes to the overall page layout.
+&lt;b&gt;To Print Preview:&lt;/b&gt;           
+1. Select File option  from the file Menu --> then click the Print Preview option. The  figure shows a document in Print Preview display.
+2. The mouse pointer will appear as a small magnifying lens. To quickly enlarge a portion of the page, click on the text you want to enlarge.
+3. Select Close to return to the previous view.
+</topic>
+<topic name="3.3.5 Printing of Documents" pageNo="1" totalPage="2" imgName="images\chapter03\3.3.5pg1.swf">&lt;b&gt;Printing of Documents&lt;/b&gt;
+Word has many powerful printing features. You can print just the page you are working on, a bit of selected text, a series of selected pages, or the whole document. You can print just the odd or even pages, or print the document to a file on disk, or you can print multiple copies. To print a document you can use Standard Toolbar or the File Menu.
+&lt;b&gt; Method 1 : Standard Toolbar &lt;/b&gt; 
+If you  want a quick copy of your document, the process is easy. Just click the Print Button on the Standard Toolbar, it will print the current page.
+&lt;b&gt; Method 2 : File Menu &lt;/b&gt; 
+1. Make sure your printer is turned on and is ready for use.
+2. Select File --> Print (or press Ctrl+P) to display the Print dialog box. 
+3. Select OK.
+By default when we give print command , it prints current page. We can make any page as current by clicking on it. 
+</topic>
+<topic name="3.3.5 Printing of Documents" pageNo="2" totalPage="2" imgName="images\chapter03\3.3.5pg2.swf">&lt;b&gt;Print Selected Page or a Selected range of pages&lt;/b&gt;
+In order to print a range of pages you can follow the steps given below:
+1. On the File menu, click Print.
+2. Under Page range, specify the range of the document you want to print. 
+If you click Pages, you must also enter the page numbers or page ranges you want to include, or both. 
+&lt;b&gt;Print a portion of the document&lt;/b&gt;
+1. Select the portion of the document you want to print. 
+2. Click Print on the File menu, and then click Selection. 
+&lt;b&gt;Print more than one copy at a time&lt;/b&gt;
+For printing more than one copy at a time you can follow the steps given below:
+1. On the File menu, click-->Print.
+2. In the Number of copies box, enter the number of copies you want to print. 
+ 
+</topic>
+</section>
+<section name="3.4 Text Creation and Manipulation">
+<topic name="3.4.1 Document creation" imgName="images\chapter03\3.4.1.swf">Having learnt about the Word interface in the previous sections, it's time to get to work. In this chapter, you'll learn how to create a document first. As you've already seen, Word opens with a blank document already displayed, ready for editing. At this point, you have several choices: 
+You can start working in the blank document that's already open, entering text and other elements. When you have finished entering and editing the text, you can save the file. 
+You can start with one of Word's built-in templates, which may already contain some of the text and much of the formatting you need.
+Any time you want to create a new blank document, the quickest ways to do it are to click the New button on the Standard toolbar or to use the keyboard shortcut Ctrl+N.
+These commands create a blank document based on Word's default Normal template. If you use File, New instead, you can choose to create a document based on a different template.
+</topic>
+<topic name="3.4.2 Editing Text"pageNo="1" totalPage="2" imgName="images\chapter03\3.4.2pg1.swf">With Word, you can edit your document, making it perfect, before you print it. In fact, Word will even correct some of your mistakes as you're making them.  You can edit new documents as you type them or existing documents you've already saved. To edit an existing document, you must first open it, or recall it from the disk. Options for editing the text are available under &lt;i&gt;Edit Menu&lt;/i&gt; . Some of the tools available on &lt;i&gt;Standard Toolbar&lt;/i&gt; are also helpful in editing as you will learn in the coming up sections of this chapter. 
+&lt;b&gt;Using Undo And Redo&lt;/b&gt;
+If you erase text by mistake, you can restore it without retyping. Word remembers all of the editing you perform during a session, so you can "undo" almost every action you perform, if you undo an action, then change your mind again, you can instantly "redo" it.
+&lt;b&gt;To undo an action&lt;/b&gt; :
+1) Pull down the Undo button in the Standard Toolbar. A list of your actions will be displayed. The item at the top of the list is the last action you performed.
+2) Click on the item you want to undo.
+3) If you change your mind after undoing the item, pull down the Redo button. A list of your previous undo's will be listed. Click on the item you want to redo.
+4) You can also choose undo and redo options from the Edit Menu 
+</topic>
+<topic name="3.4.2 Editing Text"pageNo="2" totalPage="2" imgName="images\chapter03\3.4.2pg2.swf">&lt;b&gt;Searching For Text&lt;/b&gt;
+If you spend a lot of time scrolling through documents looking for a particular word or phrase, you can save time by using Word's &lt;i&gt;Find feature&lt;/i&gt;. Word can search on entire document for a specific set of characters in seconds.
+&lt;b&gt;To locate specific text &lt;/b&gt;:
+1. Move the insertion point to the location where you want the search to begin. To search the entire document, press Ctrl+Home before searching.
+2. Select Edit > Find (Ctrl+F) to display the Find dialog box.
+3. Type the characters you want to locate.
+4. Press Enter or select Find Next to begin the search.
+Word will highlight the next occurrence of the text. The Find dialog box remains on the screen after Word locate the text. To find the next occurrence of the same text, select find next.
+If the text is not found, a dialog box appears with the message that the search item was not found. Select OK or press Enter to remove message-the insertion point will be in its original position.
+&lt;b&gt;Replacing Text Automatically&lt;/b&gt;
+Have you ever misspelled the same word several times in one document or realized that you entered the wrong information in several places?
+In situations like this, you can use the Replace command to automatically locate any text and replace it with something else. To replace text automatically:
+1. Move the insertion point to the location where you want the replacements to begin.
+2. Select Edit>Replace (Ctrl+H) to display the Replace dialog box. You can also select Replace from the Find dialog box.
+3. Type the text you wish to replace, then press Tab.
+4. Type the text you want to insert.
+5. Select Replace All.
+6. A dialog box will appear, reporting that all matching text has been replaced. Select OK to remove the message, then close the Replace dialog box.
+
+
+</topic>
+<topic name="3.4.3 Text Selection" imgName="images\chapter03\3.4.3.swf">&lt;b&gt;Selecting Text for many editing functions&lt;/b&gt;
+You must select text or highlight it, which makes the characters appear light on a dark background. Once you select text, you can easily delete it, copy it, move it to another location, or change its appearance.
+&lt;b&gt;To select text by dragging the mouse&lt;/b&gt;:
+1. Place the mouse pointer at one end of the text.
+2. Hold down the left mouse button
+3. Move the pointer to highlight the desired amount of text while you hold down the left button.
+4. Release the mouse button. 
+&lt;b&gt;To select text by clicking the mouse:&lt;/b&gt;
+You can accomplish this task in any of the following two ways :-
+1. Point to a word and click twice to select it; click three times to select the entire paragraph.
+2. Click in the left margin once to select the line, twice to select the paragraph, three times to select the document, or drag the mouse to select consecutive lines.
+To select entire document press CTRL A or Edit--> Select All.
+&lt;b&gt;To De-select text&lt;/b&gt;
+To deselect all highlighted text quickly, just click the mouse.
+</topic>
+<topic name="3.4.4  Cut, Copy, Paste"pageNo="1" totalPage="2" imgName="images\chapter03\3.4.4pg1.swf">&lt;b&gt;Moving Text With Cut And Paste&lt;/b&gt;
+You may want to move text using the Cut and Paste commands . You'll need to use Cut and Paste to move text between document windows that are not displayed simultaneously.
+ To Cut and Paste text follow these steps:
+1. Select the text you want to move.
+2. Click the right mouse button to display the Shortcut menu, then select CUT. The text disappears from the screen. You can also select Edit > Cut (or press Ctrl+X).
+3. Position the insertion point where you want to place the text. If you decide not to move the text, place the insertion point at its original location.
+4. Click the right mouse button to display the Shortcut menu shown in the figure and  select Paste.
+You can also insert the text by selecting Edit > Paste, or pressing Ctrl + V.
+</topic>
+<topic name="3.4.4  Cut, Copy, Paste" pageNo="2" totalPage="2" imgName="images\chapter03\3.4.4pg2.swf">&lt;b&gt;Copying Text With Copy And Paste&lt;/b&gt;
+You can also copy text from the Shortcut menu or the Edit menu. The original text is not deleted from the document. You can copy as much text as you want, and as many times as you want.
+&lt;b&gt;To Copy and Paste text:&lt;/b&gt;
+1. Select the text you want to copy.
+2. Click the right mouse button to display the Quick menu, then select Copy, or select Edit -->Copy (Ctrl + C).
+3. Position the insertion point where you want to place a duplicate copy of the text.
+4. Click the right mouse button to display the Quick menu and select Paste.
+</topic>
+<topic name="3.4.5 Font and Size Selection"  imgName="images\chapter03\3.4.5.swf">&lt;b&gt;Font and Size Selection&lt;/b&gt;
+&lt;b&gt;Changing Type Fonts And Sizes With The Toolbar&lt;/b&gt;
+A&lt;u&gt; font&lt;/u&gt; refers to the general shape or design of the characters. You can select from all of the fonts built into your printer, as well as the True Type and other scaleable fonts installed in Windows. 
+&lt;b&gt;To change font with the Toolbar:&lt;/b&gt;
+1. Click on Font Name dropdown list box to display a  list of available fonts.
+2. Click on the desired Font. Scroll the list, if necessary.
+&lt;b&gt;To  change the size with the Toolbar:&lt;/b&gt;
+1. Click on the Font Size dropdown  list box to display a list of point sizes for the selected font.
+2. Click on the desired size.
+3. Type the text you want in that font and size.
+&lt;b&gt;  Using The Font Dialog Box&lt;/b&gt;
+As an alternative to using the tools available on the Formatting Toolbar, you can change character formats, fonts, and sizes with the Font dialog box available in the &lt;i&gt;Format Menu&lt;/i&gt;. The Font dialog box lets you select some special effects, such as strikethrough and small caps, which are not available in the Formatting Toolbar. The Font Dialog Box also contains a small subwindow called &lt;i&gt;Preview&lt;/i&gt; which shows you effect/preview of your selected Font options immediately.
+&lt;b&gt;To change character styles with the Font dialog box :-&lt;/b&gt;
+1. Select Format Menu from the Menu Bar.
+2. Select the Font option. On selection, MS-Word displays the FONT dialog box. 
+3. Select a font from the Font list.
+4. Select a style from the Font Style list.
+5. Select the size from the Size list.
+6. Select other font attributes. 
+7. Select OK.
+Then type the text you want in that font and size.
+&lt;b&gt;Other options of the Font Dialog box :-&lt;/b&gt;
+Strikethrough - Draws a line through the selected text
+Double strikethrough - Draws a double line through the selected text
+Superscript - Raises the selected text above the baseline
+Subscript - Lowers the selected text below the baseline
+Shadow - Adds a shadow behind the selected text
+Outline - Displays the inner and outer borders of each character
+Emboss - Makes the selected text appear as if it is raised off the page.
+Engrave - Makes the selected text appear imprinted or pressed into the page.
+Small Caps - Formats selected lowercase text as capital characters and reduce their size
+All Caps - Formats selected lowercase text as capital characters and reduce their size
+Hidden - Prevents selected text from being displayed and printed.
+</topic>
+<topic name="3.4.6 Alignment of text"pageNo="1" totalPage="2" imgName="images\chapter03\3.4.6pg1.swf"> Alignment of Text can be of four types viz. Center,Left,Right and Justify.
+&lt;b&gt;Left aligning the text&lt;/b&gt;
+This is the default alignment option of text in MS-Word. You can change the text alignment to the left hand side margin only if the text is aligned as Center or justified or it is right aligned. To do so, select the desired text to be aligned and then press CTRL+L. You can also use the Left Alignment Tool available on the Formatting Toolbar.
+&lt;b&gt;Centering Text&lt;/b&gt;
+Titles and subtitles often look best when centered between the left and right margins. They provide a break in the text and call attention to a change in subject or purpose.
+&lt;b&gt;To center a title or line of text:&lt;/b&gt;
+1. Place the insertion point at the start of the line.
+2. Press Ctrl+E. The insertion point moves to the center of the screen.
+3. Type the text you want centered.
+4. Press Enter.
+You can also use the Centre Alignment Tool available on the Formatting Toolbar.
+</topic>
+<topic name="3.4.6 Alignment of text"pageNo="2" totalPage="2" imgName="images\chapter03\3.4.6pg2.swf">&lt;b&gt;To right align existing text:&lt;/b&gt;
+To right align a single paragraph, place the insertion anywhere in the paragraph and press Ctrl+R or use Right Alignment Tool available on the Formatting Toolbar.
+&lt;b&gt;Creating Full Justification&lt;/b&gt;
+When you fully justify text, extra spaces are inserted between words to align your text along both margins at the same time. Word justifies every line of a paragraph except those that end in a hard carriage return usually the last line.
+&lt;b&gt;To justify text:&lt;/b&gt;
+1. Place the insertion point where you want justification to begin.
+2. Press Ctrl+J.
+Note : You can also select justified alignment from the Paragraph Indents and Spacing Dialog box. You can also use Justify Tool available on the Formatting Toolbar.
+3. Type the text, and press Enter. 
+</topic>
+</section>
+<section name="3.5 Formatting the text">
+<topic name="3.5.1 Paragraph Indenting" imgName="images\chapter03\3.5.1.swf">&lt;b&gt;Indenting Paragraphs&lt;/b&gt;
+ To indent the first line of a paragraph, just press the tab key. But you might want to indent a whole paragraph from the left margin, or from both the right and left margins as for a long quotation. 
+We can indent the paragraph in two ways:
+&gt;&lt;b&gt;Through ruler bar&lt;/b&gt;
+1. Select the paragraph.
+2. Then click at the ruler bar's &lt;i&gt;Left, Hanging, First Line Indent&lt;/i&gt; buttons that are placed together at the leftmost corner of the ruler bar.
+&gt;&lt;b&gt;Through Paragraph option of the Format Menu&lt;/b&gt;
+1. Select the desired paragraph.
+2. Select the Format Menu from the Menu Bar. 
+3. Select Paragraph option from the Format Menu.
+4. From &lt;i&gt;Indents and Spacing&lt;/i&gt; tab, choose an appropriate Alignment option.
+5. You can change the line spacing of your text also. To change the line spacing click at the &lt;i&gt;Line Spacing&lt;/i&gt; option. Select the specific line spacing such as Single,Double etc.
+</topic>
+<topic name="3.5.2 Bullets and Numbering" imgName="images\chapter03\3.5.2.swf">&lt;b&gt;Creating Bulleted And Numbered Lists&lt;/b&gt;
+If you are writing a list or outline, you can have Word insert the paragraph numbers and create the hanging indentation for you in one step. You can choose the type of number to insert, or select to mark paragraphs with small bullets(circles), arrows, diamonds, asterisks or whatever symbols you want.
+&lt;b&gt;To create a bulleted or numbered list:&lt;/b&gt;
+1. Select Format Menu from the Menu Bar.
+2. Select Bullets & Numbering to display the &lt;i&gt;Bullets & Numbering Dialog Box&lt;/i&gt;. 
+3. Select the &lt;i&gt;Bulleted, Numbered or Outline Numbered&lt;/i&gt; tab to see additional options.
+4. Click on the bullet style you want to use, then select OK. Word will insert the selected symbol, starting number or letter, and create a hanging indentation.
+4. Type the text. Each time you press Enter, Word inserts the symbol or the next number in sequence.
+To number or bullet existing text, select the text, then choose &lt;i&gt;Bullets & Numbering &lt;/i&gt; option from the Format Menu.
+</topic>
+<topic name="3.5.3 Changing Case" imgName="images\chapter03\3.5.3.swf">In order to vary the case of text follow the steps given below:
+1. Select the Format Menu from the Menu Bar.
+2. Select the text you want to change.
+3. On the Format menu, click Change Case.
+4. Click the Capitalization option you want. 
+You can use the &lt;i&gt;Sentence case&lt;/i&gt; option to make the first character of the sentence as Capital.
+Similarly, you can use the &lt;i&gt;Lowercase&lt;/i&gt; option to make the selected characters of the text as lower case.
+Further, the &lt;i&gt;Uppercase&lt;/i&gt; option lets you convert all the selected characters of the text as Upper case.
+The &lt;i&gt;Title case&lt;/i&gt; converts the Initial selected sentence characters into capital characters.
+With the help of &lt;i&gt;Toggle case&lt;/i&gt; option you can convert the selected text characters into lowercase from uppercase and vice versa.
+</topic>
+</section>
+<section name="3.6 Table Manipulation">
+<topic name=""  imgName="images\chapter03\3.6.swf">&lt;b&gt;Introduction to tables&lt;/b&gt;
+A table is made up of rows and columns of cells that you can fill with text and graphics. Tables are often used to organize and present information. For example:-
+- A list of students with their marks
+- A list of employees eligible for promotion
+- A list of subscribers whose subscription is expiring in a given month
+- A list of employees likely to retire in a given month, and so on.
+You can use tables to align numbers in columns, and then sort and perform calculations on them. 
+You can also use tables to create interesting page layouts and arrange text and graphics. Before creating a table, plan the number of rows and columns that you'll need. 
+</topic>
+<topic name="3.6.1 Draw Table" imgName="images\chapter03\3.6.1.swf">There are three methods to draw a table in MS-Word.
+&lt;b&gt;Method 1 : Through Standard Toolbar&lt;/b&gt;
+Point to the Insert Table button on the Toolbar and hold down the left mouse button. A miniature grid appears.The number of rows and columns that you fill in the grid, a table with the same dimension will be drawn in your document.
+&lt;b&gt;Method 2 : Through Insert Table option of Table Menu&lt;/b&gt;
+1. Open the Table Menu from the Menu Bar.
+2. Select Insert option from this menu.
+3. Mention the number of rows and columns in the dialog box. 
+&lt;b&gt;Method 3 : Through Draw Table option of Table Menu&lt;/b&gt;
+You can use the Draw Table option to quickly create a more complex table. Using Draw Table is similar to drawing a rectangle on graph paper. You can do this by following the steps given below: 
+1. Open the Table Menu from the Menu Bar.
+2. Select Draw Table option from this menu.
+3. Draw a line from one corner of the table to the corner diagonally opposite in order to define the boundary of the entire table
+4. Finally draw the column and row lines inside.
+</topic>
+<topic name="3.6.2 Changing Cell Width and Height" imgName="images\chapter03\3.6.2.swf">&lt;b&gt;Change the column width in a table&lt;/b&gt;
+You can do this task in two ways:
+&lt;b&gt;Method 1 : Using the Mouse&lt;/b&gt;
+ Rest the pointer on the column boundary you want to increase or decrease and then drag the boundary until the column reaches at the width you want. 
+&lt;b&gt;Method 2 : Using the Table Menu&lt;/b&gt;
+ To change a column width to a specific measurement 
+1. Click a cell in the column.
+2. On the Table menu, click Table Properties to open up the Table Properties Dialog Box.
+3. From the  Dialog Box, click the Column tab. Choose the options you want.
+&lt;b&gt;Change the row height in a table&lt;/b&gt;
+You can do this task in two ways:
+&lt;b&gt;Method 1 :Using the Mouse&lt;/b&gt;
+Rest the pointer on the row boundary you want to increase or decrease and then drag the boundary until the row  reaches at the height you want.
+&lt;b&gt;Method 2 :Using the Table Menu&lt;/b&gt;
+To change a row height to a specific measurement
+1.Click a cell in the row.
+2.On the Table menu, click Table Properties to open up the Table Properties Dialog Box..
+3.From the Dialog Box , then click the Row tab. Select the options you want.
+</topic>
+<topic name="3.6.3 Alignment of text in Cell" imgName="images\chapter03\3.6.3.swf">
+&lt;b&gt;Changing the position of text in a table&lt;/b&gt;
+ Changing the alignment of text in a table cell   By default, Word aligns text in a table to the upper left of a cell. You can change the alignment of text in a cell  both the vertical alignment (top, center, or bottom)through table properties  and the horizontal alignment (left, center, or right)through Formatting toolbar.
+Steps to do the vertical alignment through Table Properties are given below:
+1. Select the text from the table.
+2. Click at table from the file Menu.
+3. Then click at table properties. The Table properties dialog box will appear.
+4. Select any alignmnet such as Centre, Right etc.
+5. Then click at OK.
+Steps to do the horizontal alignment through Formatting Toolbar are given below:
+1. Select the text from the table.
+2. From formatting Toolbar select the corresponding alignment button such as Left ,Right,Centre etc.
+</topic>
+<topic name="3.6.4 Delete/insertion of row and columns" imgName="images\chapter03\3.6.4.swf">
+&lt;b&gt;Delete cells, rows, or columns from a table&lt;/b&gt;
+1. Select the cells, rows, or columns you want to delete.
+2. On the Table menu, point to Delete, and then click either Columns, Rows, or Cells.
+3. If you are deleting cells, then  click the option you want. 
+&lt;b&gt;Add rows or columns to a table&lt;/b&gt;
+1. Select the same number of rows or columns as the number of rows or columns you want to insert.
+2. Click on the Tables 
+3. Then click on insert
+4. Select either row option or column option. 
+&lt;b&gt;Notes:&lt;/b&gt;
+&gt;You can also use the Draw Table tool to draw the row or column where you want.
+&gt;To quickly add a row at the end of a table, click the last cell of the last row, and then press the TAB key.
+&gt;To add a column to the right of the last column in a table, click just outside the rightmost column. On the Table menu, point to Insert, and then click Columns to the Right. 
+</topic>
+<topic name="3.6.5 Borders for Table" imgName="images\chapter03\3.6.5.swf">&lt;b&gt;Add a border to a table&lt;/b&gt;
+There are two ways to add border to a table:
+&lt;b&gt;Method 1 With Borders and Shading option from the  Format Menu.:&lt;/b&gt;
+ Steps to Apply borders and shading using the Borders and Shading option under format menu are as follow: 
+1. To add a border to a table, click anywhere in the table or to add borders to specific cells, select the cells, including the end-of-cell mark. 
+2. In the Format menu, click Borders and Shading, and then click the Borders tab. 
+&lt;b&gt;Note:&lt;/b&gt;When you insert a table, it has a black ½-pt solid single-line border by default. Use the Style, Color, and Width options to add a different border. 
+3. Make sure the correct option Table or Cell is selected under Apply to option. Select the other options you want. 
+&lt;b&gt;Method 2: With Table Autoformat option from the Table Menu  &lt;/b&gt; 
+1. Click the table.
+2. On the Table menu, click Table AutoFormat.
+3. In the Formats box, click the format you want.
+4. Select the options you want.The table will be foramtted in accordance with the option selected.
+</topic>
+</section>
+<section name="3.7 Summary">
+<topic name="" imgName="images\chapter03\chap3_sum.swf">
+In this chapter, you have learnt about computer aided documentation using MS-Word. 
+1. MS-Word can be used to create, edit and print documents.
+2. It provides user friendly interface comprising of Menus and Toolbars.
+3. It contains powerful editing features like Undo,Redo, Find& Replace etc. for making changes.
+4. To generate lists, you can make use of various types of bullets.
+5. To enhance looks of your document, there are various formatting options.
+6. To tabulate information and for simple calculations, you can make use of Tables.
+</topic>
+</section>
+<section name="3.8 Quiz">
+<topic name="Model Questions and Answers" display="fullScreen" imgName="quiz.swf"> 
+</topic>
+</section>
+</chapter>
+

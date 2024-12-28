@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<!DOCTYPE quiz [
+	<!ELEMENT quiz (title, items)>
+	<!ELEMENT title (#PCDATA)>
+	<!ELEMENT items (item)+>	
+	<!ELEMENT item (question, answer, answer+)>
+	<!ELEMENT question (#PCDATA)>
+	<!ELEMENT answer (#PCDATA)>
+	<!ATTLIST answer correct (y) #IMPLIED>
+]>
+<quiz>
+	<items>
+		<item>
+			<question>1. E-mail systems are based on a _____________ model.  </question>
+			<answer>send-receive</answer>
+			<answer>play-replay</answer>
+			<answer>go-return</answer>
+			<answer correct="y">store-forward</answer>
+		</item>
+		<item>
+			<question>2.  __________ is a computer program used to manage email.</question>
+			<answer>Yahoo Client</answer>
+			<answer correct="y">E-Mail Client</answer>
+			<answer>Internet Client</answer>
+			<answer>Computer Client</answer>
+		</item>		
+		
+		<item>
+			<question>3.Mail Addresses are obtained when you click at ______ option in the home page of these websites.</question>
+			<answer>Login</answer>
+			<answer correct="y">Sign Up</answer>			
+			<answer>Logout</answer>
+			<answer>Sign Out</answer>
+			
+		</item>		
+		<item>
+			<question>4. __________is a commonly-used term that refers to unsolicited emails. </question>
+			<answer>Blog</answer>
+			<answer>Sent Mail</answer>
+			<answer>Bulk</answer>
+			<answer correct="y">Spam</answer>
+		</item>		
+		<item>
+			<question>5.Other name for a smiley is ________.</question>
+			<answer>Icon</answer>
+			<answer>Folder</answer>
+			<answer correct="y">Emoticon</answer>			
+			<answer>Directory</answer>
+			
+		</item>		
+ 
+	</items>
+</quiz>
